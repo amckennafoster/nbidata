@@ -37,6 +37,15 @@
 
     <main id="content" class="main-content" role="main">
       {{ content }}
+          <div class="container">
+    <div class="row">
+      <!-- sidebar, which will move to the top on a small screen -->
+      <div class="col-sm-3">
+        <p>some text</p>
+      </div>
+      <!-- main content area -->
+      <div class="col-sm-9">...</div>
+    </div>
 
       <footer class="site-footer">
         {% if site.github.is_project_page %}
