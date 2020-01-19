@@ -9,9 +9,9 @@ body {
 
 .sidenav {
   width: 130px;
-  position: fixed;
+  position: absolute;
   z-index: 1;
-  top: 20px;
+  top: 10px;
   left: 10px;
   background: #eee;
   overflow-x: hidden;
