@@ -11,6 +11,7 @@ body {
   width: 130px;
   position: absolute;
   z-index: 1;
+  left: 10
   background: #eee;
   overflow-x: hidden;
   padding: 8px 0;
@@ -30,11 +31,11 @@ body {
 
 .main {
   margin-left: 140px; /* Same width as the sidebar + left position in px */
-  font-size: 28px; /* Increased text to enable scrolling */
+  font-size: 12px; /* Increased text to enable scrolling */
   padding: 0px 10px;
 }
 
 @media screen and (max-height: 450px) {
   .sidenav {padding-top: 15px;}
-  .sidenav a {font-size: 18px;}
+  .sidenav a {font-size: 10px;}
 }
