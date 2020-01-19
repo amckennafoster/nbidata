@@ -27,6 +27,10 @@ body {
   color: #000000;
 }
 
+.sidenav a.active {
+  color: #000000;
+}
+
 .main {
   margin-left: 140px; /* Same width as the sidebar + left position in px */
   font-size: 12px; /* Increased text to enable scrolling */
