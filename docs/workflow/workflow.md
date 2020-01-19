@@ -1,3 +1,7 @@
+---
+permalink: /workflow/
+---
+
 ## We will add workflow documentation here
 
 
