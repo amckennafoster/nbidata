@@ -6,9 +6,9 @@ whatever text
 _Science is awesome_
 **Science should be free**
 
-*one
-*two
-*three
-  *three a
+* one
+* two
+* three
+  * three a
   
-  (Wikipedia)(http://www.wikipedia/org)
+[Wikipedia](http://www.wikipedia/org)
