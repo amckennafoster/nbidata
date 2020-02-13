@@ -1,5 +1,5 @@
 ---
-permalink: /FAQ/
+permalink: /faq/
 ---
 
 
