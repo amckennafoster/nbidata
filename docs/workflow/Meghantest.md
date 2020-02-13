@@ -1,3 +1,8 @@
+---
+permalink: /workflow/
+---
+
+
 # Title
 ## Subtitle
 ### Sub Subtitle
