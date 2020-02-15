@@ -6,7 +6,7 @@
 
 #mainlogo {
 position: absolute;
-height: 69px;
+height: 75px;
 width: 100px;
 left: 10px;
 top: 10px;
@@ -17,7 +17,7 @@ z-index: 1;
 
 .dropbtn {
   background-color: #4D5656;
-  color: #F4F6F6;
+  color: #4D5656;
   padding: 18px;
   font-size: 18px;
   border: none;
@@ -31,14 +31,14 @@ z-index: 1;
 .dropdown-content {
   display: none;
   position: absolute;
-  background-color: #717D7E;
+  background-color: #D5DBDB;
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
 }
 
 .dropdown-content a {
-  color: black;
+  color: #4D5656;
   padding: 12px 16px;
   text-decoration: none;
   display: block;
@@ -48,4 +48,4 @@ z-index: 1;
 
 .dropdown:hover .dropdown-content {display: block;}
 
-.dropdown:hover .dropbtn {background-color: #3e8e41;}
+.dropdown:hover .dropbtn {background-color: #4D5656;}
