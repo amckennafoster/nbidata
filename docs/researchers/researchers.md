@@ -1,5 +1,5 @@
 ---
-permalink: /researcher/
+permalink: /researchers/
 ---
 
 
