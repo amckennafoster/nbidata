@@ -14,9 +14,9 @@ Submitting dataset(s) with your report whenever possible is important to further
 
 Open science is now the norm across most fields. Read more about the benefits and strategies:
 
-[Open science challenges, benefits and tips in early career and beyond. Allen and Mehler 2019](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000246)
+[Open science challenges, benefits and tips in early career and beyond.](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000246) Allen and Mehler 2019
 
-[Improving Openness and Reproducibility of Scientific Research. Nosek Center for Open Science presentation](https://www.nsf.gov/attachments/132722/public/EHR_ACslides3.pdf)
+[Improving Openness and Reproducibility of Scientific Research.](https://www.nsf.gov/attachments/132722/public/EHR_ACslides3.pdf)  Nosek Center for Open Science presentation
 
 ---
 
@@ -50,6 +50,7 @@ Your data will be used by other researchers, students, and anyone else! The meta
 Here are some examples:
 
 https://zenodo.org/record/2611152#.XkTacyP9l1s
+
 https://zenodo.org/record/125594#.XkTaLyP9l1s
 
 ---

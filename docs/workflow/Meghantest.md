@@ -18,4 +18,10 @@ _Science is awesome_
   
 [Wikipedia](http://www.wikipedia/org)
 
+![alt text](../assets/images/workflow.jpg "Workflow diagram")
+
+
+
+![alt text](/assets/images/workflow.jpg "Workflow diagram")
+
 

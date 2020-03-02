@@ -19,8 +19,6 @@ Use the following guidelines to curate each dataset. Information from the [flatt
 ## Data Dictionary
 Create a csv file in your favorite spreadsheet program. The data dictionary will define the variables used in all the data files uploaded as one package, under one doi.  If you have a dataset with more than one data table that each have many of the same variables (e.g. survey data and trap data for the same study subject), make each table its own csv file and list all the variables from each file in the data dictionary file.
 Add the following columns to dataDictionary:
-|Variable |Type  |Description   |Units   |Allowed Values   |Notes|
-|:---:|:---:|:---:|:---:|:---:|:---:|
 
 - Variable = Variable (column) name
 - Type = string, numeric, date, etc
