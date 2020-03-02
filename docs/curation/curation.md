@@ -20,12 +20,13 @@ Use the following guidelines to curate each dataset. Information from the [flatt
 Create a csv file in your favorite spreadsheet program. The data dictionary will define the variables used in all the data files uploaded as one package, under one doi.  If you have a dataset with more than one data table that each have many of the same variables (e.g. survey data and trap data for the same study subject), make each table its own csv file and list all the variables from each file in the data dictionary file.
 Add the following columns to dataDictionary:
 |Variable |Type  |Description   |Units   |Allowed Values   |Notes|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 
-	- Variable = Variable (column) name
-	- Type = string, numeric, date, etc
-	- Description = A brief description of the variable
-	- Units = Units for the variable (e.g. meters). If a string, use 'none'
-	- Allowed Values = For variables that have a discrete list of values that number fewer than 50, list them here alphabetically, spearated by commas. For continuous data types, use 'Any'
+- Variable = Variable (column) name
+- Type = string, numeric, date, etc
+- Description = A brief description of the variable
+- Units = Units for the variable (e.g. meters). If a string, use 'none'
+- Allowed Values = For variables that have a discrete list of values that number fewer than 50, list them here alphabetically, spearated by commas. For continuous data types, use 'Any'
 	- Notes = Add any other useful information to help some one understand the values or the variable.
 
 ## Tidy Data
