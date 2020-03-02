@@ -21,7 +21,7 @@ _Science is awesome_
   
 [Wikipedia](http://www.wikipedia/org)
 
-![alt text](../assets/images/workflow.jpg "Workflow diagram")
+![alt text](https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/docs/assets/images/workflow.jpeg "Workflow diagram")
 
 
 
