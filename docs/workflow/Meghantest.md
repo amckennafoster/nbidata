@@ -1,6 +1,9 @@
 ---
 permalink: /workflow/
 ---
+<div class="dropbtn"><p>test button</p>
+
+</div>
 
 
 # Workflow Documentation
@@ -22,6 +25,6 @@ _Science is awesome_
 
 
 
-![alt text](/assets/images/workflow.jpg "Workflow diagram")
+![alt text](https://nantucketbiodiversity.github.io/NBIdigitalrepo/docs/assets/images/workflow.jpg "Workflow diagram")
 
 
