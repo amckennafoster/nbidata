@@ -2,7 +2,6 @@
 permalink: /curation/
 ---
 
-
 # Curation Protocol
 
 Use the following guidelines to curate each dataset. Information from the [flattenedFauna](https://app.gitbook.com/@flattenedfauna/s/practice-space/) project informed this protocol. 

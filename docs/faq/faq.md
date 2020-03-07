@@ -2,7 +2,6 @@
 permalink: /faq/
 ---
 
-
 # Frequenly Asked Questions
 
 ### Overview

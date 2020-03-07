@@ -1,5 +1,6 @@
 ---
 permalink: /workflow/
+layout: curators
 ---
 
 # Workflow
@@ -23,7 +24,7 @@ Assist researchers with metadata and data curation to ensure high quality resour
 5. Upload research outputs once a year.
 
 
-![An overview of how research outputs move from researcher to the Zenodo repository](https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/docs/assets/images/workflow.jpeg "Workflow diagram"){:height="50%" width="50%"}
+[![An overview of how research outputs move from researcher to the Zenodo repository]([https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/docs/assets/images/workflow.jpeg "Workflow diagram"){:height="50%" width="50%"}](https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/docs/assets/images/workflow.jpeg)
 
 ## Collecting Reports and Datasets
 
