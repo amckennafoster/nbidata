@@ -1,5 +1,5 @@
 ---
-permalink: /workflow/
+permalink: /meghan/
 ---
 <div class="dropbtn"><p>test button</p>
 
@@ -26,5 +26,5 @@ _Science is awesome_
 
 
 ![alt text](https://nantucketbiodiversity.github.io/NBIdigitalrepo/docs/assets/images/workflow.jpg "Workflow diagram")
-
+https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/docs/assets/images/workflow.jpeg
 
