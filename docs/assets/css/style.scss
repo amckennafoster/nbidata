@@ -6,8 +6,8 @@
 
 #mainlogo {
 position: absolute;
-height: 75px;
-width: 100px;
+height: 97px;
+width: 140px;
 left: 10px;
 top: 10px;
 display: block;
@@ -52,18 +52,20 @@ z-index: 1;
 
 .curatorNav {
 	text-align: center; 
-	margin-right: 50px; 
-	background-color: white;
+	margin-right: 50px;
+	margin-top: 3px;
+	background-color: #8f9090;
 	color: black;
-	padding: 1px;
+	padding: 5px;
 	font-size: 1em;
 	border: none;
 	height:20px;
 }
 
 .curatorBtn {
-  background-color: #4D5656;
+  background-color: #4276b6;
   color: #F4F6F6;
-  padding: 2px;
+  padding: 5px;
   border: none;
+  border-radius: 5px;
 }
