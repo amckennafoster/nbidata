@@ -1,6 +1,26 @@
 ---
 ---
 
+This will allow you to control menu plaement based on what page layout you're on.
+Add this script to the bottom of the layout html file
+<!--Code from w3schools.  This makes the menu stick to the top of the page on scroll-->
+	<!--https://www.w3schools.com/howto/howto_js_sticky_header.asp-->
+<!--	<script>
+window.onscroll = function() {myFunction()};
+
+var header = document.getElementById("banner");
+var sticky = header.offsetTop;
+
+function myFunction() {
+  if (window.pageYOffset > sticky) {
+    header.classList.add("sticky");
+  } else {
+    header.classList.remove("sticky");
+  }
+}
+</script>-->
+
+
 @import 'jekyll-theme-leap-day';
 
 
