@@ -18,12 +18,12 @@ Use the following guidelines to curate each dataset. Information from the [flatt
 Tidy data is important because it is easy to read and facilitates analysis and summarization. 
 
 It has the following characteristics.
-- Data are in a stacked format.  This means that variables are the columns and observations are the rows.
+- Data are in a [stacked format](https://www.displayr.com/what-is-data-stacking/).  This means that variables are the columns and observations are the rows.
 - Each cell contains only one piece of information (e.g. rather than 'Garden 015', 'Garden' should be in a location column and '015' should be in a plot column.)
 
 ## Cleaning Data
 General
-- Remove leading zeros and consecutive white spaces
+- Remove leading zeros and consecutive white spaces ([OpenRefine](https://openrefine.org/) is a great tool for this)
 - Correct all misspellings
 	- Extract all the unique values for a column and check for variation. After corrections, use this list in the data dictionary, if approporiate.
 - Normalize capitalization within columns
@@ -51,6 +51,8 @@ Date and Time
   - hh:mm:ss (24-hour clock system) 
 
 ## Data Dictionary
+[Data dictionaries](https://help.osf.io/hc/en-us/articles/360019739054-How-to-Make-a-Data-Dictionary) tell users what the column names mean, what the data values mean, and anything else that would help someone use the data wisely.
+
 Create a csv file in your favorite spreadsheet program. The data dictionary will define the variables used in all the data files uploaded as one package, under one doi.  If you have a dataset with more than one data table that each have many of the same variables (e.g. survey data and trap data for the same study subject), make each table its own csv file and list all the variables from each file in the data dictionary file.
 Add the following columns to dataDictionary:
 
@@ -60,3 +62,6 @@ Add the following columns to dataDictionary:
 - Units = Units for the variable (e.g. meters). If a string, use 'none'
 - Allowed Values = For variables that have a discrete list of values that number fewer than 50, list them here alphabetically, spearated by commas. For continuous data types, use 'Any'
 - Notes = Add any other useful information to help some one understand the values or the variable.
+
+## Next Steps
+Save the curated datasets and the data dactionary in the same folder.  The next step is to [apply metadata.](https://{{site.baseurl}}/metadata/).
