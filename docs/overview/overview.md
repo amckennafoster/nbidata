@@ -1,8 +1,9 @@
 ---
-permalink: /faq/
+permalink: /overview/
+layout: researchers
 ---
 
-# Frequenly Asked Questions
+# Overview of the NBI Digital Repository
 
 ### Overview
 NBI is developing a digital repository for reports and datasets produced by NBI funded research. The result will be a searchable database of reports and datasets. All files will receive digital object identifiers (DOI) making them easily citable. 

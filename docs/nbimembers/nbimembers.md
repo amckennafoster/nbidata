@@ -1,7 +1,0 @@
-
----
-permalink: /nbimembers/
----
-
-
-# NBI Members
