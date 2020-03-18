@@ -1,10 +1,8 @@
-
 ---
 permalink: /usingData/
-layout: curators
+layout: researchers
 ---
 
-# Guidelines for using data
+# How to Use Data from the NBI Data Repository
 
 ## In Progress
-
