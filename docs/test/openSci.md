@@ -1,5 +1,5 @@
 ---
-permalink: /openSci/
+permalink: /test/
 layout: researchers
 ---
 
