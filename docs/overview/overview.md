@@ -3,12 +3,12 @@ permalink: /overview/
 layout: researchers
 ---
 
-<span style="color: blue; font-size: 1.5em">Note: This site is under development and will be complete by June 2020. Please forgive broken links or empty pages</span>
+<span style="color: blue; font-size: 1.5em">Note: This site is under development and will be complete by June 2020. Please forgive broken links or empty pages as you click around.</span>
 
 # Overview of the NBI Digital Repository
 
 ### Overview
-NBI is developing a digital repository for reports and datasets produced by NBI funded research. The result will be a searchable database of reports and datasets. All files will receive digital object identifiers (DOI) making them easily citable. 
+NBI is developing a digital repository for reports and datasets produced by NBI funded research. The result will be a searchable database of reports and datasets, all free to download. All files will receive digital object identifiers (DOI) making them easily citable. 
 
 **The digital repository will indefinitely preserve the work that you as a researcher have completed as an NBI grantee.**
 
@@ -51,9 +51,11 @@ Your data will be used by other researchers, students, and anyone else! The meta
 
 Here are some examples:
 
-[https://zenodo.org/record/2611152#.XkTacyP9l1s](https://zenodo.org/record/2611152#.XkTacyP9l1s)
+[Pick, Postma, and Tschirren - Prenatal maternal investment in Japanese quail](https://zenodo.org/record/2611152#.XkTacyP9l1s)
 
-[https://zenodo.org/record/125594#.XkTaLyP9l1s](https://zenodo.org/record/125594#.XkTaLyP9l1s)
+[Zizka 2016 - Rare species list in the Neotropics](https://zenodo.org/record/125594#.XkTaLyP9l1s)
+
+Here is the currently empty NBI repository: [https://zenodo.org/communities/nantucketbiodiversity/](https://zenodo.org/communities/nantucketbiodiversity/)
 
 ---
 
@@ -61,9 +63,9 @@ Here are some examples:
 
 The repository is hosted on [Zenodo](https://about.zenodo.org). Zenodo was developed and is maintained by CERN, the organization that runs the massive particle accelerator in Europe. CERN developed a digital repository for the huge amounts of data produced by the accelerator and opened the repository to all scientists.  You can read the [repository policies here](https://about.zenodo.org/policies/).
 
-The NBI Repository is one Community (a organized set of uploaded files) of many on Zenodo.
+The [NBI Repository](https://zenodo.org/communities/nantucketbiodiversity/) is a Community (a organized set of uploaded files) of many on Zenodo.
 
-Zenodo is free and open source.  The source code is on Github (as is all the supporting documentation for the NBI Repository!) 
+Zenodo is free and open source.  The source code is on Github (as is all the <a href="{{ site.github.repository_url }}" class="button fork"><strong>supporting documentation</strong></a> for the NBI Repository!) 
 
 
 
