@@ -13,21 +13,20 @@ The assets/css folder contains the css file with customization for the sidebar n
 
 For a markup file to show up within the website, the header needs to have, at the least, the following:
 
-  --- (three dashes)
+  (three dashes) --- 
   
   permalink: [pagename]/
   
-  --- (three dashes)
-  
-  For each section of the guide, create a new folder in the docs/ folder.  Do not capitalize the folder name.
-  
+  (three dashes) ---  
 
+For each section of the guide, create a new folder in the docs/ folder.  Do not capitalize the folder name.
+  
 For pages with specific process or curation information put the following at the top of the md file:
----
+
+(three dashes) ---
 permalink: /[linkname]/
-layout: curators
-title: Digital Repository Documentation
----
+layout: curators OR researcher OR do not include this line
+(three dashes) ---
 
 
 
