@@ -3,6 +3,8 @@ permalink: /overview/
 layout: researchers
 ---
 
+<span style="color: blue; font-size: 1.5em">Note: This site is under development and will be complete by June 2020. Please forgive broken links or empty pages</span>
+
 # Overview of the NBI Digital Repository
 
 ### Overview
@@ -49,15 +51,15 @@ Your data will be used by other researchers, students, and anyone else! The meta
 
 Here are some examples:
 
-https://zenodo.org/record/2611152#.XkTacyP9l1s
+[https://zenodo.org/record/2611152#.XkTacyP9l1s](https://zenodo.org/record/2611152#.XkTacyP9l1s)
 
-https://zenodo.org/record/125594#.XkTaLyP9l1s
+[https://zenodo.org/record/125594#.XkTaLyP9l1s](https://zenodo.org/record/125594#.XkTaLyP9l1s)
 
 ---
 
 ### Who runs the repository?
 
-The repository is hosted on [Zenodo](https://about.zenodo.org). Zenodo was developed and is maintained by CERN, the organization that runs the massive particle accelerator in Europe. CERN developed a digital repository for the massive ammounts of data produced by the accelerator and opened the repository to all scientists.  You can read the [repository policies here](https://about.zenodo.org/policies/).
+The repository is hosted on [Zenodo](https://about.zenodo.org). Zenodo was developed and is maintained by CERN, the organization that runs the massive particle accelerator in Europe. CERN developed a digital repository for the huge amounts of data produced by the accelerator and opened the repository to all scientists.  You can read the [repository policies here](https://about.zenodo.org/policies/).
 
 The NBI Repository is one Community (a organized set of uploaded files) of many on Zenodo.
 
