@@ -10,10 +10,11 @@ Good metadata is essential to making reports and datasets findable and usable.  
 
 >"To data users, good metadata is like summer rain after a long drought- it's refreshing and you don't know when you'll see it again." -the authors of this documentation :)
 
-## Applying Metadata
+##Applying Metadata
 
 
 
 ## Next Steps
 
-
+# Entering Information in the Metadata Form
+Researchers are required to submit metadata related to their reports and datasets to NBI via the Metadata Form. 
