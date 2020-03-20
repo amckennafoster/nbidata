@@ -11,8 +11,8 @@ Use the following guidelines to curate each dataset. Information from the [flatt
 
 1. Tidy the data
 2. Clean the data
-3. Create a list of the variables (columns) in a new csv file and name this dataDictionary. 
-4. Examine each data column and fill in the data dictionary. 
+3. Create a list of the variables (columns) in a new csv file and name this dataDictionary
+4. Examine each data column and fill in the data dictionary
 
 ## Tidy Data
 Tidy data is important because it is easy to read and facilitates analysis and summarization. 
@@ -60,7 +60,7 @@ Add the following columns to dataDictionary:
 - Type = string, numeric, date, etc
 - Description = A brief description of the variable
 - Units = Units for the variable (e.g. meters). If a string, use 'none'
-- Allowed Values = For variables that have a discrete list of values that number fewer than 50, list them here alphabetically, spearated by commas. For continuous data types, use 'Any'
+- Allowed Values = For variables that have a discrete list of values that number fewer than 50, list them here alphabetically, separated by commas. For continuous data types, use 'Any'
 - Notes = Add any other useful information to help some one understand the values or the variable.
 
 ## Next Steps

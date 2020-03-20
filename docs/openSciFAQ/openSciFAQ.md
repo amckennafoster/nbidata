@@ -6,8 +6,7 @@ permalink: /openSciFAQ/
 
 ## In Progress
 
-[Open Science](https://theconversation.com/research-transparency-5-questions-about-open-science-answered-76851)
- - A general overview for scientists and non-scientists.
+[Open Science](https://theconversation.com/research-transparency-5-questions-about-open-science-answered-76851) - A general overview for scientists and non-scientists.
 
 [Open science challenges, benefits and tips in early career and beyond.](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000246) Allen and Mehler 2019- How open science can help early career scientists.
 
