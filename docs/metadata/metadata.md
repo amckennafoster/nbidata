@@ -16,5 +16,5 @@ Good metadata is essential to making reports and datasets findable and usable.  
 
 ## Next Steps
 
-# Entering Information in the Metadata Form
+# Using the Metadata Form
 Researchers are required to submit metadata related to their reports and datasets to NBI via the Metadata Form. 
