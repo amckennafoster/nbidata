@@ -14,9 +14,7 @@ permalink: /openSciFAQ/
 
 [Cutcher-Gershenfeld et al. 2017](https://www.nature.com/news/five-ways-consortia-can-catalyse-open-science-1.21706) - Collaboration and Open Science
 
-Data Curation 101
-https://www.dataversity.net/data-curation-101/#
+[Data Curation 101](https://www.dataversity.net/data-curation-101/#)
 
-FAIR
-https://www.force11.org/group/fairgroup/fairprinciples
+[FAIR: Findable, Accessible, Interoperable, Reusable](https://www.force11.org/group/fairgroup/fairprinciples)
 

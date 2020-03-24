@@ -25,7 +25,7 @@ The [Nantucket Biodiversity Initiative](https://www.nantucketbiodiversity.org/) 
 
 ## About UW iSchool
 
-The [University of Washington Information School](https://ischool.uw.edu/)...
+The [University of Washington Information School](https://ischool.uw.edu/) trains students to be information professionals with an emphasis on the technologies through which information is delivered.  The iSchool offeres an undergraduate informatics degree, a Master's degree in information management, and a Master's degree in library and information science.  Both Master's programs require a culminating [Capstone project](https://ischool.uw.edu/capstone).  This digital repository is the Capstone project for a team of library and informaiton science students in 2020.
 
 
-##Acknowledgments
+## Acknowledgments
