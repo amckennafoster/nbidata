@@ -13,7 +13,7 @@ layout: curators
 
 - Wrangler: The NBI committee member who facilitates an NBI funded (or other) researcher's work and has the most knowledge of the individual project.
 
-- Ringleader: The NBI committee member who is responsible for uploading each year's worth of research outputs.
+- Uploader: The NBI committee member who is responsible for uploading each year's worth of research outputs.
 
 **Researcher Responsibilities:**
 
@@ -53,7 +53,7 @@ After receiving the final report and the data (or data plan), the Wrangler is re
 
 ## Preparing for Upload
 
-Once a year a designated member of NBI, hereafter the *Ringleader*, assembles all the submissions from the previous grant period.  The Ringleader checks the tracking spreadsheet to look for data that has expired embargo dates and adds them to the current submission set.  After making sure there are metadata submissions for every file ready for upload, the Wrangler is ready to begin the upload process.
+Once a year a designated member of NBI, hereafter the *Uploader*, assembles all the submissions from the previous grant period.  The Uploader checks the tracking spreadsheet to look for data that has expired embargo dates and adds them to the current submission set.  After making sure there are metadata submissions for every file ready for upload, the Wrangler is ready to begin the upload process.
 
 ## Uploading
 
