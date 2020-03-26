@@ -43,3 +43,8 @@ Kingdom: Choose the kingdom that the subject of your study is classified in. If 
 Examples of this could include ecosystem analysis, symbiotic relationships, etc.
 
 **If you believe that keywords should be added to the metadata form but do not reflect the content of your study, please do not add them in the free text box. The metadata collected from this form is used to describe your work so we strive for it to be as accurate as possible. If you would like to suggest keywords to be added to the metadata form, please do so here.**
+
+Notes
+- There are several duplicates within the current controlled vocabs for specific locations. Ex: Coskata, coskata nbi plot; tom never, tom never's pond; folger's marsh, folger marsh nbi plot. 
+
+- Some reports use only GPS coordiantes for the locations of study sites. Ex: Quinby 2017 - Evaluation of the Prey Base and Feeding Relationships of the American Burying Beetle (Nicrophorus americanus) on Nantucket Island. For these, how do we capture the specific location metadata?
