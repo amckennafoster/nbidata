@@ -46,3 +46,5 @@ Examples of this could include ecosystem analysis, symbiotic relationships, etc.
 Notes
 
 - Some reports use only GPS coordiantes for the locations of study sites. Ex: Quinby 2017 - Evaluation of the Prey Base and Feeding Relationships of the American Burying Beetle (Nicrophorus americanus) on Nantucket Island. For these, how do we capture the specific location metadata?
+- Should we suggest that checklists be submitted on the form as a Report rather than Dataset?
+- We should add a page or section that shows what the controlled vocabularies are.  It would be good to link to that content from the how to use data page.
