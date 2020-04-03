@@ -13,8 +13,7 @@ Good metadata is essential to making reports and datasets findable and usable.  
 # Applying Metadata
 
 
-## Using the Metadata Form
-The NBI Wrangler submits metadata related to the report and dataset to NBI via the Metadata Form. The fields are set up to match with what is available on Zenodo.  Once a year, the NBI Uploader (the committee member responsible for uploading to Zenodo) will use the information entered into the Metadata Form to fill in values on Zenodo.
+The NBI Wrangler submits metadata related to the report and dataset to NBI via the **Metadata Form**. The fields are set up to match what is available on Zenodo.  Once a year, the NBI Uploader (the committee member responsible for uploading to Zenodo) will use the information entered into the Metadata Form to fill in values on Zenodo.
 
 ### Date
 If the exact date is unknown enter as much information as is available, with the year as a minimum. If the day or month is unknown, enter it as "01", for example: 01/01/2020
@@ -36,7 +35,8 @@ Choose two methods used to collect data in your study. If you used more than two
 ### Study Type
 Study type is how the collected data is analyzed or what it produces.  Examples include: checklist, species survey, genetic analysis, species-area curve, etc.
 
-Kingdom: Choose the kingdom that the subject of your study is classified in. If your study focuses on subjects in more than one kingdom, add another kingdom as an additional keyword in the free text box below. 
+### Kingdom 
+Choose the kingdom that the subject of your study is classified in. If your study focuses on subjects in more than one kingdom, add another kingdom as an additional keyword in the free text box below. 
 
 ### Free Text Keywords
 Examples of this could include ecosystem analysis, symbiotic relationships, etc.
@@ -48,3 +48,4 @@ Notes
 - Some reports use only GPS coordiantes for the locations of study sites. Ex: Quinby 2017 - Evaluation of the Prey Base and Feeding Relationships of the American Burying Beetle (Nicrophorus americanus) on Nantucket Island. For these, how do we capture the specific location metadata?
 - Should we suggest that checklists be submitted on the form as a Report rather than Dataset?
 - We should add a page or section that shows what the controlled vocabularies are.  It would be good to link to that content from the how to use data page.
+- Researcher metadata form: author names, ORCID, affiliations; contributor names/affiliations, desired report title, desired dataset title, If dataset, publication restrictions. 

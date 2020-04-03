@@ -39,8 +39,8 @@ Assist researchers with metadata and data curation to ensure high quality resour
 The Wrangler, the NBI Committee member who works closely with an NBI funded researcher, is the point person for collecting the report and data from the researcher because they are in the best position to apply metadata correctly and easily.  The Wrangler will help the researcher complete three items:
 
 - Final Report
-- Metadata Form
-- Dataset or Data Plan
+- Researcher Metadata Form
+- Dataset
 
 ## Curating Data
 
@@ -49,11 +49,12 @@ The Wrangler is responsible for curating the researcher data following the direc
 
 ## Metadata Submission
 
-After receiving the final report and the data (or data plan), the Wrangler is responsible for using the researcher submitted metadata form and the Wrangler's own knowledge of the project to submit metadata for eventual upload to Zenodo.  If the researcher chooses to submit data later, the Wrangler will submit the Data Plan along with the metadata. The Wrangler will use an online form made available by NBI to do this.  At this point the Wrangler's direct responsibilities end.
+After receiving the final report and the data (or data plan), the Wrangler is responsible for using the researcher submitted metadata form and the Wrangler's own knowledge of the project to submit metadata for eventual upload to Zenodo.  If the researcher chooses to submit data later, Researcher Metadata Form should contain a Data Plan. The Wrangler will use an online form made available by NBI to do this.  The Wrangler will also move the research output files to a Google Drive folder for later access by the Uploader.  After this point, the Wrangler's direct responsibilities end.
 
 ## Preparing for Upload
 
-Once a year a designated member of NBI, hereafter the *Uploader*, assembles all the submissions from the previous grant period.  The Uploader checks the tracking spreadsheet to look for data that has expired embargo dates and adds them to the current submission set.  After making sure there are metadata submissions for every file ready for upload, the Wrangler is ready to begin the upload process.
+Once a year, the member of NBI designated as the *Uploader* assembles all the submissions from the previous grant period.  The Uploader checks the tracking spreadsheet to look for data that has expired embargo dates and adds them to the current submission set.  After making sure there are either metadata submissions or an existing Zenodo page for every file ready for upload, the Uploader is ready to begin the upload process.
 
 ## Uploading
 
+The Uploader signs into the NBI Zenodo account and uploads all the files for the year.  Metadata is copy and pasted from the metadata spreadsheet created by the Google form.
