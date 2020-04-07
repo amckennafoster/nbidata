@@ -4,22 +4,44 @@ layout: curators
 ---
 
 # Metadata Overview
-
 Good metadata is essential to making reports and datasets findable and usable.  Metadata gives context to a resource and without it, that resource (the report and dataset) will never be used again or, even worse, never even accessed again.  All your hard curation work will be for naught!
 
 >"To data users, good metadata is like summer rain after a long drought- it's refreshing and you don't know when you'll see it again." -the authors of this documentation :)
 
-
 # Applying Metadata
-
-
 The NBI Wrangler submits metadata related to the report and dataset to NBI via the **Metadata Form**. The fields are set up to match what is available on Zenodo.  Once a year, the NBI Uploader (the committee member responsible for uploading to Zenodo) will use the information entered into the Metadata Form to fill in values on Zenodo.
 
-### Date
+### Upload Type
+Choose the upload type from the dropdown list.  If the upload will include both a report and a dataset, use dataset.
+
+
+### Date of Publication
 If the exact date is unknown enter as much information as is available, with the year as a minimum. If the day or month is unknown, enter it as "01", for example: 01/01/2020
 
+### Title
+Paste in the title from the researcher report, if available.  Otherwise, create a descriptive title.  
+
+
 ### Authors 
+Include all authors in the format: last name1, first name1, affiliation1, ORCID1; last name2, first name2, affiliation2, ORCID2
+
 If the author's ORCID is unknown, leave blank.
+
+### Basic Description
+Paste in the abstract of the researcher report and include any other relevant information.
+
+### Subject
+Enter the url for the study subject (species studied) if one exists.  Use the [Global Biodiversity Inforamtion Facility](https://www.gbif.org/) to find the url.  
+- If the subject is not represented on GBIF, use the lowest taxonomic term available and include your subject as a keyword.  
+- If there are many subjects, include the lowest taxonomic term that describes them all (e.g. https://www.gbif.org/species/6163 for a study on spiders in the family Thomisidae).
+
+### Study Type
+Study type is how the collected data is analyzed or what it produces.  Examples include: checklist, species survey, genetic analysis, species-area curve, etc.
+
+### File Description
+List the name of each file being uploaded, including the file extension (e.g. wormData.csv).  If necessary, include a description that would help a user know what the filed contains. This is useful there are many files and the file names do not fully convey the contents.
+
+This list will be used by the NBI Uploader to confirm they have the right files to upload.  It will also be included in the Description field on the repository.
 
 ### Locations
 **General Geography**- The General Geography locations are the islands or other land masses, please choose as appropriate to your study. 
@@ -28,20 +50,37 @@ If the author's ORCID is unknown, leave blank.
 
 Specific locations may include properties, generally accepted place names, property owner (e.g. Nantucket Conservation Foundation), or geographic feature (e.g. pond, hill, beach).
  
-
 ### Methods
 Choose two methods used to collect data in your study. If you used more than two methods add them as additional keywords in the free text box below.  Methods are the ways data was acquired, not the way it was analyzed.
-
-### Study Type
-Study type is how the collected data is analyzed or what it produces.  Examples include: checklist, species survey, genetic analysis, species-area curve, etc.
 
 ### Kingdom 
 Choose the kingdom that the subject of your study is classified in. If your study focuses on subjects in more than one kingdom, add another kingdom as an additional keyword in the free text box below. 
 
-### Free Text Keywords
-Examples of this could include ecosystem analysis, symbiotic relationships, etc.
+### Additional Keywords
+Examples of this could include ecosystem analysis, symbiotic relationships, diet analysis etc.
 
-**If you believe that keywords should be added to the metadata form but do not reflect the content of your study, please do not add them in the free text box. The metadata collected from this form is used to describe your work so we strive for it to be as accurate as possible. If you would like to suggest keywords to be added to the metadata form, please do so here.**
+### License
+
+A license must be applied to all publications.
+
+### Embargoes
+Enter the Embargo inforamtion in this field and note why the data is embargoed and what month and year it should be published.
+
+Researchers have the option to submit their data with their report to NBI under an agreed upon embargo restriction postponing publication to a future date.  The benefit of embargoing is that NBI holds a copy of the data in case the researcher either loses the dataset or goes incommunicado. Additionally, timely submission of data means the NBI Wrangler can curate the dataset while the project is fresh on the mind.
+
+Here is an example:  A PhD student hopes to publish a paper based on their data as part of their dissertation.  They think it will be 2.5 years before publication.  The researcher agrees to submit data with their report but have it embargoed for 2.5 years. At the end of their grant year, NBI receives the report and dataset.  The report is published immediately.  The NBI Wrangler curates the dataset and puts it in a folder marked with the date of publication.  In 2.5 years, NBI contacts the researcher to get final confirmation for data publication.
+
+
+### Related Identifiers
+The dataset or report may be related to a research output that is already published and has a DOI. Related identifiers may point to a research output within the NBI Digital Repository on Zenodo or may point to an external source.  For example, a researcher conducts a pilot study on Nantucket and NBi publishes the dataset and report on the repository. These likely have no related identifiers. The following year, the researcher conducts follow up research and collects a much larger dataset, subsequently publishing the results in a peer reviewed journal. The researcher submits the dataset to NBI for publication.  That dataset would have two related identifiers: one for the pilot study and one for the peer reviewed publication.
+
+### Grant Funding
+Information regarding single or multiple grants that funded this research in this format: Grant funder, grant name or grant number; Grant funder, grant name or grant number; etc.  If this is NBI funded, use the following format: Nantucket Biodiversity Initiative [year of grant].  Example: Nantucket Biodiversity Initiative 2019
+
+### Contributors
+Contributors are those who helped significantly with data collection/analysis/management or research project as a whole but are not authors.  
+
+**If you believe that keywords should be added to the metadata form but do not reflect the content of the study, please do not add them in the free text box. The metadata collected from this form is used to describe your work so we strive for it to be as accurate as possible. If you would like to suggest keywords to be added to the metadata form, please do so here.**
 
 Notes
 
