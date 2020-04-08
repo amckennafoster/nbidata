@@ -15,7 +15,7 @@ This repository came out of a collaboration between the Nantucket Biodiversity I
 3. Google Drive
 	- Metadata form
 	- Controlled vocabulary sheet
-	- How to link controlled vocabulary to the form: [this amazing video](https://youtu.be/o3AL7ASI_cA)
+	- How to link controlled vocabulary to the form
 	- File storage
 
 

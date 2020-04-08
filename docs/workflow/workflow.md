@@ -53,8 +53,8 @@ After receiving the final report and the data (or data plan), the Wrangler is re
 
 ## Preparing for Upload
 
-Once a year, the member of NBI designated as the *Uploader* assembles all the submissions from the previous grant period.  The Uploader checks the tracking spreadsheet to look for data that has expired embargo dates and adds them to the current submission set.  After making sure there are either metadata submissions or an existing Zenodo page for every file ready for upload, the Uploader is ready to begin the upload process.
+Once a year, the member of NBI designated as the *Uploader* assembles all the submissions from the previous grant period.  The Uploader checks the tracking spreadsheet to look for data that has expired embargo dates, contacts those researcher to get permission to publish, and adds those datasets to the current submission set.  After making sure there are either metadata submissions or an existing Zenodo page for every file ready for upload, the Uploader is ready to begin the upload process.
 
 ## Uploading
 
-The Uploader signs into the NBI Zenodo account and uploads all the files for the year.  Metadata is copy and pasted from the metadata spreadsheet created by the Google form.
+The Uploader signs into the NBI Zenodo account and uploads all the files for the year.  Metadata is copy and pasted from the metadata spreadsheet created by NBI Wranglers using the Google form.
