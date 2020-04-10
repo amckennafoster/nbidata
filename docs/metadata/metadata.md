@@ -61,7 +61,7 @@ Examples of this could include ecosystem analysis, symbiotic relationships, diet
 
 #### License
 
-
+The recommended license is Creative Commons Attribution 4.0.  This allows maximum reusability and users must cite this upload.  For more information on the world of open data licenses see <a href="{{site.baseurl}}/reference/>">the references section</a> of this site.
 
 #### Embargoes
 Enter the Embargo inforamtion in this field and note why the data is embargoed and what month and year it should be published.
@@ -73,6 +73,19 @@ Here is an example:  A PhD student hopes to publish a paper based on their data 
 
 #### Related Identifiers
 The dataset or report may be related to a research output that is already published and has a DOI. Related identifiers may point to a research output within the NBI Digital Repository on Zenodo or may point to an external source.  For example, a researcher conducts a pilot study on Nantucket and NBi publishes the dataset and report on the repository. These likely have no related identifiers. The following year, the researcher conducts follow up research and collects a much larger dataset, subsequently publishing the results in a peer reviewed journal. The researcher submits the dataset to NBI for publication.  That dataset would have two related identifiers: one for the pilot study and one for the peer reviewed publication.
+
+Related Identifier Relationships
+
+Only a few of the relationships will be useful to NBI.
+
+<table>
+<tr><th>Related Identifier is</th><th>Use this relationship</th><th>Notes</th></tr>
+<tr><td>Published paper that does not cite the published data</td><td>is supplemented by this upload</td></tr>
+<tr><td>Published paper that cites the published dataset</td><td>cites this upload</td><td>This is likely added after paper publication</td></tr>
+<tr><td>Data already published that this data is a subset of</td><td>has this upload as part</td><td>An example is beetle count data from pitfall trap data for a spider study. The published spider data and documentation act as the parent to this publication.</td></tr>
+<tr><td>Data that is part of a pilot study or earlier study</td><td>is continued by this upload</td><td></td></tr>
+<tr><td>Published data used/cited in the current upload</td><td>is cited by this upload</td><td>This is likely added after paper publication</td></tr>
+</table>
 
 #### Grant Funding
 Information regarding single or multiple grants that funded this research in this format: Grant funder, grant name or grant number; Grant funder, grant name or grant number; etc.  If this is NBI funded, use the following format: Nantucket Biodiversity Initiative [year of grant].  Example: Nantucket Biodiversity Initiative 2019
