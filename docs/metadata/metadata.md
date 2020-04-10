@@ -84,7 +84,7 @@ Only a few of the relationships will be useful to NBI.
 <tr><td>Published paper that cites the published dataset</td><td>cites this upload</td><td>This is likely added after paper publication</td></tr>
 <tr><td>Data already published that this data is a subset of</td><td>has this upload as part</td><td>An example is beetle count data from pitfall trap data for a spider study. The published spider data and documentation act as the parent to this publication.</td></tr>
 <tr><td>Data that is part of a pilot study or earlier study</td><td>is continued by this upload</td><td></td></tr>
-<tr><td>Published data used/cited in the current upload</td><td>is cited by this upload</td><td>This is likely added after paper publication</td></tr>
+<tr><td>Published data used/cited in the current upload</td><td>is cited by this upload</td><td></td></tr>
 </table>
 
 #### Grant Funding
