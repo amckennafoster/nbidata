@@ -61,18 +61,31 @@ Examples of this could include ecosystem analysis, symbiotic relationships, diet
 
 #### License
 
-A license must be applied to all publications. The options are:
+Best option is 4.0.  Adding restrictions can hurt reusability and interoperability.
+
+[A great summary](https://knowledge.figshare.com/articles/item/what-is-the-most-appropriate-licence-for-my-data)
+
+[A summary from the EU](https://www.openaire.eu/research-data-how-to-license/) This suggests that no derivative and noncommercial should be avoided.  Share Alike is open access compliant though.
+
+[This is probable the best authority](http://www.dcc.ac.uk/resources/how-guides/license-research-data) Has some clear language on the CC licenses
+
+A license must be applied to all publications. Researchers should check with their institution to find out if there is a license they must use.
+
+The options are:
 
 Recommended License:
+
 Need to look more closely at what licenses are available.
 - [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/): This offers the most use possibilties and gives the data and report the highest chance of being used and cited in the future. Anyone can use the material as long as the author is attributed/cited.
 
-Other Licenses:
-- Creative Commons Attribution 1.0 Generic](https://creativecommons.org/licenses/by/1.0/)
-- Creative Commons Attribution 2.0 Generic](https://creativecommons.org/licenses/by/2.0/)
-- Creative Commons Attribution 3.0 Unported](https://creativecommons.org/licenses/by/3.0/)
+Other Creative Commons Licenses:
 
-[Details on licenses](https://wiki.creativecommons.org/wiki/License_Versions)
+Attribution-NoDerivative- Others may redistribute for commercial and noncommercial use but cannot change or break up your original material.
+
+Attribution-NonCommercial- Others may remix and build upon your material non-commercially and their work must acknowledge you and also be noncommercial. Derivatives of their work do not have to follow these restrictions.
+
+Adding "Share Alike" means the original restrictions (e.g. non-commercial) must be applied to derivatives.
+
 [Zenodo document on licenses](https://zenodo.org/record/1463156#.Xo983Jl7mUk): describes why prohibiting commercial use is not ideal
 
 #### Embargoes
@@ -91,6 +104,7 @@ Information regarding single or multiple grants that funded this research in thi
 
 #### Contributors
 Contributors are those who helped significantly with data collection/analysis/management or research project as a whole but are not authors.  
+
 
 **If you believe that keywords should be added to the metadata form but do not reflect the content of the study, please do not add them in the free text box. The metadata collected from this form is used to describe your work so we strive for it to be as accurate as possible. If you would like to suggest keywords to be added to the metadata form, please do so here.**
 
