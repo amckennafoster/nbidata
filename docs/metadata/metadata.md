@@ -61,32 +61,7 @@ Examples of this could include ecosystem analysis, symbiotic relationships, diet
 
 #### License
 
-Best option is 4.0.  Adding restrictions can hurt reusability and interoperability.
 
-[A great summary](https://knowledge.figshare.com/articles/item/what-is-the-most-appropriate-licence-for-my-data)
-
-[A summary from the EU](https://www.openaire.eu/research-data-how-to-license/) This suggests that no derivative and noncommercial should be avoided.  Share Alike is open access compliant though.
-
-[This is probable the best authority](http://www.dcc.ac.uk/resources/how-guides/license-research-data) Has some clear language on the CC licenses
-
-A license must be applied to all publications. Researchers should check with their institution to find out if there is a license they must use.
-
-The options are:
-
-Recommended License:
-
-Need to look more closely at what licenses are available.
-- [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/): This offers the most use possibilties and gives the data and report the highest chance of being used and cited in the future. Anyone can use the material as long as the author is attributed/cited.
-
-Other Creative Commons Licenses:
-
-Attribution-NoDerivative- Others may redistribute for commercial and noncommercial use but cannot change or break up your original material.
-
-Attribution-NonCommercial- Others may remix and build upon your material non-commercially and their work must acknowledge you and also be noncommercial. Derivatives of their work do not have to follow these restrictions.
-
-Adding "Share Alike" means the original restrictions (e.g. non-commercial) must be applied to derivatives.
-
-[Zenodo document on licenses](https://zenodo.org/record/1463156#.Xo983Jl7mUk): describes why prohibiting commercial use is not ideal
 
 #### Embargoes
 Enter the Embargo inforamtion in this field and note why the data is embargoed and what month and year it should be published.
