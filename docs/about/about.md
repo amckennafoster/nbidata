@@ -55,7 +55,7 @@ Link to your portfolio, site, or linkedin
 ### Christopher Tillman Neal
 Link to your portfolio, site, or linkedin
 
-**Meghan Mitchell**
+### Meghan Mitchell
 Link to your portfolio, site, or linkedin
 
 
