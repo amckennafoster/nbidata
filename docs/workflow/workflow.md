@@ -4,6 +4,7 @@ layout: curators
 ---
 
 # Workflow
+Overview of process tailored to the NBI committee member curator/wrangler's point of view; who is a curator, how curators and researchers work together to get content into the repository
 
 ## Overview
 
