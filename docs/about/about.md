@@ -47,13 +47,24 @@ The [Nantucket Biodiversity Initiative](https://www.nantucketbiodiversity.org/) 
 
 ## About UW iSchool
 
-The [University of Washington Information School](https://ischool.uw.edu/) trains students to be information professionals with an emphasis on the technologies through which information is delivered.  The iSchool offeres an undergraduate informatics degree, a Master's degree in information management, and a Master's degree in library and information science.  Both Master's programs require a culminating [Capstone project](https://ischool.uw.edu/capstone).  This digital repository is the Capstone project for a team of library and informaiton science graduate students in 2020.
+The [University of Washington Information School](https://ischool.uw.edu/) trains students to be information professionals with an emphasis on the technologies through which information is delivered.  The iSchool offeres an undergraduate informatics degree, a Master's degree in information management, and a Master's degree in library and information science.  Both Master's programs require a culminating [Capstone project](https://ischool.uw.edu/capstone).  This digital repository is the Capstone project for a team of library and informaiton science graduate students in 2020:
 
+### Andrew Mckenna-Foster
+Link to your portfolio, site, or linkedin
+
+### Christopher Tillman Neal
+Link to your portfolio, site, or linkedin
+
+**Meghan Mitchell**
+Link to your portfolio, site, or linkedin
+
+
+---
 
 ## Acknowledgments
+Our team would like to thank NBI for the opportunity to create this repository and documentation site. We would also like to thank : individuals or communities who have helped us realize this project? Our families and friends for their support?
 
-
-
+---
 
 ## Technical Details
 
