@@ -3,7 +3,9 @@ permalink: /curation/
 layout: curators
 ---
 
-# Curation Protocol
+Workflow: practical steps for curators to follow in order to compile clean, usable data and reports for submission to the Zenodo repository. Include: pre-zenodo steps, tidy data, file types
+
+# Curation Workflow
 
 Use the following guidelines to curate each dataset. Information from the [flattenedFauna](https://app.gitbook.com/@flattenedfauna/s/practice-space/) project informed this protocol. 
 
