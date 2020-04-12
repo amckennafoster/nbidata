@@ -3,7 +3,6 @@ permalink: /openSciFAQ/
 ---
 
 # Open Science FAQ
-## In Progress
 
 
 
@@ -12,6 +11,9 @@ Overview of what open science is, how it works
 
 ### What's the impact?
 Why it works, how it impacts the larger scientific community
+
+### Who contributes to open science?
+
 
 ---
 
