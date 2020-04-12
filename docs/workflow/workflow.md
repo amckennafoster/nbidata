@@ -10,18 +10,18 @@ Overview of process tailored to the NBI committee member curator/wrangler's poin
 
 **Definitions of Roles**
 
-- Researcher: The person or representative of the group of people that produced research outputs that are within the scope of the Repository.
+- Researcher: The person or representative of the group of people who produced research outputs that are within the scope of the Repository.
 
 - Wrangler: The NBI committee member who facilitates an NBI funded (or other) researcher's work and has the most knowledge of the individual project.
 
-- Uploader: The NBI committee member who is responsible for uploading each year's worth of research outputs.
+- Uploader: The NBI committee member who is responsible for uploading each year's worth of research outputs along with any outputs with expired embargoes.
 
 **Researcher Responsibilities:**
 
 Submit a report and metadata form one year after receiving funds from NBI and choose one option for dataset(s):
 1. Submit data with report for publication.
 2. Submit data with report and agree to the default two year embargo period for publication, or arrange a different embargo timeline.
-3. Submit a report only and agree to submit data within two years at which point it can be further embargoed.
+3. Submit a report only and agree to a custom embargo time period.
 
 **NBI Responsibilities:**
 
@@ -45,16 +45,18 @@ The Wrangler, the NBI Committee member who works closely with an NBI funded rese
 
 ## Curating Data
 
-The Wrangler is responsible for curating the researcher data following the directions in the [Curation section.](https://nantucketbiodiversity.github.io/NBIdigitalrepo/curation/)
+If the Wrangler received a dataset they are responsible for curating the researcher data following the directions in the [Curation section.](https://nantucketbiodiversity.github.io/NBIdigitalrepo/curation/)
 
 
-## Metadata Submission
+## Metadata and File Submission
 
-After receiving the final report and the data (or data plan), the Wrangler is responsible for using the researcher submitted metadata form and the Wrangler's own knowledge of the project to submit metadata for eventual upload to Zenodo.  If the researcher chooses to submit data later, Researcher Metadata Form should contain a Data Plan. The Wrangler will use an online form made available by NBI to do this.  The Wrangler will also move the research output files to a Google Drive folder for later access by the Uploader.  After this point, the Wrangler's direct responsibilities end.
+With the final report, the data plan and hopefully the curated data in hand, the Wrangler is then responsible for packaging the files and the information about the files (the metadata) for eventual upload to Zenodo. The Wrangler uses a Google Form made available by NBI to record metadata (e.g. title, authors, keywords).  The Wrangler will also move the research output files to a Google Drive folder for later access by the Uploader. If the dataset(s) is to be embargoed, the Wrangler puts the dataset in the embargo folder on Google Drive.  No matter where the dataset goes, the report goes to the annual upload folder.
+
+After this, the Wrangler's direct responsibilities end.
 
 ## Preparing for Upload
 
-Once a year, the member of NBI designated as the *Uploader* assembles all the submissions from the previous grant period.  The Uploader checks the tracking spreadsheet to look for data that has expired embargo dates, contacts those researcher to get permission to publish, and adds those datasets to the current submission set.  After making sure there are either metadata submissions or an existing Zenodo page for every file ready for upload, the Uploader is ready to begin the upload process.
+Once a year, the NBI committee member designated as the *Uploader* assembles all the submissions from the previous grant period.  The Uploader also checks for data that has expired embargo dates, contacts those researchers to get permission to publish, and adds those datasets to the current submission set.  After making sure there are either metadata submissions or an existing Zenodo page for every file ready for upload, the Uploader is ready to begin the upload process.
 
 ## Uploading
 
