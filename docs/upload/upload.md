@@ -20,7 +20,7 @@ It is ideal to have a copy of a researcher's data even if they do not want it pu
 - If a dataset is ready to be published with the associated report it can be put with other files ready for upload.
 - If a researcher requests a dataset be embargoed, put the dataset file in a folder titled with the year it should be published. Put the associated report with other files ready for upload and note in the metadata record what year the data will be published.
 
-## Embargoes
+(borrowed from previous page, include?)
 Enter the embargo information in this field and note why the data is embargoed and what month and year it should be published.
 
 Researchers have the option to submit their data with their report to NBI under an agreed upon embargo restriction postponing publication to a future date. The benefit of embargoing is that NBI holds a copy of the data in case the researcher either loses the dataset or goes incommunicado. Additionally, timely submission of data means the NBI Wrangler can curate the dataset while the project is fresh on the mind.
