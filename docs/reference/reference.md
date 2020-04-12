@@ -3,7 +3,7 @@ permalink: /reference/
 layout: curators
 ---
 
-## Reference
+## Specifications & Technical Details
 
 ### Licenses
 
