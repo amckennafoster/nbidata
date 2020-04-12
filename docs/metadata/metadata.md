@@ -66,7 +66,7 @@ Examples of this could include ecosystem analysis, symbiotic relationships, diet
 ### License and Embargoes
 
 #### License
-The recommended license is Creative Commons Attribution 4.0.  This allows maximum reusability and requires users to cite this upload.  For more information on the world of open data licenses see <a href="{{site.baseurl}}/reference/>">the references section</a> of this site.
+The recommended license is Creative Commons Attribution 4.0.  This allows maximum reusability and requires users to cite this upload.  For more information on the world of open data licenses see <a href="{{site.baseurl}}/reference/">the references section</a> of this site.
 
 #### Embargoes
 Enter the embargo information in this field and note why the data is embargoed and what month and year it should be published.
