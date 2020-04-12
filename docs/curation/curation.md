@@ -65,5 +65,35 @@ Add the following columns to dataDictionary:
 - Allowed Values = For variables that have a discrete list of values that number fewer than 50, list them here alphabetically, separated by commas. For continuous data types, use 'Any'
 - Notes = Add any other useful information to help some one understand the values or the variable.
 
+# What File Types are Allowed?
+
+## In Progress
+
+All file types should be 'open' meaning a user does not need propriatary software to open and use the file.
+
+
+## Data
+
+#### CSV Comma Separated Values
+
+CSV is a standard format for open data.  Most spreadsheet programs (like Excel) will allow you to save a file as .csv.  All formatting is stripped away.
+
+#### TXT Text file
+
+Data can also be saved as a text file as long as there is a way for a spreadsheet program to figure out how the data values are separated from each other.
+
+## Reports
+
+#### PDF
+
+PDF is the preferred report format.  Almost any word processor can export a document to the pdf format.  There are online tools to combine several pdfs into one.
+
+## Images
+
+#### TIFF
+
+#### PNG
+
+
 ## Next Steps
-Save the curated datasets and the data dactionary in the same folder.  The next step is to [apply metadata.](https://{{site.baseurl}}/metadata/).
+Save the curated datasets and the data dactionary in the same folder.  (maybe lose this-->?) The next step is to [apply metadata.](https://{{site.baseurl}}/metadata/).
