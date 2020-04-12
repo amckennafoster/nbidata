@@ -3,7 +3,8 @@ permalink: /upload/
 layout: curators
 ---
 
-# Uploading Files to Zenodo
+# Uploading Data & Reports to Zenodo
+Workflow: practical steps for curators to follow in order to upload data and reports to Zenodo with high-quality metadata and appropriate specifications. Include: metadata, schedule publishing, upload
 
 ## In Progress
 
