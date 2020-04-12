@@ -17,8 +17,8 @@ There are many license options out there and a nice review is [here](http://www.
 - Attribution Non-Commercial No Derivatives (CC BY-NC-ND)
 
 Here is what some of the terms mean:
-- Attribution-NoDerivative: Others may redistribute for commercial and noncommercial use but cannot change or break up your original material.
-- Attribution-NonCommercial: Others may remix and build upon your material non-commercially and their work must acknowledge you and also be noncommercial. Derivatives of their work do not have to follow these restrictions.
+- Attribution No Derivative: Attribution required, others may redistribute for commercial and noncommercial use but cannot change or break up your original material.
+- Attribution Non-Commercial: Attribution required, others may remix and build upon your material non-commercially and their work must also be non-commercial. Derivatives of their work do not have to follow these restrictions.
 - Share Alike: Adding this means the original restrictions (e.g. non-commercial) must be applied to derivatives.
 
 Adding derivative or commercial restrictions to a license will make the material (the dataset) less reusable and less interoperable. The Share Alike addition can also cause problems.  [Rathmann (2018)](https://zenodo.org/record/1463156#.XpCh1pl7k2x) provides a great overview of licensing data and the paper is in Zenodo! The following quotes from a variety of sources summarize the impact of restrictions:

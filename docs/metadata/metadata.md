@@ -6,6 +6,8 @@ layout: curators
 # Metadata
 Metadata is information about an object, like author, date created, etc. Good metadata is essential to making reports and datasets findable and usable.  Metadata gives context to a resource and without it, that resource (the report and dataset) will never be used again or, even worse, never even accessed again.  All your hard curation work will be for naught!
 
+---
+
 >"To data users, good metadata is like summer rain after a long drought- it's refreshing and you don't know when you'll see it again." -the authors of this documentation :)
 
 ---
@@ -78,11 +80,11 @@ Here is an example:  A PhD student hopes to publish a paper based on their data 
 ### Related Identifiers, Funding and Contributors
 
 #### Related Identifiers
-The dataset or report may be related to a research output that is already published and has a DOI. Related identifiers may point to a research output within the NBI Digital Repository on Zenodo or may point to an external source.  For example, a researcher conducts a pilot study on Nantucket and NBi publishes the dataset and report on the repository. These likely have no related identifiers. The following year, the researcher conducts follow up research and collects a much larger dataset, subsequently publishing the results in a peer reviewed journal. The researcher submits the dataset to NBI for publication.  That dataset would have two related identifiers: one for the pilot study and one for the peer reviewed publication.
+The dataset or report may be related to a research output that is already published and has a DOI. Related identifiers may point to a research output within the NBI Digital Repository on Zenodo or may point to an external source.  For example, a researcher conducts a pilot study on Nantucket and NBI publishes the dataset and report on the repository. These likely have no related identifiers. The following year, the researcher conducts follow up research and collects a much larger dataset, subsequently publishing the results in a peer reviewed journal. The researcher submits the dataset to NBI for publication.  That dataset would have two related identifiers: one for the pilot study and one for the peer reviewed publication.
 
 Related Identifier Relationships
 
-Only a few of the relationships will be useful to NBI.
+Here are the relationships that will likely be useful to NBI.  Zenodo has a much longer list as well.
 
 <table>
 <tr><th>Related Identifier is</th><th>Use this relationship</th><th>Notes</th></tr>
