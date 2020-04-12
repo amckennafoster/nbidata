@@ -10,7 +10,7 @@ layout: curators
 
 ## Process
 
-![Flow chart showing upload decision making process](https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/docs/assets/images/uploadFlow.jpeg "Upload process chart"){:height="70%" width="70%"}
+![Flow chart showing upload decision making process](https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/docs/assets/images/uploadFlow.jpeg "Upload process chart"){:height="90%" width="90%"}
 
 ## Embargoed Datasets
 
