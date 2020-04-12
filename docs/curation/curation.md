@@ -19,7 +19,7 @@ Use the following guidelines to curate each dataset. Information from the [flatt
 
 ---
 
-## Tidy Data
+# Tidy Data
 Tidy data is important because it is easy to read and facilitates analysis and summarization. 
 
 It has the following characteristics.
@@ -28,7 +28,7 @@ It has the following characteristics.
 
 ---
 
-## Cleaning Data
+# Cleaning Data
 General
 - Remove leading zeros and consecutive white spaces ([OpenRefine](https://openrefine.org/) is a great tool for this)
 - Correct all misspellings
@@ -59,7 +59,7 @@ Date and Time
 
 ---
 
-## Data Dictionary
+# Data Dictionary
 [Data dictionaries](https://help.osf.io/hc/en-us/articles/360019739054-How-to-Make-a-Data-Dictionary) tell users what the column names mean, what the data values mean, and anything else that would help someone use the data wisely.
 
 Create a csv file in your favorite spreadsheet program. The data dictionary will define the variables used in all the data files uploaded as one package, under one doi.  If you have a dataset with more than one data table that each have many of the same variables (e.g. survey data and trap data for the same study subject), make each table its own csv file and list all the variables from each file in the data dictionary file.
