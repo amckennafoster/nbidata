@@ -35,7 +35,7 @@ Adding derivative or commercial restrictions to a license will make the material
 
 There is a data specific license available called the [Open Data Commons Attribution License](https://opendatacommons.org/licenses/by/) but it seems that the Creative Commons licenses are a [better option](https://forum.openmod-initiative.org/t/choosing-an-open-data-license-odc-by-vs-cc-by/640/4) for now.
 
-For Creative Commons Licenses, use version 4.0 because this allows a better attribution format (read more at the [Digital Curation Centre](http://www.dcc.ac.uk/resources/how-guides/license-research-data).
+For Creative Commons Licenses, use version 4.0 because this allows a better attribution format (read more at the [Digital Curation Centre](http://www.dcc.ac.uk/resources/how-guides/license-research-data))
 
 ### Citations
 - Rathmann, Torsten. (2018, October). Licenses for Research Data (Version 1). Zenodo. http://doi.org/10.5281/zenodo.1463156
