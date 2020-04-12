@@ -65,7 +65,9 @@ Add the following columns to dataDictionary:
 - Allowed Values = For variables that have a discrete list of values that number fewer than 50, list them here alphabetically, separated by commas. For continuous data types, use 'Any'
 - Notes = Add any other useful information to help some one understand the values or the variable.
 
-# What File Types are Allowed?
+
+
+# File Types
 
 ## In Progress
 
