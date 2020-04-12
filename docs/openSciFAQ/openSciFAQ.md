@@ -3,8 +3,19 @@ permalink: /openSciFAQ/
 ---
 
 # Open Science FAQ
-
 ## In Progress
+
+# Why Open Science?
+
+### What is open science?
+Overview of what open science is, how it works
+
+### What's the impact?
+Why it works, how it impacts the larger scientific community
+
+
+
+# Learn more
 
 [Open Science](https://theconversation.com/research-transparency-5-questions-about-open-science-answered-76851) - A general overview for scientists and non-scientists.
 
