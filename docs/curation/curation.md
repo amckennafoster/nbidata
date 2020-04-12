@@ -19,7 +19,7 @@ Use the following guidelines to curate each dataset. Information from the [flatt
 
 ---
 
-# Tidy Data
+## Tidy Data
 Tidy data is important because it is easy to read and facilitates analysis and summarization. 
 
 It has the following characteristics.
@@ -28,7 +28,7 @@ It has the following characteristics.
 
 ---
 
-# Cleaning Data
+## Cleaning Data
 General
 - Remove leading zeros and consecutive white spaces ([OpenRefine](https://openrefine.org/) is a great tool for this)
 - Correct all misspellings
@@ -59,7 +59,7 @@ Date and Time
 
 ---
 
-# Data Dictionary
+## Data Dictionary
 [Data dictionaries](https://help.osf.io/hc/en-us/articles/360019739054-How-to-Make-a-Data-Dictionary) tell users what the column names mean, what the data values mean, and anything else that would help someone use the data wisely.
 
 Create a csv file in your favorite spreadsheet program. The data dictionary will define the variables used in all the data files uploaded as one package, under one doi.  If you have a dataset with more than one data table that each have many of the same variables (e.g. survey data and trap data for the same study subject), make each table its own csv file and list all the variables from each file in the data dictionary file.
@@ -74,13 +74,12 @@ Add the following columns to dataDictionary:
 
 ---
 
-# File Types
+## File Types
 
 All file types should be 'open' meaning a user does not need propriatary software to open and use the file.
 
 
-## Data
-
+**Data**
 #### CSV Comma Separated Values
 
 CSV is a standard format for open data.  Most spreadsheet programs (like Excel) will allow you to save a file as .csv.  All formatting is stripped away.
@@ -89,13 +88,13 @@ CSV is a standard format for open data.  Most spreadsheet programs (like Excel) 
 
 Data can also be saved as a text file as long as there is a way for a spreadsheet program to figure out how the data values are separated from each other.
 
-## Reports
+**Reports**
 
 #### PDF
 
 PDF is the preferred report format.  Almost any word processor can export a document to the pdf format.  There are online tools to combine several pdfs into one.
 
-## Images
+**Images**
 
 #### TIFF
 
