@@ -7,7 +7,7 @@ Workflow: practical steps for curators to follow in order to compile clean, usab
 
 # Curation Workflow
 
-Use the following guidelines to curate each dataset. Information from the [flattenedFauna](https://app.gitbook.com/@flattenedfauna/s/practice-space/) project informed this protocol. 
+Use the following guidelines to curate each dataset. Information from the [FlattenedFauna](https://app.gitbook.com/@flattenedfauna/s/practice-space/) project informed this protocol. 
 
 ## Curating Data & Reports
 
@@ -143,9 +143,11 @@ This list will be used by the NBI Uploader to confirm they have the right files 
 Study type is how the collected data is analyzed or what it produces.  Examples include: checklist, species survey, genetic analysis, species-area curve, etc.
 
 #### Locations
-General Geography- The General Geography locations are the islands or other land masses, please choose as appropriate to your study. 
+General Geography
+- The General Geography locations are the islands or other land masses, please choose as appropriate to your study. 
 
-Specific Locations- The second set of locations are more specific. If your study had more than six specific locations, add additional specific locations as keywords in the free text keyword box.  However, please do not enter more than 10 total specific locations.  
+Specific Locations
+- The second set of locations are more specific. If your study had more than six specific locations, add additional specific locations as keywords in the free text keyword box.  However, please do not enter more than 10 total specific locations.  
 
 Specific locations may include properties, generally accepted place names, property owner (e.g. Nantucket Conservation Foundation), or geographic feature (e.g. pond, hill, beach).
  
@@ -173,7 +175,7 @@ The dataset or report may be related to a research output that is already publis
 
 Related Identifier Relationships
 
-Here are the relationships that will likely be useful to NBI.  Zenodo has a much longer list as well.
+Here are the relationships that will likely be useful to NBI, however Zenodo has a much longer list (link to list).
 
 <table>
 <tr><th>Related Identifier is</th><th>Use this relationship</th><th>Notes</th></tr>
