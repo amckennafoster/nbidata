@@ -3,6 +3,7 @@ permalink: /about/
 ---
 
 # About the NBI Digital Repository
+Overview of what the repository is, what it does, what problems it solves for both NBI and the larger scientific community
 
 ## In Progress
 
@@ -18,20 +19,6 @@ This repository came out of a collaboration between the Nantucket Biodiversity I
 	- How to link controlled vocabulary to the form
 	- File storage
 
-
-## About NBI
-
-The [Nantucket Biodiversity Initiative](https://www.nantucketbiodiversity.org/) seeks to conserve the native biodiversity of Nantucket, Tuckernuck, Muskeget and surrounding waters through collaborative research, monitoring and education.  It is a collaboration of over 10 regional non profits, goverment departments, and schools.  
-
-## About UW iSchool
-
-The [University of Washington Information School](https://ischool.uw.edu/) trains students to be information professionals with an emphasis on the technologies through which information is delivered.  The iSchool offeres an undergraduate informatics degree, a Master's degree in information management, and a Master's degree in library and information science.  Both Master's programs require a culminating [Capstone project](https://ischool.uw.edu/capstone).  This digital repository is the Capstone project for a team of library and informaiton science graduate students in 2020.
-
-
-## Acknowledgments
-
-## Technical Details
-
 All the software used to develop this repository and documentation is open source.  
 
 **GitHub**
@@ -46,6 +33,29 @@ Zenodo was a good choice for NBI because it is a well established repository, it
 Google Drive is used to store research outputs ready for upload.  The Nantucket Biodiversity Initiative has its own Google account.  The Drive also contains a controlled vocabulary Google sheet that is used to source drop-down options in the Metadata Form, also stored in the Drive.
 
 The controlled vocabulary sheet has a script (Tools>Script Editor) that fills the appropriate fields in the form.  The code for this script comes from the YouTube channel [Learn Google Spreadsheets](https://www.youtube.com/watch?v=o3AL7ASI_cA&feature=youtu.be) and is reproduced here:
+
+
+---
+
+
+# Who Made It Happen
+Overview of NBI: what it is, what it does, who's involved; link out to main NBI site; who is the UW iSchool, who are we, why did we make this, how did it come about
+
+## About NBI
+
+The [Nantucket Biodiversity Initiative](https://www.nantucketbiodiversity.org/) seeks to conserve the native biodiversity of Nantucket, Tuckernuck, Muskeget and surrounding waters through collaborative research, monitoring and education.  It is a collaboration of over 10 regional non profits, goverment departments, and schools.  
+
+## About UW iSchool
+
+The [University of Washington Information School](https://ischool.uw.edu/) trains students to be information professionals with an emphasis on the technologies through which information is delivered.  The iSchool offeres an undergraduate informatics degree, a Master's degree in information management, and a Master's degree in library and information science.  Both Master's programs require a culminating [Capstone project](https://ischool.uw.edu/capstone).  This digital repository is the Capstone project for a team of library and informaiton science graduate students in 2020.
+
+
+## Acknowledgments
+
+
+
+
+## Technical Details
 
 '''
 var ssID= "[your sheet id- remove the brackets]";
