@@ -76,8 +76,6 @@ Add the following columns to dataDictionary:
 
 # File Types
 
-## In Progress
-
 All file types should be 'open' meaning a user does not need propriatary software to open and use the file.
 
 
@@ -112,10 +110,8 @@ Metadata is information about an object, like author, date created, etc. Good me
 >"To data users, good metadata is like summer rain after a long drought- it's refreshing and you don't know when you'll see it again." -the authors of this documentation :)
 
 
-## Applying Metadata Guidelines
+## Filling Out the Metadata Form
 The NBI Wrangler submits metadata related to the report and dataset to NBI via the **Metadata Form**. The fields are set up to match what is available on Zenodo.  Once a year, the NBI Uploader (the committee member responsible for uploading to Zenodo) will use the information entered into the Metadata Form to fill in values on Zenodo.
-
-### Basic Information
 
 #### Upload Type
 Choose the upload type from the dropdown list.  If the upload will include both a report and a dataset, use dataset.
@@ -161,13 +157,13 @@ Choose two methods used to collect data in your study. If you used more than two
 Choose the kingdom that the subject of your study is classified in. If your study focuses on subjects in more than one kingdom, add another kingdom as an additional keyword in the free text box below. This will be useful for users to find all NBI studies related to plants or animals or fungi.
 
 #### Additional Keywords
-Examples of this could include ecosystem analysis, symbiotic relationships, diet analysis etc.  Include words that are important that a user might search for.
+Examples of this could include ecosystem analysis, symbiotic relationships, diet analysis etc.  Include important words that a user might search for.
 
 #### License
 The recommended license is Creative Commons Attribution 4.0.  This allows maximum reusability and requires users to cite this upload.  For more information on the world of open data licenses see <a href="{{site.baseurl}}/reference/">the references section</a> of this site.
 
 #### Embargoes
-Enter the embargo information in this field and note why the data is embargoed and what month and year it should be published.
+Enter the embargo information in this field. Note why the data is embargoed and what month and year it should be published.
 
 Researchers have the option to submit their data with their report to NBI under an agreed upon embargo restriction postponing publication to a future date.  The benefit of embargoing is that NBI holds a copy of the data in case the researcher either loses the dataset or goes incommunicado. Additionally, timely submission of data means the NBI Wrangler can curate the dataset while the project is fresh on the mind.
 
