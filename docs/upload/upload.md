@@ -29,7 +29,7 @@ Here is an example: A PhD student hopes to publish a paper based on their data a
 
 
 ## Licenses
-The recommended license is Creative Commons Attribution 4.0. This allows maximum reusability and requires users to cite this upload. For more information on the world of open data licenses see the references section of this site.
+The recommended license is Creative Commons Attribution 4.0. This allows maximum reusability and requires users to cite this upload. For more information on the world of open data licenses see the [Specifications & Technical Details] section of this site.
 
 
 ## Other fields in Zenodo
