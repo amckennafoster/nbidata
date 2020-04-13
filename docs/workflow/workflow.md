@@ -3,8 +3,8 @@ permalink: /workflow/
 layout: curators
 ---
 
-# Workflow
-Overview of process tailored to the NBI committee member curator/wrangler's point of view; who is a curator, how curators and researchers work together to get content into the repository
+# General Workflow
+This is an overview of process that moves reserach outputs (reports and datasets) from researchers to final publication on the Repository. It is tailored to the NBI committee member's point of view.
 
 ## Overview
 
@@ -45,7 +45,7 @@ The Wrangler, the NBI Committee member who works closely with an NBI funded rese
 
 ## Curating Data
 
-If the Wrangler received a dataset, they are responsible for curating the researcher data following the directions in the [Curation section.](https://nantucketbiodiversity.github.io/NBIdigitalrepo/curation/)
+If the Wrangler received a dataset, they are responsible for curating the researcher data following the directions in the <a href="{{site.baseurl}}/curation/">Curation section</a>.
 
 
 ## Metadata and File Submission
@@ -56,7 +56,7 @@ After this, the Wrangler's direct responsibilities end.
 
 ## Preparing for Upload
 
-Once a year, the NBI committee member designated as the *Uploader* assembles all the submissions from the previous grant period.  The Uploader also checks for data that has expired embargo dates, contacts those researchers to get permission to publish, and adds those datasets to the current submission set.  After making sure there are either metadata submissions or an existing Zenodo page for every file ready for upload, the Uploader is ready to begin the upload process.
+Once a year, the NBI committee member designated as the *Uploader* assembles all the submissions from the previous grant period.  The Uploader also checks for data that has expired embargo dates, contacts those researchers to get permission to publish, and adds those datasets to the current submission set.  After making sure there are either metadata submissions or an existing Zenodo page for every file ready for upload, the Uploader is ready to begin the upload process.  Details for this preparation process are <a href="{{site.baseurl}}/upload">here</a>.
 
 ## Uploading
 

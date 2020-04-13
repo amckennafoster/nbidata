@@ -41,7 +41,7 @@ For Creative Commons Licenses, use version 4.0 because this allows a better attr
 
 These lists are either specified by Zenodo or created specifically for NBI.
 
-### Geographic Location
+#### Geographic Location
 
 - cape cod
 - martha's vinyard
@@ -49,11 +49,11 @@ These lists are either specified by Zenodo or created specifically for NBI.
 - nantucket
 - tuckernuck
 
-### Specific Locations
+#### Specific Locations
 
-This is a very long list and is available <a href="{{site.baseurl}}/reference/specificLocation">here</a>.
+This is a very long list and is available <a href="{{site.baseurl}}/specs/specificLocation">here</a>.
 
-### Related Identifier Relationships
+#### Related Identifier Relationships
 
 - cites this upload
 - is cited by this upload
@@ -77,7 +77,7 @@ This is a very long list and is available <a href="{{site.baseurl}}/reference/sp
 - is identical to this upload
 - is an alternate identifier of this upload
 
-### Contributor Relationships
+#### Contributor Relationships
 - Contact person
 - Data collector
 - Data curator
