@@ -12,18 +12,17 @@ Throughout the world, researchers are becoming more cognizant of the value and i
 
 ### What's the impact?
 
-In this article entitled: How Open Science Helps Researchers Succeed (2016), researchers from numerous organizations and universities in the United States address concerns raised in connection to open science and demonstrate that the advantages outweigh the disadvantages. 
+In this article entitled: **How Open Science Helps Researchers Succeed** (2016), researchers from numerous organizations and universities in the United States address concerns raised in connection to open science and demonstrate that the advantages outweigh the disadvantages. 
 Learn more: https://elifesciences.org/articles/16800
 
-Equally important is the following TEDX Talk by Research Associate and Open Science Champion, Dr Rachael Ainsworth. Here she addresses how ##Reserach Culture is Broken — Open Science Can Fix It. See here: https://www.youtube.com/watch?v=c-bemNZ-IqA
- 
+Equally important is the following TEDX Talk by Research Associate and Open Science Champion, Dr Rachael Ainsworth. Here she addresses how **Research Culture is Broken — Open Science Can Fix It!**. In additon, Dr. Ainstworth points out that > Open science could be the gateway to a more inclusive and supportive culture > See here: https://www.youtube.com/watch?v=c-bemNZ-IqA 
 
 ### Who contributes to open science?
 
 
 ---
 
-# Learn more
+**Resources**
 
 [Open Science](https://theconversation.com/research-transparency-5-questions-about-open-science-answered-76851) - A general overview for scientists and non-scientists.
 
