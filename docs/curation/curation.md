@@ -8,7 +8,7 @@ layout: curators
 
 Everything on this page is the responsibility of the NBI Wrangler. The curation process prepares research outputs for upload and creates a record of the files for later use by the NBI Uploader. Information from the [FlattenedFauna](https://app.gitbook.com/@flattenedfauna/s/practice-space/) project informed this protocol. 
 
-The two main sections on this page are:
+The three main sections on this page are:
 
 1. Data Embargoes: Work with the researcher to plan publication for their data.
 1. Curating Data & Reports: Formatting the dataset and report so they meet open science best practices.
@@ -49,7 +49,7 @@ It has the following characteristics.
 ---
 
 ## Cleaning Data
-General
+#### General
 - Remove leading zeros and consecutive white spaces ([OpenRefine](https://openrefine.org/) is a great tool for this)
 - Correct all misspellings
 	- Extract all the unique values for a column and check for variation. After corrections, use this list in the data dictionary, if approporiate.
@@ -65,13 +65,13 @@ General
     - String: null
     - Numeric: -9999
 
-Georeference
+#### Georeference
 - Seperate latitude and longitude columns
-- Data type is numeric and values are decimal degrees (e.g. 41.39283)
+- Data type is double and values are decimal degrees (e.g. 41.39283)
 - Longitude values are appropriately signed negative or positive (on Nantucket, the longitude should be negative)
 - If known, in the data dictionary note the datum used (e.g. NAD87)
 
-Date and Time
+#### Date and Time
 - Date and Time are separate fields
 - Both fields follow [ISO 8601](https://www.iso.org/iso-8601-date-and-time-format.html)
   - YYYY-MM-DD
@@ -86,9 +86,9 @@ Create a csv file in your favorite spreadsheet program. The data dictionary will
 Add the following columns to dataDictionary:
 
 - Variable = Variable (column) name
-- Type = string, numeric, date, etc
+- Type = string, integer, double, date, etc
 - Description = A brief description of the variable
-- Units = Units for the variable (e.g. meters). If a string, use 'none'
+- Units = Units for the variable (e.g. meters). If a string, use 'null'
 - Allowed Values = For variables that have a discrete list of values that number fewer than 50, list them here alphabetically, separated by commas. For continuous data types, use 'Any'
 - Notes = Add any other useful information to help some one understand the values or the variable.
 
@@ -181,7 +181,7 @@ Choose the kingdom that the subject of your study is classified in. If your stud
 Examples of this could include ecosystem analysis, symbiotic relationships, diet analysis etc.  Include important words that a user might search for.  Add any information here that did not fit in the above fields.  
 
 #### License
-The recommended license is Creative Commons Attribution 4.0.  This allows maximum reusability and requires users to cite this upload.  For more information on the world of open data licenses see <a href="{{site.baseurl}}/reference/">the specifications and technical details section</a> of this site.
+The recommended license is Creative Commons Attribution 4.0.  This allows maximum reusability and requires users to cite this upload.  For more information on the world of open data licenses see <a href="{{site.baseurl}}/specs/#licenses">the specifications and technical details section</a> of this site.
 
 #### Embargoes
 Enter the embargo information in this field. Note why the data is embargoed and what month and year it should be published.  Here is an example:
@@ -193,7 +193,7 @@ The dataset or report may be related to a research output that is already publis
 
 Related Identifier Relationships
 
-Here are the relationships that will likely be useful to NBI, however Zenodo has a much longer list (link to list).
+Here are the relationships that will likely be useful to NBI, however Zenodo has a much <a href="{{site.baseurl}}/specs/#related-identifier-relationships">longer list</a>.
 
 <table>
 <tr><th>Related Identifier is</th><th>Use this relationship</th><th>Notes</th></tr>

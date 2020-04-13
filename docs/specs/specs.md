@@ -1,5 +1,5 @@
 ---
-permalink: /reference/
+permalink: /specs/
 layout: curators
 ---
 
@@ -39,6 +39,20 @@ For Creative Commons Licenses, use version 4.0 because this allows a better attr
 
 ## Controlled Vocabularies
 
+These lists are either specified by Zenodo or created specifically for NBI.
+
+### Geographic Location
+
+- cape cod
+- martha's vinyard
+- muskeget
+- nantucket
+- tuckernuck
+
+### Specific Locations
+
+This is a very long list and is available <a href="{{site.baseurl}}/reference/specificLocation">here</a>.
+
 ### Related Identifier Relationships
 
 - cites this upload
@@ -63,17 +77,28 @@ For Creative Commons Licenses, use version 4.0 because this allows a better attr
 - is identical to this upload
 - is an alternate identifier of this upload
 
-### Geographic Location
-
-- cape cod
-- martha's vinyard
-- muskeget
-- nantucket
-- tuckernuck
-
-### Specific Locations
-
-This is a very long list and is available [here.](https://nantucketbiodiversity.github.io/NBIdigitalrepo/reference/specificLocations)
+### Contributor Relationships
+- Contact person
+- Data collector
+- Data curator
+- Data manager
+- Distributor
+- Editor
+- Hosting institution
+- Other
+- Producer
+- Project leader
+- Project manager
+- Project member
+- Registration agency
+- Registration authority
+- Related Person
+- Research group
+- Researcher
+- Rights holder
+- Sponsor
+- Supervisor
+- Work package leader
 
 
 ## Citations

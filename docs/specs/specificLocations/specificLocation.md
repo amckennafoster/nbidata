@@ -1,5 +1,5 @@
 ---
-permalink: /reference/specificLocations
+permalink: /specs/specificLocations
 layout: curators
 ---
 
