@@ -1,9 +1,11 @@
-<html>
-<title>Specific Locations</title>
+---
+permalink: /reference/specificLocations
+layout: curators
+---
 
-<body>
 
-<h2>Controlled vocabulary for specific locations</h2>
+# Controlled vocabulary for specific locations
+
 <ul>
 <li>	airport	</li>
 <li>	altar rock	</li>
@@ -81,5 +83,3 @@
 <li>	town of nantucket	</li>
 <li>	university of massachusetts field station	</li>
 </ul>
-</body>
-</html>

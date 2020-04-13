@@ -73,7 +73,7 @@ For Creative Commons Licenses, use version 4.0 because this allows a better attr
 
 ### Specific Locations
 
-This is a very long list and is available [here.](https://nantucketbiodiversity.github.io/NBIdigitalrepo/reference/specificLocations.html)
+This is a very long list and is available [here.](https://nantucketbiodiversity.github.io/NBIdigitalrepo/reference/specificLocations)
 
 
 ## Citations
