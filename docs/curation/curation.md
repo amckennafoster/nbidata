@@ -3,17 +3,37 @@ permalink: /curation/
 layout: curators
 ---
 
-Workflow: practical steps for curators to follow in order to compile clean, usable data and reports for submission to the Zenodo repository. Include: pre-zenodo steps, tidy data, file types
 
-# Curation Workflow
+# The Curation Process
 
-Use the following guidelines to curate each dataset. Information from the [FlattenedFauna](https://app.gitbook.com/@flattenedfauna/s/practice-space/) project informed this protocol. 
+Everything on this page is the responsibility of the NBI Wrangler. The curation process prepares research outputs for upload and creates a record of the files for later use by the NBI Uploader. Information from the [FlattenedFauna](https://app.gitbook.com/@flattenedfauna/s/practice-space/) project informed this protocol. 
 
-## Curating Data & Reports
+The two main sections on this page are:
 
-1. Tidy the data
-2. Clean the data
-3. Create a list of the variables (columns) in a new csv file and name this dataDictionary
+1. Embargoing and Data Plan: Work with the researcher to plan publication for their data.
+1. Curating Data & Reports: Formatting the dataset and report so they meet open science best practices.
+2. Metadata: Recording the information that describes the dataset and report (like title, authors, etc). This is essential to make the files searchable and useful once uploaded to the Repository.
+
+# Embargoing and Data Plan
+
+In an ideal world, a dataset would be ready for publication with the report. However there are many reasons a researcher may want to postpone publication and so researchers have the option to submit their data with their report to NBI under an agreed upon embargo restriction postponing publication to a future date.  The default time period is **two years**. The benefit of embargoing, rather than just submitting data at some later point, is that NBI holds a copy of the data in case the researcher either loses the dataset or goes incommunicado. Additionally, timely submission of data means the NBI Wrangler can curate the dataset while the project is fresh on the mind.
+
+The researcher has the following options:
+
+1. Submit data with report for publication.
+2. Submit data with report and agree to a default two year embargo period for publication, or arrange a different embargo timeline.
+3. Submit a report only and agree to a custom embargo time period. (Discouraged)
+
+
+Here is an example:  A PhD student hopes to publish a paper based on their data as part of their dissertation.  They think it will be 2.5 years before publication.  The researcher agrees to submit data with their report but have it embargoed for 2.5 years. At the end of their grant year, NBI receives the report and dataset.  The report is published immediately.  The NBI Wrangler curates the dataset and puts it in a folder marked with the date of publication.  In 2.5 years, NBI contacts the researcher to get final confirmation for data publication.  At this point the researcher may send a more complete dataset or let NBI know the data has been pubished elsewhere.  In the latter case, the NBI uploader can add the DOI of the published data to the existing report record in the NBI Repository.
+
+# Curating Data & Reports
+
+Here is an overview of the steps involved:
+
+1. Tidy the data: Make sure the data is in an appropriate open science format.
+2. Clean the data: Check for consistancy and null cells
+3. Create a data dictionary: List of the variables (columns) in a new csv file
 4. Examine each data column and fill in the data dictionary
 5. Create metadata
 

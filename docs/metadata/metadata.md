@@ -73,9 +73,6 @@ The recommended license is Creative Commons Attribution 4.0.  This allows maximu
 #### Embargoes
 Enter the embargo information in this field and note why the data is embargoed and what month and year it should be published.
 
-Researchers have the option to submit their data with their report to NBI under an agreed upon embargo restriction postponing publication to a future date.  The benefit of embargoing is that NBI holds a copy of the data in case the researcher either loses the dataset or goes incommunicado. Additionally, timely submission of data means the NBI Wrangler can curate the dataset while the project is fresh on the mind.
-
-Here is an example:  A PhD student hopes to publish a paper based on their data as part of their dissertation.  They think it will be 2.5 years before publication.  The researcher agrees to submit data with their report but have it embargoed for 2.5 years. At the end of their grant year, NBI receives the report and dataset.  The report is published immediately.  The NBI Wrangler curates the dataset and puts it in a folder marked with the date of publication.  In 2.5 years, NBI contacts the researcher to get final confirmation for data publication.
 
 ### Related Identifiers, Funding and Contributors
 
