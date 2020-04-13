@@ -5,7 +5,7 @@ layout: curators
 
 # Specifications & Technical Details
 
-### Licenses
+## Licenses
 
 There are many license options out there and a nice review is [here](http://www.dcc.ac.uk/resources/how-guides/license-research-data) (scroll to the Standard License section). Another repository, figshare, also has a [nice summary](https://knowledge.figshare.com/articles/item/what-is-the-most-appropriate-licence-for-my-data). The Creative Commons Attribution (CC BY) (version 4.0) license is recommended for the NBI Digital Repository. There are six main Creative Commons licenses, each with various restrictions, and most do not meet [Open Access](https://en.wikipedia.org/wiki/Open_access) requirements:
 
@@ -37,5 +37,44 @@ There is a data specific license available called the [Open Data Commons Attribu
 
 For Creative Commons Licenses, use version 4.0 because this allows a better attribution format (read more at the [Digital Curation Centre](http://www.dcc.ac.uk/resources/how-guides/license-research-data))
 
-### Citations
+## Controlled Vocabularies
+
+### Related Identifier Relationships
+
+- cites this upload
+- is cited by this upload
+- is supplemented by this upload
+- is referenced by this upload
+- references this upload
+- is previous version of this upload
+- is new version of this upload
+- contunues this upload
+- is contunued by this upload
+- has this upload as part
+- is part of this upload
+- reviews this upload
+- is reviewed this upload
+- documents this upload
+- is documented by this upload
+- is compiled/created by this upload
+- complied/created this upload
+- is the source this upload is derived from
+- has this upload as its source
+- is identical to this upload
+- is an alternate identifier of this upload
+
+### Geographic Location
+
+- cape cod
+- martha's vinyard
+- muskeget
+- nantucket
+- tuckernuck
+
+### Specific Locations
+
+This is a very long list and is available [here.](https://nantucketbiodiversity.github.io/NBIdigitalrepo/reference/specificLocations.html)
+
+
+## Citations
 - Rathmann, Torsten. (2018, October). Licenses for Research Data (Version 1). Zenodo. http://doi.org/10.5281/zenodo.1463156

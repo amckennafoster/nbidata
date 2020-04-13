@@ -10,13 +10,13 @@ Everything on this page is the responsibility of the NBI Wrangler. The curation 
 
 The two main sections on this page are:
 
-1. Embargoing and Data Plan: Work with the researcher to plan publication for their data.
+1. Data Embargoes: Work with the researcher to plan publication for their data.
 1. Curating Data & Reports: Formatting the dataset and report so they meet open science best practices.
 2. Metadata: Recording the information that describes the dataset and report (like title, authors, etc). This is essential to make the files searchable and useful once uploaded to the Repository.
 
-# Embargoing and Data Plan
+# Data Embargoes
 
-In an ideal world, a dataset would be ready for publication with the report. However there are many reasons a researcher may want to postpone publication and so researchers have the option to submit their data with their report to NBI under an agreed upon embargo restriction postponing publication to a future date.  The default time period is **two years**. The benefit of embargoing, rather than just submitting data at some later point, is that NBI holds a copy of the data in case the researcher either loses the dataset or goes incommunicado. Additionally, timely submission of data means the NBI Wrangler can curate the dataset while the project is fresh on the mind.
+In an ideal world, a dataset would be ready for publication with the report. However, there are many reasons a researcher may want to postpone publication. Researchers have the option to submit their data with their report to NBI under an agreed upon embargo postponing publication to a future date.  The default time period is **two years**. The benefit of embargoing, rather than just submitting data at some later point, is that NBI holds a copy of the data in case the researcher either loses the dataset or goes incommunicado. Additionally, timely submission of data means the NBI Wrangler can curate the dataset while the project is fresh on the mind.
 
 The researcher has the following options:
 
@@ -102,7 +102,7 @@ All file types should be 'open' meaning a user does not need propriatary softwar
 **Data**
 #### CSV Comma Separated Values
 
-CSV is a standard format for open data.  Most spreadsheet programs (like Excel) will allow you to save a file as .csv.  All formatting is stripped away.
+CSV is a standard format for open data.  Most spreadsheet programs (like Excel) will allow you to save a file as .csv.  All formatting is stripped away.  If you have the options save as CSV UTF-8.  This will store unusual characters used in any note or comment fields properly.
 
 #### TXT Text file
 
@@ -130,7 +130,7 @@ Metadata is information about an object, like author, date created, etc. Good me
 
 
 ## Filling Out the Metadata Form
-The NBI Wrangler submits metadata related to the report and dataset to NBI via the **Metadata Form**. The fields are set up to match what is available on Zenodo.  Once a year, the NBI Uploader (the committee member responsible for uploading to Zenodo) will use the information entered into the Metadata Form to fill in values on Zenodo.
+The NBI Wrangler submits metadata related to the report and dataset to NBI via the Metadata Form. The fields are set up to match what is available on Zenodo.  Once a year, the NBI Uploader (the committee member responsible for uploading to Zenodo) will use the information entered into the Metadata Form to fill in values on Zenodo.
 
 #### Upload Type
 Choose the upload type from the dropdown list.  If the upload will include both a report and a dataset, use dataset.
@@ -151,20 +151,20 @@ Paste in the abstract of the researcher report and include any other relevant in
 
 #### Subject
 Enter the url for the study subject (species studied) if one exists.  Use the [Global Biodiversity Inforamtion Facility](https://www.gbif.org/) to find the url.  
-- If the subject is not represented on GBIF, use the lowest taxonomic term available and include your subject as a keyword.  
-- If there are many subjects, include the lowest taxonomic term that describes them all (e.g. https://www.gbif.org/species/6163 for a study on spiders in the family Thomisidae).
+- If the subject is not represented on GBIF, use the lowest taxonomic term available and include your subject's species name as a keyword.  
+- If there are many subjects, include the lowest taxonomic term that describes them all (e.g. [https://www.gbif.org/species/6163](https://www.gbif.org/species/6163) for a study on spiders in the family Thomisidae).
 
 #### File Description
-List the name of each file being uploaded, including the file extension (e.g. wormData.csv).  If necessary, include a description that would help a user know what the filed contains. This is useful there are many files and the file names do not fully convey the contents.
+List the name of each file being uploaded, including the file extension (e.g. wormData.csv).  If necessary, include a description that would help a user know what the file contains. This is helpful there are many files and the file names do not fully convey their contents.
 
-This list will be used by the NBI Uploader to confirm they have the right files to upload.  It will also be included in the Description field on the repository.
+This list will be used by the NBI Uploader to confirm they have the right files to upload.  It will also be included in the Description field on the Repository.
 
 #### Study Type
 Study type is how the collected data is analyzed or what it produces.  Examples include: checklist, species survey, genetic analysis, species-area curve, etc.
 
 #### Locations
 General Geography
-- The General Geography locations are the islands or other land masses, please choose as appropriate to your study. 
+- The General Geography locations are the islands or other land masses, please choose as appropriate to the study. 
 
 Specific Locations
 - The second set of locations are more specific. If your study had more than six specific locations, add additional specific locations as keywords in the free text keyword box.  However, please do not enter more than 10 total specific locations.  
@@ -175,20 +175,18 @@ Specific locations may include properties, generally accepted place names, prope
 Choose two methods used to collect data in your study. If you used more than two methods add them as additional keywords in the free text box below.  Methods are the ways data was acquired, not the way it was analyzed.
 
 #### Kingdom 
-Choose the kingdom that the subject of your study is classified in. If your study focuses on subjects in more than one kingdom, add another kingdom as an additional keyword in the free text box below. This will be useful for users to find all NBI studies related to plants or animals or fungi.
+Choose the kingdom that the subject of your study is classified in. If your study focuses on subjects in more than one kingdom, add another kingdom as an additional keyword in the free text box below. This will help users find all NBI studies related to plants or animals or fungi.
 
 #### Additional Keywords
-Examples of this could include ecosystem analysis, symbiotic relationships, diet analysis etc.  Include important words that a user might search for.
+Examples of this could include ecosystem analysis, symbiotic relationships, diet analysis etc.  Include important words that a user might search for.  Add any information here that did not fit in the above fields.  
 
 #### License
-The recommended license is Creative Commons Attribution 4.0.  This allows maximum reusability and requires users to cite this upload.  For more information on the world of open data licenses see <a href="{{site.baseurl}}/reference/">the references section</a> of this site.
+The recommended license is Creative Commons Attribution 4.0.  This allows maximum reusability and requires users to cite this upload.  For more information on the world of open data licenses see <a href="{{site.baseurl}}/reference/">the specifications and technical details section</a> of this site.
 
 #### Embargoes
-Enter the embargo information in this field. Note why the data is embargoed and what month and year it should be published.
+Enter the embargo information in this field. Note why the data is embargoed and what month and year it should be published.  Here is an example:
 
-Researchers have the option to submit their data with their report to NBI under an agreed upon embargo restriction postponing publication to a future date.  The benefit of embargoing is that NBI holds a copy of the data in case the researcher either loses the dataset or goes incommunicado. Additionally, timely submission of data means the NBI Wrangler can curate the dataset while the project is fresh on the mind.
-
-Here is an example:  A PhD student hopes to publish a paper based on their data as part of their dissertation.  They think it will be 2.5 years before publication.  The researcher agrees to submit data with their report but have it embargoed for 2.5 years. At the end of their grant year, NBI receives the report and dataset.  The report is published immediately.  The NBI Wrangler curates the dataset and puts it in a folder marked with the date of publication.  In 2.5 years, NBI contacts the researcher to get final confirmation for data publication.
+> "Embargoed 3 years: publish in 2024. Researcher plans to do a follow up study and publish a paper."
 
 #### Related Identifiers
 The dataset or report may be related to a research output that is already published and has a DOI. Related identifiers may point to a research output within the NBI Digital Repository on Zenodo or may point to an external source.  For example, a researcher conducts a pilot study on Nantucket and NBI publishes the dataset and report on the repository. These likely have no related identifiers. The following year, the researcher conducts follow up research and collects a much larger dataset, subsequently publishing the results in a peer reviewed journal. The researcher submits the dataset to NBI for publication.  That dataset would have two related identifiers: one for the pilot study and one for the peer reviewed publication.
@@ -223,7 +221,6 @@ Contributors are those who helped significantly with data collection/analysis/ma
 Use the following format: last name1, first name1, affiliation1, relationship1; last name2, first name2, affiliation2, relationship2
 
 
-**If you believe that keywords should be added to the metadata form but do not reflect the content of the study, please do not add them in the free text box. The metadata collected from this form is used to describe your work so we strive for it to be as accurate as possible. If you would like to suggest keywords to be added to the metadata form, please do so here.**
 
 Notes
 
@@ -231,4 +228,5 @@ Notes
 - Should we suggest that checklists be submitted on the form as a Report rather than Dataset?
 - We should add a page or section that shows what the controlled vocabularies are.  It would be good to link to that content from the how to use data page.
 - Researcher metadata form: author names, ORCID, affiliations; contributor names/affiliations, desired report title, desired dataset title, If dataset, publication restrictions. 
+- We should include a field in the form for researcher contact information.
 
