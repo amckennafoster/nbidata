@@ -7,10 +7,13 @@ permalink: /openSciFAQ/
 
 
 ### What is open science?
-Overview of what open science is, how it works
+
+Throughout the world, researchers are becoming more cognizant of the value and importance of open science. As scientific research becomes highly data-driven and reliant on computing, scientists are conscious of the growing need to share data, software and infrastructure to reduce wasteful duplication and impact considerable cost savings. This new era of thought considers the importance of everything in academia be open, such as open access to literature, open educational resources, open data, and open science. However, the practice of open science is not all-inclusive at the present and some researchers speculate out of curiosity how such a change would affect their career.
 
 ### What's the impact?
-Why it works, how it impacts the larger scientific community
+
+In this article entitled: How Open Science Helps Researchers Succeed (2016), researchers from numerous organizations and universities in the United States address concerns raised in connection to open science and demonstrate that the advantages outweigh the disadvantages. 
+Learn more: https://elifesciences.org/articles/16800
 
 ### Who contributes to open science?
 
