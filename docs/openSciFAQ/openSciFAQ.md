@@ -7,17 +7,22 @@ permalink: /openSciFAQ/
 
 
 ### What is open science?
-Overview of what open science is, how it works
+
+Throughout the world, researchers are becoming more cognizant of the value and importance of open science. As scientific research becomes highly data-driven and reliant on computing, scientists are conscious of the growing need to share data, software and infrastructure to reduce wasteful duplication and impact considerable cost savings. This new era of thought considers the importance of everything in academia be open, such as open access to literature, open educational resources, open data, and open science. However, the practice of open science is not all-inclusive at the present and some researchers speculate out of curiosity how such a change would affect their career.
 
 ### What's the impact?
-Why it works, how it impacts the larger scientific community
+
+In this article entitled: [**How Open Science Helps Researchers Succeed**]( https://elifesciences.org/articles/16800), researchers from numerous organizations and universities in the United States address concerns raised in connection to open science and demonstrate that the advantages outweigh the disadvantages. 
+
+Equally important is the following TEDX Talk by Research Associate and Open Science Champion, Dr Rachael Ainsworth. Here she addresses how [**Research Culture is Broken — Open Science Can Fix It!**](https://www.youtube.com/watch?v=c-bemNZ-IqA) In additon, Dr. Ainstworth points out that "Open science could be the gateway to a more inclusive and supportive culture". 
 
 ### Who contributes to open science?
 
+Researchers can use open science practices to facilitate publishing, communicate scientific knowledge in the media, impact reach throughout the scientific community, as well as increase funding and increase exposure in scientific literature. 
 
 ---
 
-# Learn more
+**Resources**
 
 [Open Science](https://theconversation.com/research-transparency-5-questions-about-open-science-answered-76851) - A general overview for scientists and non-scientists.
 
