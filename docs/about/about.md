@@ -32,11 +32,48 @@ Google Drive is used to store research outputs ready for upload.  The Nantucket 
 
 The controlled vocabulary sheet has a script (Tools>Script Editor) that fills the appropriate fields in the form.  The code for this script comes from the YouTube channel [Learn Google Spreadsheets](https://www.youtube.com/watch?v=o3AL7ASI_cA&feature=youtu.be) and is reproduced here:
 
+	var ssID= "[your sheet id- remove the brackets]";
+	var formID= "[your form id- remove the brackets]";
+	var wsData = SpreadsheetApp.openById(ssID).getSheetByName("vocab");
+	var form = FormApp.openById(formID)
+	function main(){
+	  //Make an array of controlled vocab list titles
+	  var labels = wsData.getRange(1,1,1,wsData.getLastColumn()).getValues()[0];
+	  //Loop through the array
+	  labels.forEach(function(label,i){
+	    var options = wsData
+	    .getRange(2,i+1,wsData.getLastRow()-1,1)
+	    .getValues()
+	    .map(function(o){ return o[0] }) //this part makes the array of arrays into an array
+	    .filter(function(o){ return o !== "" }); //this removes blank values
+	   updateDropDownUsingTitle(label,options);                                                                   
+	  }); 
+	}
+	function updateDropDownUsingTitle(title,values) {
+	  var items = form.getItems();
+	  var titles = items.map(function(item){
+	    return item.getTitle();
+	  });
+	  var position = titles.indexOf(title);
+	  //the if is for error handling if the sheet contains a title not in the form
+	  if(position !== -1){
+	    var item = items[position];
+	    var itemID = item.getId();
+	    updateDropdown(itemID, values)
+	  } 
+	}
+	function updateDropdown(id, values) {
+	  var item = form.getItemById(id);
+	  item.asListItem().setChoiceValues(values);
+	  //This gets the item id- copy it from question.
+		  //var items = form.getItems();
+	  //Logger.log(items[8].getId().toString());  
+	}
 
 ---
 
 
-# Who Made It Happen
+# Repository Authors
 Overview of NBI: what it is, what it does, who's involved; link out to main NBI site; who is the UW iSchool, who are we, why did we make this, how did it come about
 
 ## About NBI
@@ -64,62 +101,7 @@ Our team would like to thank NBI for the opportunity to create this repository a
 
 ---
 
-## Technical Details
 
-'''
-var ssID= "[your sheet id- remove the brackets]";
-var formID= "[your form id- remove the brackets]";
-
-var wsData = SpreadsheetApp.openById(ssID).getSheetByName("vocab");
-var form = FormApp.openById(formID)
-
-function main(){
-  //Make an array of controlled vocab list titles
-  var labels = wsData.getRange(1,1,1,wsData.getLastColumn()).getValues()[0];
-  
-  //Loop through the array
-  labels.forEach(function(label,i){
-    var options = wsData
-    .getRange(2,i+1,wsData.getLastRow()-1,1)
-    .getValues()
-    .map(function(o){ return o[0] }) //this part makes the array of arrays into an array
-    .filter(function(o){ return o !== "" }); //this removes blank values
-  
-   updateDropDownUsingTitle(label,options);
-                                                                        
-  });
-  
-}
-
-
-
-function updateDropDownUsingTitle(title,values) {
-  
-  var items = form.getItems();
-  var titles = items.map(function(item){
-    return item.getTitle();
-  });
-  
-  var position = titles.indexOf(title);
-  //the if is for error handling if the sheet contains a title not in the form
-  if(position !== -1){
-    var item = items[position];
-    var itemID = item.getId();
-    updateDropdown(itemID, values)
-  }
-  
-}
-
-function updateDropdown(id, values) {
-  
-  var item = form.getItemById(id);
-  item.asListItem().setChoiceValues(values);
-  //This gets the item id- copy it from question.
-  //var items = form.getItems();
-  //Logger.log(items[8].getId().toString());
-  
-}
-'''
 
 
 

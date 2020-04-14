@@ -55,11 +55,11 @@ Here are some examples:
 
 [Zizka 2016 - Rare species list in the Neotropics](https://zenodo.org/record/125594#.XkTaLyP9l1s)
 
-Here is the currently empty NBI repository: [https://zenodo.org/communities/nantucketbiodiversity/](https://zenodo.org/communities/nantucketbiodiversity/)
+Here is the NBI repository: [https://zenodo.org/communities/nantucketbiodiversity/](https://zenodo.org/communities/nantucketbiodiversity/)
 
 ---
 
-### Who runs the repository?
+### Who hosts the repository?
 
 The repository is hosted on [Zenodo](https://about.zenodo.org). Zenodo was developed and is maintained by CERN, the organization that runs the massive particle accelerator in Europe. CERN developed a digital repository for the huge amounts of data produced by the accelerator and opened the repository to all scientists.  You can read the [repository policies here](https://about.zenodo.org/policies/).
 

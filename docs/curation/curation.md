@@ -12,24 +12,25 @@ The three main sections on this page are:
 
 1. Data Embargoes: Work with the researcher to plan publication for their data.
 1. Curating Data & Reports: Formatting the dataset and report so they meet open science best practices.
-2. Metadata: Recording the information that describes the dataset and report (like title, authors, etc). This is essential to make the files searchable and useful once uploaded to the Repository.
+2. Metadata: Recording the information that describes the dataset and report (title, authors, etc). This is essential to make the files searchable and useful once uploaded to the Repository.
 
 # Data Embargoes
 
-In an ideal world, a dataset would be ready for publication with the report. However, there are many reasons a researcher may want to postpone publication. Researchers have the option to submit their data with their report to NBI under an agreed upon embargo postponing publication to a future date.  The default time period is **two years**. The benefit of embargoing, rather than just submitting data at some later point, is that NBI holds a copy of the data in case the researcher either loses the dataset or goes incommunicado. Additionally, timely submission of data means the NBI Wrangler can curate the dataset while the project is fresh on the mind.
+In an ideal world, a dataset would be ready for publication with the report. However, there are many reasons why a researcher may want to postpone publication. Researchers have the option to submit their data with their report to NBI under an agreed upon embargo postponing publication to a future date.  The default time period is **two years**. The benefit of embargoing, rather than just submitting data at some later point, is that NBI holds a copy of the data in case the researcher either loses the dataset or goes incommunicado. Additionally, timely submission of data means the NBI Wrangler can curate the dataset while the project is fresh on the mind.
 
 The researcher has the following options:
 
 1. Submit data with report for publication.
-2. Submit data with report and agree to a default two year embargo period for publication, or arrange a different embargo timeline.
-3. Submit a report only and agree to a custom embargo time period. (Discouraged)
+2. Submit data with report and agree to a default two year embargo period for publication, or arrange a different embargo timeline. Report is published immediately.
+3. Submit a report only and agree to a custom data agreement.
 
+Universities and institutions may have their own data policies that will complicate this.  Ultimately, the data should be published somewhere.  If a researchers uses their institutional repository or a third party repository, their report record in the NBI Digital Repository can point to the published data wherever it sits.
 
-Here is an example:  A PhD student hopes to publish a paper based on their data as part of their dissertation.  They think it will be 2.5 years before publication.  The researcher agrees to submit data with their report but have it embargoed for 2.5 years. At the end of their grant year, NBI receives the report and dataset.  The report is published immediately.  The NBI Wrangler curates the dataset and puts it in a folder marked with the date of publication.  In 2.5 years, NBI contacts the researcher to get final confirmation for data publication.  At this point the researcher may send a more complete dataset or let NBI know the data has been pubished elsewhere.  In the latter case, the NBI uploader can add the DOI of the published data to the existing report record in the NBI Repository.
+Here is an example:  A PhD student hopes to publish a paper based on their data as part of their dissertation.  They think it will be 2.5 years before publication.  The student agrees to submit data with their report but have it embargoed for 2.5 years. At the end of their grant year, NBI receives the report and dataset.  The report is published immediately.  The NBI Wrangler curates the dataset and puts it in a folder marked with the date of publication.  In 2.5 years, NBI contacts the researcher to get final confirmation for data publication.  At this point the researcher may send a more complete dataset or let NBI know the data has been pubished elsewhere.  In the latter case, the NBI uploader can add the DOI of the published data to the existing report record in the NBI Repository.
 
 # Curating Data & Reports
 
-Here is an overview of the steps involved:
+Researchers should do most of this work (steps 1-4) since they know their data the best.  However, the curator will need to check the dataset and make sure it meets the standards listed below.  Here is an overview of the steps involved:
 
 1. Tidy the data: Make sure the data is in an appropriate open science format.
 2. Clean the data: Check for consistancy and null cells
@@ -72,9 +73,9 @@ It has the following characteristics.
 - If known, in the data dictionary note the datum used (e.g. NAD87)
 
 #### Date and Time
-- Date and Time are separate fields
+- Date and Time are separate columns
 - Date is separated into three columns: year, month, and day
-- If time is important to the data, separated the time parts into seperate columns and use a 24 hour system. e.g. hour, minutes, and seconds.
+- If time is important to the data, separate the time parts into seperate columns (e.g. hour, minutes, seconds) and use a 24 hour format.
 
 ---
 
@@ -82,14 +83,14 @@ It has the following characteristics.
 [Data dictionaries](https://help.osf.io/hc/en-us/articles/360019739054-How-to-Make-a-Data-Dictionary) tell users what the column names mean, what the data values mean, and anything else that would help someone use the data wisely.
 
 Create a csv file in your favorite spreadsheet program. The data dictionary will define the variables used in all the data files uploaded as one package, under one doi.  If you have a dataset with more than one data table that each have many of the same variables (e.g. survey data and trap data for the same study subject), make each table its own csv file and list all the variables from each file in the data dictionary file.
-Add the following columns to dataDictionary:
+Add the following columns to the dataDictionary:
 
 - Variable = Variable (column) name
 - Type = string, integer, double, date, etc
 - Description = A brief description of the variable
 - Units = Units for the variable (e.g. meters). If a string, use 'null'
 - Allowed Values = For variables that have a discrete list of values that number fewer than 50, list them here alphabetically, separated by commas. For continuous data types, use 'Any'
-- Notes = Add any other useful information to help some one understand the values or the variable.
+- Notes = Add any other useful information to help some one understand the values or the variable. One important thing to add is why any missing values exist
 
 ---
 
@@ -97,27 +98,28 @@ Add the following columns to dataDictionary:
 
 All file types should be 'open' meaning a user does not need propriatary software to open and use the file.
 
-
-**Data**
-#### CSV Comma Separated Values
+#### Data
+**CSV** Comma Separated Values
 
 CSV is a standard format for open data.  Most spreadsheet programs (like Excel) will allow you to save a file as .csv.  All formatting is stripped away.  If you have the options save as CSV UTF-8.  This will store unusual characters used in any note or comment fields properly.
 
-#### TXT Text file
+**TXT** Text file
 
 Data can also be saved as a text file as long as there is a way for a spreadsheet program to figure out how the data values are separated from each other.
 
-**Reports**
+#### Reports
 
-#### PDF
+**PDF**
 
 PDF is the preferred report format.  Almost any word processor can export a document to the pdf format.  There are online tools to combine several pdfs into one.
 
-**Images**
+#### Images
 
-#### TIFF
+**TIFF**
 
-#### PNG
+**PNG**
+
+**JPEG**
 
 ---
 
