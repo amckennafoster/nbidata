@@ -73,9 +73,8 @@ It has the following characteristics.
 
 #### Date and Time
 - Date and Time are separate fields
-- Both fields follow [ISO 8601](https://www.iso.org/iso-8601-date-and-time-format.html)
-  - YYYY-MM-DD
-  - hh:mm:ss (24-hour clock system) 
+- Date is separated into three columns: year, month, and day
+- If time is important to the data, separated the time parts into seperate columns and use a 24 hour system. e.g. hour, minutes, and seconds.
 
 ---
 
