@@ -50,6 +50,7 @@ It has the following characteristics.
 ---
 
 ## Cleaning Data
+
 #### General
 - Remove leading zeros and consecutive white spaces ([OpenRefine](https://openrefine.org/) is a great tool for this)
 - Correct all misspellings
@@ -76,6 +77,12 @@ It has the following characteristics.
 - Date and Time are separate columns
 - Date is separated into three columns: year, month, and day
 - If time is important to the data, separate the time parts into seperate columns (e.g. hour, minutes, seconds) and use a 24 hour format.
+
+---
+
+## Protected Species
+
+Information on working with potentially sensitive data regarding protected species and locations.  We could suggest uploading just the first page of the report and prompting users to contact NBI for more inforamtion.
 
 ---
 
@@ -112,6 +119,10 @@ Data can also be saved as a text file as long as there is a way for a spreadshee
 **PDF**
 
 PDF is the preferred report format.  Almost any word processor can export a document to the pdf format.  There are online tools to combine several pdfs into one.
+
+#### Code
+
+Information on including code with an upload.
 
 #### Images
 

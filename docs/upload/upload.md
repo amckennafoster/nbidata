@@ -4,7 +4,13 @@ layout: curators
 ---
 
 # Uploading Data & Reports to Zenodo
-Workflow: practical steps for curators to follow in order to upload data and reports to Zenodo with high-quality metadata and appropriate specifications. Include: metadata, schedule publishing, upload
+
+To include in this section:
+- Checking for other published versions of reports
+- Checking for related identifiers
+- Confirming no protected species information
+- Embargoed datasets
+- All the keyword guidelines
 
 
 ## Process
