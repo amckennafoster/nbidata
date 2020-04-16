@@ -38,6 +38,8 @@ Researchers should do most of this work (steps 1-4) since they know their data t
 4. Examine each data column and fill in the data dictionary
 5. Create metadata
 
+<a href=" https://htmlpreview.github.io/?https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/docs/assets/files/exampleIsopodData.html" target="_blank">Here is an example</a> of a cleaned and properly formatted dataset.
+
 ---
 
 ## Tidy Data
