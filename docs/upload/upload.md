@@ -10,6 +10,7 @@ To include in this section:
 - Checking for related identifiers
 - Confirming no protected species information
 - Embargoed datasets
+- Subject- click URL to make sure it is valid and use that to get the subject name.
 - All the keyword guidelines
 
 
