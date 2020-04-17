@@ -103,7 +103,7 @@ Add the following columns to the dataDictionary:
 
 ---
 
-## File Types
+## File Types [section in progress]
 
 All file types should be 'open' meaning a user does not need propriatary software to open and use the file.
 
@@ -148,9 +148,6 @@ The NBI Wrangler submits metadata related to the report and dataset to NBI via t
 
 #### Upload Type
 Choose the upload type from the dropdown list.  If the upload will include both a report and a dataset, use dataset.
-
-#### Date of Publication
-If the exact date is unknown enter as much information as is available, with the year as a minimum. If the day or month is unknown, enter it as "01", for example: 01/01/2020
 
 #### Title
 Paste in the title from the researcher report, if available.  Otherwise, create a descriptive title.  
