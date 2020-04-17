@@ -94,7 +94,7 @@ The [University of Washington Information School](https://ischool.uw.edu/) train
 - Link to your portfolio, site, or linkedin
 
 **Meghan Mitchell**
-- Link to your portfolio, site, or linkedin
+- [LinkedIn](https://www.linkedin.com/in/meghan--mitchell)
 
 
 ---
