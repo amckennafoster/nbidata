@@ -92,16 +92,10 @@ Are there other uploads on the repository directly related to this research? Is 
 ## Contributors
 Paste in any information provided by the Wrangler.
 
-## References
+## References to Thesis
+Unlikely to use these fields.
 
-## Journal
-
-## Conference
-
-## Book/Report/Chapter
-
-## Thesis
-Use this field if the report is actually a thesis.  If it has been published elsewhere, has a DOI, and there is no associated dataset, be sure to put the DOI in the Digital Object Identifier field above.  If this is the data associated with a published thesis that has a DOI, DO NOT upload a copy of the thesis.  Put the thesis DOI in the RElated/alternate Identifier section.
+For Thesis, use this field if the report is actually a thesis.  If it has been published elsewhere, has a DOI, and there is no associated dataset, be sure to put the DOI in the Digital Object Identifier field above.  If this is the data associated with a published thesis that has a DOI, DO NOT upload a copy of the thesis.  Put the thesis DOI in the RElated/alternate Identifier section.
 
 ## Subject
 Paste in the url provided by the Wrangler.
