@@ -44,14 +44,23 @@ These lists are either specified by Zenodo or created specifically for NBI.
 #### Geographic Location
 
 - cape cod
+- global
 - martha's vinyard
+- massachusetts
 - muskeget
 - nantucket
+- national
+- new england coast
+- the cape and islands
 - tuckernuck
 
 #### Specific Locations
 
 This is a very long list and is available <a href="{{site.baseurl}}/specs/specificLocation">here</a>.
+
+#### Methods
+
+
 
 #### Related Identifier Relationships
 
@@ -100,6 +109,11 @@ This is a very long list and is available <a href="{{site.baseurl}}/specs/specif
 - Supervisor
 - Work package leader
 
+## Google Drive Organization
+
+The following diagram shows the folder structure to store research outputs.  Files are stored by category(Ready, Uploaded, Embargoed) and then year to upload or year uploaded. The Metadata folder contains the files used to collect metadata from the NBI Wranglers.
+
+![A diagram of the Google Drive folder structure](https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/docs/assets/images/folderStructure.jpeg "Folder Structure"){:height="90%" width="90%"}
 
 ## Citations
 - Rathmann, Torsten. (2018, October). Licenses for Research Data (Version 1). Zenodo. http://doi.org/10.5281/zenodo.1463156

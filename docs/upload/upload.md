@@ -5,38 +5,112 @@ layout: curators
 
 # Uploading Data & Reports to Zenodo
 
-To include in this section:
-- Checking for other published versions of reports
-- Checking for related identifiers
-- Confirming no protected species information
-- Embargoed datasets
-- Subject- click URL to make sure it is valid and use that to get the subject name.
-- All the keyword guidelines
+This page provides instructions on uploading research material to the repository. The Uploader should have the following in the [Google Drive](https://nantucketbiodiversity.github.io/NBIdigitalrepo/upload/#google-drive-organization):
 
+1. A record of what is to be uploaded and all the relavant metadata in the Google sheet filled from the Metadata form
+2. The research output files to be uploaded
 
-## Process
+## Overview of the Process:
 
-![Flow chart showing upload decision making process](https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/docs/assets/images/uploadFlow.jpeg "Upload process chart"){:height="90%" width="90%"}
+- Check for embargoed datasets in the NBI Google Drive.
+- Contact researchers with expiring dataset embargos to confirm consent for uploading data.
+- Confirm that you have a report and hopefully dataset in the [Google Drive](https://nantucketbiodiversity.github.io/NBIdigitalrepo/upload/#google-drive-organization) for each new entry logged from the Metadata Form. The File Description column of the Google Sheet should have a list of upload files.
+- Make a new folder in the Uploaded folder and name it for the upload year.
+- After uploading reports and datasets, move them into this folder.  Do not leave copies in the Ready folder.
 
-
+For each upload:
+1. Check for other published versions of the report
+2. Check for related identifiers both on the web and within the repository
+3. If there is a dataset, make sure the files are CSV format and check to make sure the Researcher/Wrangler curated the datasets.
+4. Make sure the report is in pdf format.
+5. Use the information from the metadata form to:
+	- Confirm the absence of protected species information
+	- Click subject URL (if exists) to make sure it is valid and use that to get the subject name.
+6. Log into Zenodo as NBI and start a new upload
+7. Fill in all the relevant metadata fields
+8. Drag the files into the upload window and upload them
+9. Published the files or save to publish later
 
 ## Embargoed Datasets
 
-It is ideal to have a copy of a researcher's data even if they do not want it published immediately.  This reduces the possibility that the data will be lost.  
+Look in the Embargoed folder in the Google Drive.  If there is a folder with the current upload year, any datasets in that folder have expired embargoes and should be uploaded. In the metadata google sheet, find the metadata associated with the dataset.  The report should already be uploaded to the repository. Use those resources to find a contact for the researcher and confirm uploading the data is okay.  Refer to the [dataset embargoes](https://nantucketbiodiversity.github.io/NBIdigitalrepo/curation/) section for the embargo guidelines.
 
-- If a dataset is ready to be published with the associated report it can be put with other files ready for upload.
-- If a researcher requests a dataset be embargoed, put the dataset file in a folder titled with the year it should be published. Put the associated report with other files ready for upload and note in the metadata record what year the data will be published.
+If permission is granted, move those datasets into the appropriate year folder in the Ready folder.
 
-(borrowed from previous page, include?)
-Enter the embargo information in this field and note why the data is embargoed and what month and year it should be published.
+# Uploading Files
+Log into [Zenodo](https://zenodo.org) with NBI credentials. Click 'Upload' to the right of the search bar at the top of the page.  Click the green 'Upload' button in the middle of the screen.  Fill in all applicable metadata fields as described below using the information provided by the NBI Wrangler and the researcher's report.  Be as accurate and detailed as you can!  Without good metadata, the report and data are not very useful.
 
-Researchers have the option to submit their data with their report to NBI under an agreed upon embargo restriction postponing publication to a future date. The benefit of embargoing is that NBI holds a copy of the data in case the researcher either loses the dataset or goes incommunicado. Additionally, timely submission of data means the NBI Wrangler can curate the dataset while the project is fresh on the mind.
+## Community
+Type 'Nantucket' and the Nantucket Biodiversity Digital Repository should show up. Click it to select it.
 
-Here is an example: A PhD student hopes to publish a paper based on their data as part of their dissertation. They think it will be 2.5 years before publication. The researcher agrees to submit data with their report but have it embargoed for 2.5 years. At the end of their grant year, NBI receives the report and dataset. The report is published immediately. The NBI Wrangler curates the dataset and puts it in a folder marked with the date of publication. In 2.5 years, NBI contacts the researcher to get final confirmation for data publication.
+## Upload Type
 
+![Flow chart showing upload decision making process](https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/docs/assets/images/uploadFlow.jpeg "Upload process chart"){:height="90%" width="90%"}
+
+## Digital Object Identifier
+If the researcher submitted a report that already has a DOI, enter it here.  This is unlikely.
+
+## Publication data
+Leave as today's date unless the upload was published somewhere else first (unlikely).
+
+## Title
+Use the title of the report.
+
+## Authors
+Fill in the names in the proper format. The Wrangler should have looked up ORCIDs for each author already so if they are not in the Google sheet, leave blank.
+
+## Description
+If the research was funded by NBI, on the first line put "Submitted in fulfillment of a Nantucket Biodiversity Initiative grant in [Year]"
+
+Paste in whatever description the Wrangler provided.
+
+Paste in the file descriptions provided by the Wrangler.
+
+## Version
+Ignore
+
+## Language
+Type in English or whatever language is applicable.
+
+## Keywords
+
+## Additional notes
+Add anything relevant, but you can usually ignore.
+
+## Access right
+Leave as Open Access.  Do not upload anything that would fall under the other categories unless the NBI Committee decides to start doing this.
 
 ## Licenses
-The recommended license is Creative Commons Attribution 4.0. This allows maximum reusability and requires users to cite this upload. For more information on the world of open data licenses see [Specifications & Technical Details](https://nantucketbiodiversity.github.io/NBIdigitalrepo/specs/).
+Paste in what the Wrangler provided. The recommended license is Creative Commons Attribution 4.0. This allows maximum reusability and requires users to cite this upload. For more information on the world of open data licenses see [Specifications & Technical Details](https://nantucketbiodiversity.github.io/NBIdigitalrepo/specs/).
+
+## Grants
+Ignore unless the Wrangler notes that the work was funded by large grant funding institutions that might be on the available list.
+
+## Related/alternate Identifiers
+Are there other uploads on the repository directly related to this research? Is there a published paper related to this research?
+
+## Contributors
+Paste in any information provided by the Wrangler.
+
+## References
+
+## Journal
+
+## Conference
+
+## Book/Report/Chapter
+
+## Thesis
+Use this field if the report is actually a thesis.  If it has been published elsewhere, has a DOI, and there is no associated dataset, be sure to put the DOI in the Digital Object Identifier field above.  If this is the data associated with a published thesis that has a DOI, DO NOT upload a copy of the thesis.  Put the thesis DOI in the RElated/alternate Identifier section.
+
+## Subject
+Paste in the url provided by the Wrangler.
+
+
+
+
+
+
 
 
 ## Other fields in Zenodo
