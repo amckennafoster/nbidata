@@ -35,9 +35,11 @@ An NBI committee member will work with you to make sure the dataset is clean and
 
 **Embargo Datasets**
 
-You can request that the dataset be embargoed from publication for a negotiated period.  This is beneficial if you hope to use your data in a paper but are not sure the liklihood of that happening.  In case you are not able to publish, NBI will already have a copy of your data so you will not have to dig it out of the depths of your computer.
+You can request that the dataset be embargoed from publication for a negotiated period.  This is beneficial if you hope to use your data in a paper but are not sure the liklihood of that happening.  In case you are not able to publish, NBI will already have a copy of your data so you will not have to dig it out of the depths of your computer. 
 
-When the embargo period ends, NBI will confirm with you that publication is acceptable and it will be uploaded with the associated report.
+When the embargo period ends, NBI will confirm with you that publication is acceptable and it will be uploaded with the associated report. 
+
+For more information about how embargoed datasets are handled, go [here.](https://nantucketbiodiversity.github.io/NBIdigitalrepo/curation/)
 
 ---
 
