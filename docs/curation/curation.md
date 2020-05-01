@@ -103,7 +103,15 @@ Add the following columns to the dataDictionary:
 
 ---
 
-## File Types [section in progress]
+## File Names and Types
+
+File naming convention is the following:
+- Reports: authorlastname-report-year.pdf   For multiple authors: (author1 last name)-et-al-year.pdf
+	- Example: richardson-report-2011.pdf   For multiple authors: richardson-et-al-report-2011.pdf
+- Datasets: Describe the file contents using camalCase
+	-Examples: capturesByDate.csv or pRigidaHeights.csv or allPitfallData.csv or anova.R
+
+
 
 All file types should be 'open' meaning a user does not need propriatary software to open and use the file.
 
