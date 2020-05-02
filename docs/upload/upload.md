@@ -51,7 +51,7 @@ Type 'Nantucket' and the Nantucket Biodiversity Digital Repository should show u
 If the researcher submitted a report that already has a DOI, enter it here.  This is unlikely.
 
 ## Publication data
-Leave as today's date unless the upload was published somewhere else first (unlikely).
+Use the report date unless it was officially published elsewhere (and you added a DOI above).  If there is no date on the report, use February 15 and the year following the grant year.  For example, if the report is for a 2016 grant and there is no report date, use 2017-02-15.
 
 ## Title
 Use the title of the report.
@@ -60,7 +60,7 @@ Use the title of the report.
 Fill in the names in the proper format. The Wrangler should have looked up ORCIDs for each author already so if they are not in the Google sheet, leave blank.
 
 ## Description
-If the research was funded by NBI, on the first line put "Submitted in fulfillment of a Nantucket Biodiversity Initiative grant in [Year]"
+If the research was funded by NBI, on the first line put "Report submitted in fulfillment of a (Year) Nantucket Biodiversity Initiative grant"
 
 Paste in whatever description the Wrangler provided.
 
@@ -73,6 +73,16 @@ Ignore
 Type in English or whatever language is applicable.
 
 ## Keywords
+
+Add the terms from the Google sheet for:
+- Geography Location
+- Specific Location
+- Study Type
+- Method
+- Kingdom
+- Additional Keywords
+
+**If this was an NBI grant,** add the keyword "nbi grant".
 
 ## Additional notes
 Add anything relevant, but you can usually ignore.
@@ -98,7 +108,7 @@ Unlikely to use these fields.
 For Thesis, use this field if the report is actually a thesis.  If it has been published elsewhere, has a DOI, and there is no associated dataset, be sure to put the DOI in the Digital Object Identifier field above.  If this is the data associated with a published thesis that has a DOI, DO NOT upload a copy of the thesis.  Put the thesis DOI in the RElated/alternate Identifier section.
 
 ## Subject
-Paste in the url provided by the Wrangler.
+Paste in the name and url provided by the Wrangler.
 
 
 
