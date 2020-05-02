@@ -64,10 +64,10 @@ If the research was funded by NBI, on the first line put "Report submitted in fu
 
 Paste in whatever description the Wrangler provided.
 
-Paste in the file descriptions provided by the Wrangler.
+If applicable, paste in the file descriptions provided by the Wrangler.  This is useful if there are multiple files and a potential user wants to know about the files before downloading them.
 
 ## Version
-Ignore
+Ignore.
 
 ## Language
 Type in English or whatever language is applicable.
@@ -91,7 +91,7 @@ Add anything relevant, but you can usually ignore.
 Leave as Open Access.  Do not upload anything that would fall under the other categories unless the NBI Committee decides to start doing this.
 
 ## Licenses
-Paste in what the Wrangler provided. The recommended license is Creative Commons Attribution 4.0. This allows maximum reusability and requires users to cite this upload. For more information on the world of open data licenses see [Specifications & Technical Details](https://nantucketbiodiversity.github.io/NBIdigitalrepo/specs/).
+Paste in what the Wrangler provided if not CC 4.0. The recommended license is Creative Commons Attribution 4.0. This allows maximum reusability and requires users to cite this upload. For more information on the world of open data licenses see [Specifications & Technical Details](https://nantucketbiodiversity.github.io/NBIdigitalrepo/specs/).
 
 ## Grants
 Ignore unless the Wrangler notes that the work was funded by large grant funding institutions that might be on the available list.
@@ -100,7 +100,7 @@ Ignore unless the Wrangler notes that the work was funded by large grant funding
 Are there other uploads on the repository directly related to this research? Is there a published paper related to this research?
 
 ## Contributors
-Paste in any information provided by the Wrangler.
+Paste in any information provided by the Wrangler.  However, the contributor relationships are very specific.  Only add people or institutions that have a direct relationship to the files bing uploaded.
 
 ## References to Thesis
 Unlikely to use these fields.

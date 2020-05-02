@@ -111,6 +111,7 @@ File naming convention is the following:
 - Datasets: Describe the file contents using camalCase
 	-Examples: capturesByDate.csv or pRigidaHeights.csv or allPitfallData.csv or anova.R
 
+When adding the year to a filename, use the year of publication rather than the year of the grant.  This will make it easier for people to figure out how to cite it.
 
 
 All file types should be 'open' meaning a user does not need propriatary software to open and use the file.
@@ -186,7 +187,7 @@ General Geography
 - The General Geography locations are the islands or other land masses, please choose as appropriate to the study. 
 
 Specific Locations
-- The second set of locations are more specific. If your study had more than six specific locations, add additional specific locations as keywords in the free text keyword box.  However, please do not enter more than 10 total specific locations.  
+- The second set of locations are more specific. If your study had more than six specific locations, add additional specific locations as keywords in the free text keyword box.  However, please do not enter more than 10 total specific locations.  If a project has more than 10 specific locations, the General Geography of "nantucket" will suffice.
 
 Specific locations may include properties, generally accepted place names, property owner (e.g. Nantucket Conservation Foundation), or geographic feature (e.g. pond, hill, beach).
  
@@ -227,7 +228,9 @@ Here are the relationships that will likely be useful to NBI, however Zenodo has
 Information regarding single or multiple grants that funded this research in this format: Grant funder, grant name or grant number; Grant funder, grant name or grant number; etc.  If this is NBI funded, use the following format: Nantucket Biodiversity Initiative [year of grant].  Example: Nantucket Biodiversity Initiative 2019
 
 #### Contributors
-Contributors are those who helped significantly with data collection/analysis/management or research project as a whole but are not authors.  The relationship is important. If you are an NBI Wrangler and oversaw the data curation of the dataset, **include yourself as Data curator!** Use any of the following:
+Contributors are those who helped significantly with data collection/analysis/management or the research project as a whole but are not authors. People in the Acknoledgments should not be automatically added here.  However, you, as the NBI Wrangler should be noted here (relationship = Related person) because you likely facilitated the work overall. If oversaw the data curation of the dataset, **include yourself as Data curator!**. Use the following format: last name1, first name1, affiliation1, relationship1; last name2, first name2, affiliation2, relationship2
+
+The relationship is important.  Use any of the following:
 
 <table>
 <tr><td>Contact Person</td><td>Data curator</td><td>Data collector</td><td>Data manager</td><td>Distributor</td></tr>
@@ -237,7 +240,7 @@ Contributors are those who helped significantly with data collection/analysis/ma
 <tr><td>Work package leader</td><td></td><td></td><td></td><td></td></tr>
 </table>
 
-Use the following format: last name1, first name1, affiliation1, relationship1; last name2, first name2, affiliation2, relationship2
+
 
 
 

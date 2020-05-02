@@ -3,11 +3,39 @@ permalink: /about/
 ---
 
 # About the NBI Digital Repository
-Overview of what the repository is, what it does, what problems it solves for both NBI and the larger scientific community
 
 This repository came out of a collaboration between the Nantucket Biodiversity Initiative (NBI) and a team of library and information science graduate students at the University of Washington Information School.  As a consortium of non profit organizations, NBI faced the problem of tracking completed research and making research outputs available to everyone. 
 
-## Overview of components
+# Repository Authors
+
+#### University of Washington
+
+**Andrew Mckenna-Foster** [LinkedIn](www.linkedin.com/in/andrew-mckenna-foster) | [GitHub](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Famckennafoster&sa=D) | [Personal Site](https://sites.google.com/view/amckennafoster/home) | [ORCID](https://www.google.com/url?q=https%3A%2F%2Forcid.org%2F0000-0001-7641-6588&sa=D)
+
+**Christopher Tillman Neal**
+
+**Meghan Mitchell** [LinkedIn](https://www.linkedin.com/in/meghan--mitchell)
+
+#### Nantucket Biodiversity Initiative
+
+**Sarah T. Bois**, NBI Chair, and many members of the NBI Committee.
+
+## About NBI
+
+The [Nantucket Biodiversity Initiative](https://www.nantucketbiodiversity.org/) seeks to conserve the native biodiversity of Nantucket, Tuckernuck, Muskeget and surrounding waters through collaborative research, monitoring and education.  It is a collaboration of over 10 regional non profits, goverment departments, and schools.  
+
+## About UW iSchool
+
+The [University of Washington Information School](https://ischool.uw.edu/) trains students to be information professionals with an emphasis on the technologies through which information is delivered.  The iSchool offeres an undergraduate informatics degree, a Master's degree in information management, and a Master's degree in library and information science.  Both Master's programs require a culminating [Capstone project](https://ischool.uw.edu/capstone).  This digital repository is the Capstone project for a team of library and information science graduate students in 2020.
+
+---
+
+## Acknowledgments
+Our team would like to thank NBI for the opportunity to create this repository and documentation site. Sarah T. Bois, NBI Chair and Director of Education and Research at the Linda Loring Nature Foundation, acted as the main liason between UW and NBI. Karen Beattie, Director of Science & Stewardship at the Nantucket Conservation Foundation, organized and tracked NBI reports over the last 15 years making the initial report uploads possible. We would also like to thank : individuals or communities who have helped us realize this project?
+
+---
+
+# Overview of Components
 
 1. Zenodo Repository
 2. GitHub Repository for documentation and this website
@@ -73,36 +101,7 @@ The controlled vocabulary sheet has a script (Tools>Script Editor) that fills th
 ---
 
 
-# Repository Authors
-Overview of NBI: what it is, what it does, who's involved; link out to main NBI site; who is the UW iSchool, who are we, why did we make this, how did it come about
 
-## About NBI
-
-The [Nantucket Biodiversity Initiative](https://www.nantucketbiodiversity.org/) seeks to conserve the native biodiversity of Nantucket, Tuckernuck, Muskeget and surrounding waters through collaborative research, monitoring and education.  It is a collaboration of over 10 regional non profits, goverment departments, and schools.  
-
-## About UW iSchool
-
-The [University of Washington Information School](https://ischool.uw.edu/) trains students to be information professionals with an emphasis on the technologies through which information is delivered.  The iSchool offeres an undergraduate informatics degree, a Master's degree in information management, and a Master's degree in library and information science.  Both Master's programs require a culminating [Capstone project](https://ischool.uw.edu/capstone).  This digital repository is the Capstone project for a team of library and information science graduate students in 2020:
-
-**Andrew Mckenna-Foster**
-- [LinkedIn](www.linkedin.com/in/andrew-mckenna-foster)
-- [GitHub](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Famckennafoster&sa=D)
-- [Personal Site](https://sites.google.com/view/amckennafoster/home)
-- [ORCID](https://www.google.com/url?q=https%3A%2F%2Forcid.org%2F0000-0001-7641-6588&sa=D)
-
-**Christopher Tillman Neal**
-- Link to your portfolio, site, or linkedin
-
-**Meghan Mitchell**
-- [LinkedIn](https://www.linkedin.com/in/meghan--mitchell)
-
-
----
-
-## Acknowledgments
-Our team would like to thank NBI for the opportunity to create this repository and documentation site. We would also like to thank : individuals or communities who have helped us realize this project? Our families and friends for their support?
-
----
 
 
 
