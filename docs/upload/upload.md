@@ -85,6 +85,8 @@ Add the terms from the Google sheet for:
 - Additional Keywords
 - **If this was an NBI grant,** add the keyword "nbi grant".
 
+If there is an "Additional keyword" that should be added to the list that appears in the metadata form that Wranglers use, add it to each appropriate list in the Controlled-Vocabulary Google sheet in the Google Drive.  Follow the specific directions in the [Specifications & Technical Details](https://nantucketbiodiversity.github.io/NBIdigitalrepo/specs/). section.
+
 ## Additional notes
 Add anything relevant, but you can usually ignore.
 

@@ -39,7 +39,14 @@ For Creative Commons Licenses, use version 4.0 because this allows a better attr
 
 ## Controlled Vocabularies
 
-These lists are either specified by Zenodo or created specifically for NBI.
+These lists are either specified by Zenodo or created specifically for NBI. To add a term to an NBI controlled vocabulary (Geographic Location, Specific Location, Study Type, or Method) opn the Controlled-Vocabulary Google sheet in the NBI Google Drive.  You must add the term to each applicable list.  For example, here are the steps to add "Lily Pond" to the Specific Location lists:
+1. In the Controlled Vocabulary sheet, add Lily Pond to the bottom of Specific Location1
+2. Highlight the Specific Location1 terms and sort alphabetically
+3. Copy and Paste that full list into each of the other five Specific Location columns.
+4. Add any other terms to other columns as needed.
+5. Scroll to the right and hit the button that "Update Form" (This will take up to a minute so be patient)
+
+The last step puts all your updates into the Metadata Form dropdowns.
 
 #### Geographic Location
 
@@ -114,6 +121,7 @@ This is a very long list and is available <a href="{{site.baseurl}}/specs/specif
 The following diagram shows the folder structure to store research outputs.  Files are stored by category(Ready, Uploaded, Embargoed) and then year to upload or year uploaded. The Metadata folder contains the files used to collect metadata from the NBI Wranglers.
 
 ![A diagram of the Google Drive folder structure](https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/docs/assets/images/folderStructure.jpeg "Folder Structure"){:height="90%" width="90%"}
+
 
 ## Citations
 - Rathmann, Torsten. (2018, October). Licenses for Research Data (Version 1). Zenodo. http://doi.org/10.5281/zenodo.1463156
