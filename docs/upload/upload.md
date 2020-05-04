@@ -50,7 +50,7 @@ Type 'Nantucket' and the Nantucket Biodiversity Digital Repository should show u
 ## Digital Object Identifier
 If the researcher submitted a report that already has a DOI, enter it here.  This is unlikely.
 
-## Publication data
+## Publication date
 Use the report date unless it was officially published elsewhere (and you added a DOI above).  If there is no date on the report, use February 15 and the year following the grant year.  For example, if the report is for a 2016 grant and there is no report date, use 2017-02-15.
 
 ## Title
@@ -60,9 +60,9 @@ Use the title of the report.
 Fill in the names in the proper format. The Wrangler should have looked up ORCIDs for each author already so if they are not in the Google sheet, leave blank.
 
 ## Description
-If the research was funded by NBI, on the first line put "Report submitted in fulfillment of a (Year) Nantucket Biodiversity Initiative grant"
+If the research was funded by NBI, on the first line put "Report submitted in fulfillment of a (Year) Nantucket Biodiversity Initiative grant." The year should be the year of the grant, while the rest of the dates (file name and publication date) should be the date on the report or the date the report was received (default to February 15 of the year following the grant year).
 
-Paste in whatever description the Wrangler provided.
+Paste in whatever description the Wrangler provided. You may have to delete a bunch of carriage returns if the description was pasted in from pdf.
 
 If applicable, paste in the file descriptions provided by the Wrangler.  This is useful if there are multiple files and a potential user wants to know about the files before downloading them.
 
@@ -74,6 +74,8 @@ Type in English or whatever language is applicable.
 
 ## Keywords
 
+All keywords should be lower case.
+
 Add the terms from the Google sheet for:
 - Geography Location
 - Specific Location
@@ -81,8 +83,7 @@ Add the terms from the Google sheet for:
 - Method
 - Kingdom
 - Additional Keywords
-
-**If this was an NBI grant,** add the keyword "nbi grant".
+- **If this was an NBI grant,** add the keyword "nbi grant".
 
 ## Additional notes
 Add anything relevant, but you can usually ignore.
