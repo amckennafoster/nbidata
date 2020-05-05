@@ -33,9 +33,8 @@ Assist researchers with metadata and data curation to ensure high quality resour
 5. Upload research outputs once a year.
 
 
-<a href="https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/docs/assets/images/workflow.jpeg"> <img src="https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/docs/assets/images/workflow.jpeg" alt="." height="90% width="90%"/></a>
-
-![Flow chart showing upload decision making process](https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/docs/assets/images/workflow.jpeg "Flowchart showing workflow moving a research output from researcher to upload"){:height="90%" width="90%"}
+<a href="https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/docs/assets/images/workflow.jpeg">![Flow chart showing upload decision making process](https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/docs/assets/images/workflow.jpeg "Flowchart showing workflow moving a research output from researcher to upload"){:height="90%" width="90%"}
+</a>
 
 ## Collecting Reports and Datasets
 
