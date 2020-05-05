@@ -33,7 +33,9 @@ Assist researchers with metadata and data curation to ensure high quality resour
 5. Upload research outputs once a year.
 
 
-<a href="https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/docs/assets/images/workflow.jpeg"> <img src="https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/docs/assets/images/workflow.jpeg" alt="Flowchart showing workflow moving a research output from researcher to upload." height="90% width="90%"/>  
+<a href="https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/docs/assets/images/workflow.jpeg"> <img src="https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/docs/assets/images/workflow.jpeg" alt="." height="90% width="90%"/></a>
+
+![Flow chart showing upload decision making process](https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/docs/assets/images/workflow.jpeg "Flowchart showing workflow moving a research output from researcher to upload"){:height="90%" width="90%"}
 
 ## Collecting Reports and Datasets
 
@@ -56,7 +58,7 @@ After this, the Wrangler's direct responsibilities end.
 
 ## Preparing for Upload
 
-Once a year, the NBI committee member designated as the *Uploader* assembles all the submissions from the previous grant period.  The Uploader also checks for data that has expired embargo dates, contacts those researchers to get permission to publish, and adds those datasets to the current submission set.  After making sure there are either metadata submissions or an existing Zenodo page for every file ready for upload, the Uploader is ready to begin the upload process.  Details for this preparation process are <a href="{{site.baseurl}}/upload">here</a>.
+Once a year, the NBI committee member designated as the Uploader assembles all the submissions from the previous grant period.  The Uploader also checks for data that has expired embargo dates, contacts those researchers to get permission to publish, and adds those datasets to the current submission set.  After making sure there are either metadata submissions or an existing Zenodo page for every file ready for upload, the Uploader is ready to begin the upload process.  Details for this process are <a href="{{site.baseurl}}/upload">here</a>.
 
 ## Uploading
 
