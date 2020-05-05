@@ -4,7 +4,8 @@ permalink: /
 
 # Nantucket Biodiversity Digital Repository
 
-### [Visit the Repository](https://zenodo.org/communities/nantucketbiodiversity/)
+
+
 
 ## Overview
 
