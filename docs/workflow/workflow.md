@@ -4,13 +4,13 @@ layout: curators
 ---
 
 # General Workflow
-This is an overview of process that moves reserach outputs (reports and datasets) from researchers to final publication on the Repository. It is tailored to the NBI committee member's point of view.
+This is an overview of process that moves reserach outputs (reports and datasets) from researchers to final upload on the repository. It is tailored to the NBI committee member's point of view.
 
 ## Overview
 
 **Definitions of Roles**
 
-- Researcher: The person or representative of the group of people who produced research outputs that are within the scope of the Repository.
+- Researcher: The person or representative of the group of people who produced research outputs that are within the scope of the repository.
 
 - Wrangler: The NBI committee member who facilitates an NBI funded (or other) researcher's work and has the most knowledge of the individual project.
 
@@ -19,8 +19,8 @@ This is an overview of process that moves reserach outputs (reports and datasets
 **Researcher Responsibilities:**
 
 Submit a report and metadata form one year after receiving funds from NBI and choose one option for dataset(s):
-1. Submit data with report for publication.
-2. Submit data with report and agree to the default two year embargo period for publication, or arrange a different embargo timeline.
+1. Submit data with report for upload.
+2. Submit data with report and agree to the default two year embargo period for upload, or arrange a different embargo timeline.
 3. Submit a report only and agree to a custom embargo time period.
 
 **NBI Responsibilities:**
@@ -33,7 +33,7 @@ Assist researchers with metadata and data curation to ensure high quality resour
 5. Upload research outputs once a year.
 
 
-![An overview of how research outputs move from researcher to the Zenodo repository](https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/docs/assets/images/workflow.jpeg "Workflow diagram"){:height="90%" width="90%"}
+<a href="https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/docs/assets/images/workflow.jpeg"> <img src="https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/docs/assets/images/workflow.jpeg" alt="Flowchart showing workflow moving a research output from researcher to upload." height="90% width="90%"/>  
 
 ## Collecting Reports and Datasets
 
