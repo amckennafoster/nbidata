@@ -21,6 +21,7 @@ When NBI funded research projects have concluded and associated data and reports
 
 # Step 1 
 **Gather Data and Reports**
+
 Once the NBI funded research has concluded, the researcher will contact their Wrangler, the NBI Committee member who has worked closely with them throughout their NBI funded research. The researcher will work with their Wrangler to complete these three items:
 
 - Final Report
@@ -29,8 +30,10 @@ Once the NBI funded research has concluded, the researcher will contact their Wr
 
 # Step 2
 **Submit files and maintain contact**
+
 When the NBI funded researcher and their Wrangler have completed the three required items, they must be formally submitted to NBI. The report and dataset will next be assigned metadata by the Wrangler associated with the research. During the process of assigning metadata, the Wrangler may need to contact the researcher to answer questions related to the research. It is important that the researcher is responsive to requests for information.
 
 # Step 3
 **Data and Reports are uploaded by NBI**
+
 The Wrangler hands off data, reports, and related metadata to the Uploader, the NBI committee member designated to upload content to the repository. Data and reports will be added to the repository by the Uploader annually. If a researcher has requested that their data be embargoed, NBI will adhere to this request and the associated timeline. 
