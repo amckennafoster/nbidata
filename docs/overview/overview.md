@@ -6,7 +6,6 @@ layout: researchers
 
 # Overview of the NBI Digital Repository
 
-### Overview
 NBI has developed a digital repository for reports and datasets produced by NBI funded research. The result is a searchable database of reports and datasets, all free to view and download. All files receive digital object identifiers (DOIs) making them easily citable. **The digital repository will indefinitely preserve the work that you as a researcher have completed as an NBI grantee.** Submitting dataset(s) with your report whenever possible is important to further open science, increase reproducibility, and make follow up studies more feasible.
 
 Open science is now the norm across most fields. Read more about the benefits and strategies:
@@ -26,13 +25,13 @@ In addition to the required report, NBI expects every grantee to submit their ra
 ---
 
 ### What happens to submitted data?
-An NBI committee member will work with you to make sure the dataset is clean and understandable. An important step is determining if the dataset(s) contains sensitive information on rare species or protected areas. Other steps include data cleaning, application of metadata, and linking to related resources.  As the person who knows your data best, please complete as many curation steps as possible in the data [curation section](https://nantucketbiodiversity.github.io/NBIdigitalrepo/curation/).
+An NBI committee member will work with you to make sure the dataset is clean and understandable. An important step is determining if the dataset(s) contains sensitive information on rare species or protected areas. Other steps include data cleaning, application of metadata, and linking to related resources. As the person who knows your data best, please complete as many curation steps as possible in the data [curation section](https://nantucketbiodiversity.github.io/NBIdigitalrepo/curation/).
 
 No matter if you submit your data with your report now or later, your report will be uploaded to the repository.
 
 **Embargo Datasets**
 
-You can request that the dataset be embargoed from uploading for a negotiated period.  This is beneficial if you hope to use your data in a paper but are not sure the liklihood of that happening.  In case you are not able to publish a paper, NBI will already have a copy of your data so you will not have to dig it out of the depths of your computer. 
+You can request that the dataset be embargoed from uploading for a negotiated period. This is beneficial if you hope to use your data in a paper but are not sure the liklihood of that happening. In case you are not able to publish a paper, NBI will already have a copy of your data so you will not have to dig it out of the depths of your computer. 
 
 When the embargo period ends, NBI will confirm with you that uploading is acceptable and it will be uploaded with the associated report. 
 
@@ -42,7 +41,7 @@ For more information about how embargoed datasets are handled, check out the [cu
 
 ### How will my data be used?
 
-Your data will be used by other researchers, students, and anyone else! The metadata will make your report and data findable and the DOI will allow others to cite your work correctly.  You can link to your uploaded files from Researchgate or other citation management platforms/software.  The data and report effectively become another publication for you.
+Your data will be used by other researchers, students, and anyone else! The metadata will make your report and data findable and the DOI will allow others to cite your work correctly. You can link to your uploaded files from Researchgate or other citation management platforms/software. The data and report effectively become another publication for you.
 
 ---
 
@@ -60,7 +59,7 @@ Here is the NBI repository: [https://zenodo.org/communities/nantucketbiodiversit
 
 ### Who hosts the repository?
 
-The repository is hosted on [Zenodo](https://about.zenodo.org). Zenodo was developed and is maintained by CERN, the organization that runs the massive particle accelerator in Europe. CERN developed a digital repository for the huge amounts of data produced by the accelerator and opened the repository to all scientists.  You can read the [repository policies here](https://about.zenodo.org/policies/).
+The repository is hosted on [Zenodo](https://about.zenodo.org). Zenodo was developed and is maintained by CERN, the organization that runs the massive particle accelerator in Europe. CERN developed a digital repository for the huge amounts of data produced by the accelerator and opened the repository to all scientists. You can read the [repository policies here](https://about.zenodo.org/policies/).
 
 The [NBI Repository](https://zenodo.org/communities/nantucketbiodiversity/) is a Community (a organized set of uploaded files) of many on Zenodo.
 
