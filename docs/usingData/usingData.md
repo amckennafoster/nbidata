@@ -11,7 +11,7 @@ The NBI Digital Repository is a collection of data and reports, maintained by NB
 
 Data and reports uploaded to the NBI Digital Repository are open access and can be viewed and downloaded by anyone. These data and reports are also searchable as part of the larger Zenodo repository. This allows other researchers, scientists, students, designers, and others to find, view, download, and credit your research. This open access environment creates the conditions for larger collaboration among scientists and thinkers. For more information about open access science, go [here](https://nantucketbiodiversity.github.io/NBIdigitalrepo/openSciFAQ/).
 
-All content uploaded to the NBI Digital Repository is licensed as [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode).
+All content uploaded to the NBI Digital Repository is licensed as [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode). For more information about licensing, take a look at [Specifications & Technical Details](https://nantucketbiodiversity.github.io/NBIdigitalrepo/specs/)
 
 ## Preservation
 
