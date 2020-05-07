@@ -4,7 +4,7 @@ layout: researchers
 ---
 
 # Submitting Data & Reports
-When NBI funded research projects have concluded and associated data and reports are ready to be shared, the researcher will complete the following steps. This process has been thoughtfully designed to gather data that will best represent the data and reports so that they can be preserved and cited accurately in perpetuity. For more information about how the NBI Digital Repository works, go [here](https://nantucketbiodiversity.github.io/NBIdigitalrepo/about/). For more information about how data and reports preserved in the Repository are used and cited, go [here](https://nantucketbiodiversity.github.io/NBIdigitalrepo/usingData/).
+When NBI funded research projects have concluded and associated data and reports are ready to be shared, the researcher will complete the following steps. This process has been thoughtfully designed to gather data that will best represent the data and reports so that they can be preserved and cited accurately in perpetuity. For more information about how the NBI Digital Repository works, check out [About the Repository](https://nantucketbiodiversity.github.io/NBIdigitalrepo/about/). Take a look at the [Using Data](https://nantucketbiodiversity.github.io/NBIdigitalrepo/usingData/) page for more information about how data and reports preserved in the Repository are used and cited.
 
 **Definitions of Roles**
 
