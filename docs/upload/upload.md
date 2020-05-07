@@ -10,7 +10,7 @@ This page provides instructions on uploading research material to the repository
 1. A record of what is to be uploaded and all the relavant metadata in the Google sheet filled from the Metadata form
 2. The research output files to be uploaded
 
-## Overview of the Process:
+### Overview of the Process:
 
 - Check for embargoed datasets in the NBI Google Drive.
 - Contact researchers with expiring dataset embargos to confirm consent for uploading data.
