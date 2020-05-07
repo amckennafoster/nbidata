@@ -73,7 +73,6 @@ Ignore.
 Type in English or whatever language is applicable.
 
 **Keywords**
-
 All keywords should be lower case.
 
 Add the terms from the Google sheet for:
