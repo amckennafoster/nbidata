@@ -31,7 +31,7 @@ For each upload:
 8. Drag the files into the upload window and upload them
 9. Published the files or save to publish later
 
-## Embargoed Datasets
+### Embargoed Datasets
 
 Look in the Embargoed folder in the Google Drive.  If there is a folder with the current upload year, any datasets in that folder have expired embargoes and should be uploaded. In the metadata google sheet, find the metadata associated with the dataset.  The report should already be uploaded to the repository. Use those resources to find a contact for the researcher and confirm uploading the data is okay.  Refer to the [dataset embargoes](https://nantucketbiodiversity.github.io/NBIdigitalrepo/curation/) section for the embargo guidelines.
 
@@ -40,39 +40,39 @@ If permission is granted, move those datasets into the appropriate year folder i
 # Uploading Files
 Log into [Zenodo](https://zenodo.org) with NBI credentials. Click 'Upload' to the right of the search bar at the top of the page.  Click the green 'Upload' button in the middle of the screen.  Fill in all applicable metadata fields as described below using the information provided by the NBI Wrangler and the researcher's report.  Be as accurate and detailed as you can!  Without good metadata, the report and data are not very useful.
 
-## Community
+**Community**
 Type 'Nantucket' and the Nantucket Biodiversity Digital Repository should show up. Click it to select it.
 
-## Upload Type
+**Upload Type**
 
 ![Flow chart showing upload decision making process](https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/docs/assets/images/uploadFlow.jpeg "Upload process chart"){:height="90%" width="90%"}
 
-## Digital Object Identifier
+**Digital Object Identifier**
 If the researcher submitted a report that already has a DOI, enter it here.  This is unlikely.
 
-## Publication date
+**Publication date**
 Use the report date unless it was officially published elsewhere (and you added a DOI above).  If there is no date on the report, use February 15 and the year following the grant year.  For example, if the report is for a 2016 grant and there is no report date, use 2017-02-15.
 
-## Title
+**Title**
 Use the title of the report.
 
-## Authors
+**Authors**
 Fill in the names in the proper format. The Wrangler should have looked up ORCIDs for each author already so if they are not in the Google sheet, leave blank.
 
-## Description
+**Description**
 If the research was funded by NBI, on the first line put "Report submitted in fulfillment of a (Year) Nantucket Biodiversity Initiative grant." The year should be the year of the grant, while the rest of the dates (file name and publication date) should be the date on the report or the date the report was received (default to February 15 of the year following the grant year).
 
 Paste in whatever description the Wrangler provided. You may have to delete a bunch of carriage returns if the description was pasted in from pdf.
 
 If applicable, paste in the file descriptions provided by the Wrangler.  This is useful if there are multiple files and a potential user wants to know about the files before downloading them.
 
-## Version
+**Version**
 Ignore.
 
-## Language
+**Language**
 Type in English or whatever language is applicable.
 
-## Keywords
+**Keywords**
 
 All keywords should be lower case.
 
@@ -87,40 +87,34 @@ Add the terms from the Google sheet for:
 
 If there is an "Additional keyword" that should be added to the list that appears in the metadata form that Wranglers use, add it to each appropriate list in the Controlled-Vocabulary Google sheet in the Google Drive.  Follow the specific directions in the [Specifications & Technical Details](https://nantucketbiodiversity.github.io/NBIdigitalrepo/specs/). section.
 
-## Additional notes
+**Additional notes**
 Add anything relevant, but you can usually ignore.
 
-## Access right
+**Access right**
 Leave as Open Access.  Do not upload anything that would fall under the other categories unless the NBI Committee decides to start doing this.
 
-## Licenses
+**Licenses**
 Paste in what the Wrangler provided if not CC 4.0. The recommended license is Creative Commons Attribution 4.0. This allows maximum reusability and requires users to cite this upload. For more information on the world of open data licenses see [Specifications & Technical Details](https://nantucketbiodiversity.github.io/NBIdigitalrepo/specs/).
 
-## Grants
+**Grants**
 Ignore unless the Wrangler notes that the work was funded by large grant funding institutions that might be on the available list.
 
-## Related/alternate Identifiers
+**Related/alternate Identifiers**
 Are there other uploads on the repository directly related to this research? Is there a published paper related to this research?
 
-## Contributors
+**Contributors**
 Paste in any information provided by the Wrangler.  However, the contributor relationships are very specific.  Only add people or institutions that have a direct relationship to the files bing uploaded.
 
-## References to Thesis
+**References to Thesis**
 Unlikely to use these fields.
 
 For Thesis, use this field if the report is actually a thesis.  If it has been published elsewhere, has a DOI, and there is no associated dataset, be sure to put the DOI in the Digital Object Identifier field above.  If this is the data associated with a published thesis that has a DOI, DO NOT upload a copy of the thesis.  Put the thesis DOI in the RElated/alternate Identifier section.
 
-## Subject
+**Subject**
 Paste in the name and url provided by the Wrangler.
 
 
-
-
-
-
-
-
-## Other fields in Zenodo
+**Other fields in Zenodo**
 References, Journal, Conference, Book/Reports/Chapter, Thesis all are used if the document is an actual publication that does not have a doi from its publication source.  These are unlikely to be used by NBI.  An example of use would be if and NBI organization's staff publishes a paper or a report in some publication and is allowed to make it public.  The document could be uploaded to the repository as the authoritative copy and the publication information would be added the the pertinent fields listed in this section. 
 
 ### Email Template
