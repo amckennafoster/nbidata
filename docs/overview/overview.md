@@ -7,11 +7,7 @@ layout: researchers
 # Overview of the NBI Digital Repository
 
 ### Overview
-NBI has developed a digital repository for reports and datasets produced by NBI funded research. The result is a searchable database of reports and datasets, all free to download. All files receive digital object identifiers (DOIs) making them easily citable. 
-
-**The digital repository will indefinitely preserve the work that you as a researcher have completed as an NBI grantee.**
-
-Submitting dataset(s) with your report whenever possible is important to further open science, increase reproducibility, and make follow up studies more feasible.
+NBI has developed a digital repository for reports and datasets produced by NBI funded research. The result is a searchable database of reports and datasets, all free to view and download. All files receive digital object identifiers (DOIs) making them easily citable. **The digital repository will indefinitely preserve the work that you as a researcher have completed as an NBI grantee.** Submitting dataset(s) with your report whenever possible is important to further open science, increase reproducibility, and make follow up studies more feasible.
 
 Open science is now the norm across most fields. Read more about the benefits and strategies:
 
