@@ -47,13 +47,11 @@ Your data will be used by other researchers, students, and anyone else! The meta
 
 ### What does uploaded data look like?
 
-Here are some examples:
+Here are some examples in the current repository:
 
-[Pick, Postma, and Tschirren 2019 - Prenatal maternal investment in Japanese quail](https://zenodo.org/record/2611152#.XkTacyP9l1s)
+[Blyth and LoPresti 2012 - Dragonflies and Damselfiles](https://zenodo.org/record/3753099#.XrcvucB7mUk)
 
-[Zizka 2016 - Rare species list in the Neotropics](https://zenodo.org/record/125594#.XkTaLyP9l1s)
-
-Here is the NBI repository: [https://zenodo.org/communities/nantucketbiodiversity/](https://zenodo.org/communities/nantucketbiodiversity/)
+[Dowling 2016 - Northern Long-eared Bats](https://zenodo.org/record/3782820#.Xrcw4sB7mUk)
 
 ---
 
@@ -61,9 +59,9 @@ Here is the NBI repository: [https://zenodo.org/communities/nantucketbiodiversit
 
 The repository is hosted on [Zenodo](https://about.zenodo.org). Zenodo was developed and is maintained by CERN, the organization that runs the massive particle accelerator in Europe. CERN developed a digital repository for the huge amounts of data produced by the accelerator and opened the repository to all scientists. You can read the [repository policies here](https://about.zenodo.org/policies/).
 
-The [NBI Repository](https://zenodo.org/communities/nantucketbiodiversity/) is a Community (a organized set of uploaded files) of many on Zenodo.
+The [NBI Repository](https://zenodo.org/communities/nantucketbiodiversity/) is a Community (a organized set of uploaded files) on Zenodo.
 
-Zenodo is free and open source.  The source code is on Github (as is all the <a href="{{ site.github.repository_url }}">supporting documentation</a> for the NBI Repository!) 
+Zenodo is free and open source.  The source code is on Github (as is all the <a href="{{ site.github.repository_url }}">supporting documentation</a> for the NBI Repository) 
 
 
 
