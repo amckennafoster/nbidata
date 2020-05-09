@@ -37,6 +37,8 @@ Look in the Embargoed folder in the Google Drive.  If there is a folder with the
 
 If permission is granted, move those datasets into the appropriate year folder in the Ready folder.
 
+---
+
 # Uploading Files
 Log into [Zenodo](https://zenodo.org) with NBI credentials. Click 'Upload' to the right of the search bar at the top of the page.  Click the green 'Upload' button in the middle of the screen.  Fill in all applicable metadata fields as described below using the information provided by the NBI Wrangler and the researcher's report.  Be as accurate and detailed as you can!  Without good metadata, the report and data are not very useful.
 
