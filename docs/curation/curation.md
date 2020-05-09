@@ -14,6 +14,7 @@ The three main sections on this page are:
 1. Curating Data & Reports: Formatting the dataset and report so they meet open science best practices.
 2. Metadata: Recording the information that describes the dataset and report (title, authors, etc). This is essential to make the files searchable and useful once uploaded to the Repository.
 
+
 # Data Embargoes
 
 In an ideal world, a dataset would be ready for publication with the report. However, there are many reasons why a researcher may want to postpone publication. Researchers have the option to submit their data with their report to NBI under an agreed upon embargo postponing publication to a future date.  The default time period is **two years**. The benefit of embargoing, rather than just submitting data at some later point, is that NBI holds a copy of the data in case the researcher either loses the dataset or goes incommunicado. Additionally, timely submission of data means the NBI Wrangler can curate the dataset while the project is fresh on the mind.
@@ -28,6 +29,8 @@ Universities and institutions may have their own data policies that will complic
 
 Here is an example:  A PhD student hopes to publish a paper based on their data as part of their dissertation.  They think it will be 2.5 years before publication.  The student agrees to submit data with their report but have it embargoed for 2.5 years. At the end of their grant year, NBI receives the report and dataset.  The report is published immediately.  The NBI Wrangler curates the dataset and puts it in a folder marked with the date of publication.  In 2.5 years, NBI contacts the researcher to get final confirmation for data publication.  At this point the researcher may send a more complete dataset or let NBI know the data has been pubished elsewhere.  In the latter case, the NBI uploader can add the DOI of the published data to the existing report record in the NBI Repository.
 
+---
+
 # Curating Data & Reports
 
 Researchers should do most of this work (steps 1-4) since they know their data the best.  However, the curator will need to check the dataset and make sure it meets the standards listed below.  Here is an overview of the steps involved:
@@ -39,8 +42,6 @@ Researchers should do most of this work (steps 1-4) since they know their data t
 5. Create metadata
 
 <a href=" https://htmlpreview.github.io/?https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/docs/assets/files/exampleIsopodData.html" target="_blank">Here is an example</a> of a cleaned and properly formatted dataset.
-
----
 
 ## Tidy Data
 Tidy data is important because it is easy to read and facilitates analysis and summarization. 
