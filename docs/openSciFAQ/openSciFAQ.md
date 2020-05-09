@@ -6,15 +6,10 @@ permalink: /openSciFAQ/
 
 
 
-### What is open science?
+Throughout the world, researchers are becoming more cognizant of the [value and importance of open science](https://theconversation.com/research-transparency-5-questions-about-open-science-answered-76851). As scientific research becomes highly data-driven and reliant on computing, scientists are conscious of the growing need to share data and code to reduce wasteful duplication and increase the rate of discoveries. Additionally, open science is seen as a way to combat the reproducibility crisis identified in many fields.  And finally, as Dr. Ainstworth points out in her [TEDx talk](https://www.youtube.com/watch?v=c-bemNZ-IqA), "Open science could be the gateway to a more inclusive and supportive culture." There is a movement to move everything in academia to an open structure, such as open access to literature, open educational resources, open peer review, and open data. 
 
-Throughout the world, researchers are becoming more cognizant of the value and importance of open science. As scientific research becomes highly data-driven and reliant on computing, scientists are conscious of the growing need to share data, software and infrastructure to reduce wasteful duplication and impact considerable cost savings. This new era of thought considers the importance of everything in academia be open, such as open access to literature, open educational resources, open data, and open science. However, the practice of open science is not all-inclusive at the present and some researchers speculate out of curiosity how such a change would affect their career.
+Since open science is relatively new, there is usually some hesitancy in making their work available for anyone to use.  The benefits outweigh any risks.  Both established and early [career researhers](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000246) may benefit from increased [publications, funding, and career advancement](https://elifesciences.org/articles/16800).
 
-### What's the impact?
-
-In this article entitled: [How Open Science Helps Researchers Succeed]( https://elifesciences.org/articles/16800), researchers from numerous organizations and universities in the United States address concerns raised in connection to open science and demonstrate that the advantages outweigh the disadvantages. 
-
-Equally important is the following TEDX Talk by Research Associate and Open Science Champion, Dr Rachael Ainsworth. Here she addresses how [Research Culture is Broken — Open Science Can Fix It!](https://www.youtube.com/watch?v=c-bemNZ-IqA) In additon, Dr. Ainstworth points out that "Open science could be the gateway to a more inclusive and supportive culture". 
 
 ### Who contributes to open science?
 
