@@ -137,11 +137,19 @@ Information on including code with an upload.
 
 #### Images
 
+Images can be uploaded to the repository.  The format matters though and if you need more information check out the Library of Congress [digital preservation](https://www.loc.gov/preservation/resources/rfs/stillimg.html) site.  The [Center for Digital Architecture](https://digitalarch.org/blog/2017/4/7/best-image-formats-for-archival-photography) also has a very readable summary of the various types.  If you can, add your name to the image and upload a high quality version.  The use case of this is a future researcher or journalist could request permission to reproduce your image. Rather than trying to find a high quality copy, just put one in the repository.
+
 **TIFF**
 
-**PNG**
+[Tiff](https://www.loc.gov/preservation/digital/formats/fdd/fdd000022.shtml) is the preferred archival format, but only if you can create the original image as Tiff.  If your original image is a jpeg, use jpeg or jpeg2000 rather than Tiff.
 
-**JPEG**
+**JPEG and JPEG2000**
+
+If your orgigial image is jpeg, use [jpeg](https://www.loc.gov/preservation/digital/formats/fdd/fdd000018.shtml) or [jpeg2000](https://www.loc.gov/preservation/digital/formats/fdd/fdd000143.shtml).  Jpeg2000 is better for long term preservation than jpeg.
+
+**Other File Types**
+
+Png is also an option but its preservation capabilities may be less than the other formats.
 
 ---
 
