@@ -31,7 +31,7 @@ The [University of Washington Information School](https://ischool.uw.edu/) train
 ---
 
 ## Acknowledgments
-Our team would like to thank NBI for the opportunity to create this repository and documentation site. Sarah T. Bois, NBI Chair and Director of Education and Research at the Linda Loring Nature Foundation, acted as the main liason between UW and NBI. Karen Beattie, Director of Science & Stewardship at the Nantucket Conservation Foundation, organized and tracked NBI reports over the last 15 years making the initial report uploads possible. We would also like to thank : individuals or communities who have helped us realize this project?
+Our team would like to thank NBI for the opportunity to create this repository and documentation site. Sarah T. Bois, NBI Chair and Director of Education and Research at the Linda Loring Nature Foundation, acted as the main liason between UW and NBI. Karen Beattie, Director of Science & Stewardship at the Nantucket Conservation Foundation, organized and tracked NBI reports over the last 15 years making the initial report uploads possible.
 
 ---
 

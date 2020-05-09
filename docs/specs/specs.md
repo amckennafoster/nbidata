@@ -67,7 +67,7 @@ This is a very long list and is available <a href="{{site.baseurl}}/specs/specif
 
 #### Methods
 
-
+This is also a very long list and is available <a href="{{site.baseurl}}/specs/methods/methods">here</a>. 
 
 #### Related Identifier Relationships
 
