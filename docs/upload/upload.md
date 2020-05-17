@@ -25,7 +25,7 @@ For each upload:
 4. Make sure the report is in pdf format.
 5. Use the information from the metadata form to:
 	- Confirm the absence of protected species information
-	- Click subject URL (if exists) to make sure it is valid and use that to get the subject name.
+	- Click subject URL (if exists) to make sure it is valid.
 6. Log into Zenodo as NBI and start a new upload
 7. Fill in all the relevant metadata fields
 8. Drag the files into the upload window and upload them

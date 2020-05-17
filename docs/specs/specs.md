@@ -7,7 +7,7 @@ layout: curators
 
 ## Licenses
 
-There are many license options out there and a nice review is [here](http://www.dcc.ac.uk/resources/how-guides/license-research-data) (scroll to the Standard License section). Another repository, figshare, also has a [nice summary](https://knowledge.figshare.com/articles/item/what-is-the-most-appropriate-licence-for-my-data). The Creative Commons Attribution (CC BY) (version 4.0) license is recommended for the NBI Digital Repository. There are six main Creative Commons licenses, each with various restrictions, and most do not meet [Open Access](https://en.wikipedia.org/wiki/Open_access) requirements:
+There are many license options out there and a nice review is [here](http://www.dcc.ac.uk/resources/how-guides/license-research-data) (scroll to the Standard License section). Another repository, figshare, also has a [nice summary](https://knowledge.figshare.com/articles/item/what-is-the-most-appropriate-licence-for-my-data). The Creative Commons Attribution (CC BY) (version 4.0) license is recommended for the NBI Digital Repository. There are six main Creative Commons licenses, each with various restrictions, and most **do not** meet [Open Access](https://en.wikipedia.org/wiki/Open_access) requirements:
 
 - [Attribution (CC BY)](https://creativecommons.org/licenses/by/4.0/) (Recommended for the NBI Digital Repository)
 - Attribution Share Alike (CC BY-SA)

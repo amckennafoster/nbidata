@@ -4,21 +4,18 @@ permalink: /about/
 
 # About the NBI Digital Repository
 
-This repository came out of a collaboration between the Nantucket Biodiversity Initiative (NBI) and a team of library and information science graduate students at the University of Washington Information School.  As a consortium of non profit organizations, NBI faced the problem of tracking completed research and making research outputs available to everyone. 
+This repository came out of a collaboration between the Nantucket Biodiversity Initiative (NBI) and a team of library and information science graduate students at the University of Washington Information School.  As a consortium of nonprofit organizations, NBI faced the problem of tracking completed research and making research outputs available to everyone. 
 
 # Repository Authors
 
 #### University of Washington
 
-**Andrew Mckenna-Foster** [LinkedIn](www.linkedin.com/in/andrew-mckenna-foster)   [GitHub](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Famckennafoster&sa=D)   [Personal Site](https://sites.google.com/view/amckennafoster/home)   [ORCID](https://www.google.com/url?q=https%3A%2F%2Forcid.org%2F0000-0001-7641-6588&sa=D)
+**Andrew Mckenna-Foster** [LinkedIn](www.linkedin.com/in/andrew-mckenna-foster)  /| [GitHub](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Famckennafoster&sa=D)   [Personal Site](https://sites.google.com/view/amckennafoster/home)   [ORCID](https://www.google.com/url?q=https%3A%2F%2Forcid.org%2F0000-0001-7641-6588&sa=D)
 
 **Christopher Tillman Neal** [LinkedIn](https://www.linkedin.com/in/christopher-tillman-neal-3aa5a71b/) [Public Profile](https://cal.berkeley.edu/christopher) [Visual CV](https://www.visualcv.com/lte24qp/)
 
 **Meghan Mitchell** [LinkedIn](https://www.linkedin.com/in/meghan--mitchell)
 
-#### Nantucket Biodiversity Initiative
-
-**Sarah T. Bois**, NBI Chair, and many members of the NBI Committee.
 
 ## About NBI
 

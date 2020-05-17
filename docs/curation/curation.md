@@ -87,12 +87,6 @@ It has the following characteristics.
 
 ---
 
-## Protected Species
-
-Information on working with potentially sensitive data regarding protected species and locations.  We could suggest uploading just the first page of the report and prompting users to contact NBI for more inforamtion.
-
----
-
 ## Data Dictionary
 [Data dictionaries](https://help.osf.io/hc/en-us/articles/360019739054-How-to-Make-a-Data-Dictionary) tell users what the column names mean, what the data values mean, and anything else that would help someone use the data wisely.
 
@@ -138,7 +132,7 @@ PDF is the preferred report format.  Almost any word processor can export a docu
 
 #### Code
 
-Information on including code with an upload.
+This section in progress...
 
 #### Images
 
