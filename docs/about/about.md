@@ -8,13 +8,17 @@ This repository came out of a collaboration between the Nantucket Biodiversity I
 
 # Repository Authors
 
-#### University of Washington
+#### University of Washington Students
 
 **Andrew Mckenna-Foster** [LinkedIn](https://www.linkedin.com/in/andrew-mckenna-foster) \| [GitHub](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Famckennafoster&sa=D) \| [Personal Site](https://sites.google.com/view/amckennafoster/home) \|  [ORCID](https://www.google.com/url?q=https%3A%2F%2Forcid.org%2F0000-0001-7641-6588&sa=D)
 
 **Meghan Mitchell** [LinkedIn](https://www.linkedin.com/in/meghan--mitchell)
 
 **Christopher Tillman Neal** [LinkedIn](https://www.linkedin.com/in/christopher-tillman-neal-3aa5a71b/) \| [Public Profile](https://cal.berkeley.edu/christopher) \| [Visual CV](https://www.visualcv.com/lte24qp/)
+
+#### Nantucket Biodiversity Initiative Liason
+
+**Sarah T. Bois**, NBI Chair
 
 
 ## About NBI
