@@ -9,7 +9,7 @@ The \_layouts folder contains an html file called default.html that formats the 
 
 The \_includes folder contains the navigation menu html files.
 
-To customize sidebar need to look at: https://github.com/pages-themes/leap-day/blob/master/_sass/jekyll-theme-leap-day.scss
+To customize sidebar use the jekyll-theme-leap-day.scss file in the _sass folder.
 
 For a markup file to show up within the website, the header needs to have, at the least, the following:
 
