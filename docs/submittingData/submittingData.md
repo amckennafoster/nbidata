@@ -25,13 +25,13 @@ When NBI funded research projects have concluded and associated data and reports
 Once the NBI funded research has concluded, the researcher will contact their Wrangler, the NBI Committee member who has worked closely with them throughout their NBI funded research. The researcher will work with their Wrangler to complete these three items:
 
 - Final Report
-- Data Plan
+- [Data Plan](https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/files/documents/Researcher-Data-Plan.pdf)
 - Dataset
 
 # Step 2
 **Submit files and maintain contact**
 
-When the NBI funded researcher and their Wrangler have completed the three required items, they must be formally submitted to NBI. The report and dataset will next be assigned metadata by the Wrangler associated with the research. During the process of assigning metadata, the Wrangler may need to contact the researcher to answer questions related to the research. It is important that the researcher is responsive to requests for information.
+When the NBI funded researcher and their Wrangler have completed the three required items, they must be formally submitted to NBI through the Wrangler. The report and dataset will next be assigned metadata by the Wrangler. During the process of assigning metadata, the Wrangler may need to contact the researcher to answer questions related to the research. It is important that the researcher is responsive to requests for information.
 
 # Step 3
 **Data and Reports are uploaded by NBI**
