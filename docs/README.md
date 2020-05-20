@@ -9,7 +9,7 @@ The \_layouts folder contains an html file called default.html that formats the 
 
 The \_includes folder contains the navigation menu html files.
 
-The assets/css folder contains the css file with customization for the sidebar navigation.
+To customize sidebar need to look at: https://github.com/pages-themes/leap-day/blob/master/_sass/jekyll-theme-leap-day.scss
 
 For a markup file to show up within the website, the header needs to have, at the least, the following:
 
