@@ -10,14 +10,14 @@ Everything on this page is the responsibility of the NBI Wrangler. The curation 
 
 The three main sections on this page are:
 
-1. Data Embargoes: Work with the researcher to plan publication for their data.
+1. Data Embargoes: Work with the researcher to plan publication for their data. 
 1. Curating Data & Reports: Formatting the dataset and report so they meet open science best practices.
 2. Metadata: Recording the information that describes the dataset and report (title, authors, etc). This is essential to make the files searchable and useful once uploaded to the Repository.
 
 
 # Data Embargoes
 
-In an ideal world, a dataset would be ready for publication with the report. However, there are many reasons why a researcher may want to postpone publication. Researchers have the option to submit their data with their report to NBI under an agreed upon embargo postponing publication to a future date.  The default time period is **two years**. The benefit of embargoing, rather than just submitting data at some later point, is that NBI holds a copy of the data in case the researcher either loses the dataset or goes incommunicado. Additionally, timely submission of data means the NBI Wrangler can curate the dataset while the project is fresh on the mind.
+In an ideal world, a dataset would be ready for publication with the report. However, there are many reasons why a researcher may want to postpone publication. Researchers have the option to submit their data with their report to NBI under an agreed upon embargo postponing publication to a future date.  The default time period is **two years**. The benefit of embargoing, rather than just submitting data at some later point, is that NBI holds a copy of the data in case the researcher either loses the dataset or goes incommunicado. Additionally, timely submission of data means the NBI Wrangler can curate the dataset while the project is fresh on the mind.  Work with the researcher to fill out the [Data Plan](https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/files/documents/Researcher-Data-Plan.pdf).
 
 The researcher has the following options:
 
@@ -27,7 +27,7 @@ The researcher has the following options:
 
 Universities and institutions may have their own data policies that will complicate this.  Ultimately, the data should be published somewhere.  If a researchers uses their institutional repository or a third party repository, their report record in the NBI Digital Repository can point to the published data wherever it sits.
 
-Here is an example:  A PhD student hopes to publish a paper based on their data as part of their dissertation.  They think it will be 2.5 years before publication.  The student agrees to submit data with their report but have it embargoed for 2.5 years. At the end of their grant year, NBI receives the report and dataset.  The report is published immediately.  The NBI Wrangler curates the dataset and puts it in a folder marked with the date of publication.  In 2.5 years, NBI contacts the researcher to get final confirmation for data publication.  At this point the researcher may send a more complete dataset or let NBI know the data has been pubished elsewhere.  In the latter case, the NBI uploader can add the DOI of the published data to the existing report record in the NBI Repository.
+Here is an example:  A PhD student hopes to publish a paper based on their data as part of their dissertation.  They think it will be 3 years before publication.  The student agrees to submit data with their report but have it embargoed for 3 years. At the end of their grant year, NBI receives the report and dataset.  The report is published immediately.  The NBI Wrangler curates the dataset and puts it in a folder marked with the date of publication.  In 3 years, NBI contacts the researcher to get final confirmation for data publication.  At this point the researcher may send a more complete dataset or let NBI know the data has been pubished elsewhere.  In the latter case, the NBI uploader can add the DOI of the published data to the existing report record in the NBI Repository.
 
 ---
 
