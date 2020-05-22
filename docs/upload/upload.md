@@ -5,7 +5,7 @@ layout: curators
 
 # Uploading Data & Reports to Zenodo
 
-This page provides instructions on uploading research material to the repository. The Uploader should have the following in the [Google Drive](https://nantucketbiodiversity.github.io/NBIdigitalrepo/upload/#google-drive-organization):
+This page provides instructions on uploading research material to the repository. The Uploader should have the following in the [Google Drive](https://nantucketbiodiversity.github.io/NBIdigitalrepo/specs/#google-drive-organization):
 
 1. A record of what is to be uploaded and all the relavant metadata in the Google sheet filled from the Metadata form
 2. The research output files to be uploaded

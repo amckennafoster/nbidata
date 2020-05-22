@@ -41,7 +41,7 @@ Assist researchers with metadata and data curation to ensure high quality resour
 The Wrangler, the NBI Committee member who works closely with an NBI funded researcher, is the point person for collecting the report and data from the researcher because they are in the best position to apply metadata correctly and easily. The Wrangler will help the researcher complete three items:
 
 - Final Report
-- Data Plan
+- [Data Plan](https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/files/documents/Researcher-Data-Plan.pdf).
 - Dataset
 
 ## Curating Data
@@ -51,7 +51,7 @@ If the Wrangler received a dataset, they are responsible for curating the resear
 
 ## Metadata and File Submission
 
-With the final report, the data plan, and hopefully the curated data in hand, the Wrangler is then responsible for packaging the files and the information about the files (the metadata) for eventual upload to Zenodo. The Wrangler uses a Google Form made available by NBI to record metadata (e.g. title, authors, keywords). The Wrangler will also move the research output files to a [Google Drive](https://nantucketbiodiversity.github.io/NBIdigitalrepo/specs/#google-drive-organization) folder for later access by the Uploader. If the dataset(s) is to be embargoed, the Wrangler puts the dataset in the embargo folder on [Google Drive](https://nantucketbiodiversity.github.io/NBIdigitalrepo/specs/#google-drive-organization). No matter where the dataset goes, the report goes to the annual upload folder.
+With the final report, the data plan, and hopefully the curated data in hand, the Wrangler is then responsible for packaging the files and the information about the files (the metadata) for eventual upload to Zenodo. The Wrangler uses a Google Form made available by NBI to record metadata (e.g. title, authors, keywords). The Wrangler will also move the research output files to a [Google Drive](https://nantucketbiodiversity.github.io/NBIdigitalrepo/specs/#google-drive-organization) folder for later access by the Uploader. If the dataset(s) is to be embargoed, the Wrangler puts the dataset in the embargo folder in the Google drive. No matter where the dataset goes, the report goes to the annual upload folder.
 
 After this, the Wrangler's direct responsibilities end.
 

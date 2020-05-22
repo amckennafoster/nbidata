@@ -118,7 +118,7 @@ This is also a very long list and is available <a href="{{site.baseurl}}/specs/m
 
 ## Google Drive Organization
 
-The following diagram shows the folder structure to store research outputs.  Files are stored by category(Ready, Uploaded, Embargoed) and then year to upload or year uploaded. The Metadata folder contains the files used to collect metadata from the NBI Wranglers.
+The following diagram shows the folder structure to store research outputs.  Files are stored by category (Ready, Uploaded, Embargoed) and then year to upload or year uploaded. The Metadata folder contains the files used to collect metadata from the NBI Wranglers.
 
 ![A diagram of the Google Drive folder structure](https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/docs/assets/images/folderStructure.jpeg "Folder Structure"){:height="90%" width="90%"}
 
