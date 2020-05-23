@@ -42,7 +42,7 @@ layout: curators
 <li>	sanford farm	</li>
 <li>	sankaty head	</li>
 <li>	sesachacha pond	</li>
-<li>	sesachacha wildlife heathlands	</li>
+<li>	sesachacha heathlands wildlife sanctuary	</li>
 <li>	shawkemo hills	</li>
 <li>	siasconset	</li>
 <li>	smith's point	</li>

@@ -88,7 +88,7 @@ Add the terms from the Google sheet for:
 If there is an "Additional keyword" that should be added to the list that appears in the metadata form that Wranglers use, add it to each appropriate list in the Controlled-Vocabulary Google sheet in the Google Drive.  Follow the specific directions in the [Specifications & Technical Details](https://nantucketbiodiversity.github.io/NBIdigitalrepo/specs/). section.
 
 ## Additional notes
-Add anything relevant, but you can usually ignore.
+Add anything relevant.  This is a good spot to list other funding agencies that are not listed in Zenodo's list (see Grants).  List funders using a format similar to: "This work was funded by Grant Institution 1 and Grant Institution 2."
 
 ## Access right
 Leave as Open Access.  Do not upload anything that would fall under the other categories unless the NBI Committee decides to start doing this.
@@ -97,7 +97,7 @@ Leave as Open Access.  Do not upload anything that would fall under the other ca
 Paste in what the Wrangler provided if not CC 4.0. The recommended license is Creative Commons Attribution 4.0. This allows maximum reusability and requires users to cite this upload. For more information on the world of open data licenses see [Specifications & Technical Details](https://nantucketbiodiversity.github.io/NBIdigitalrepo/specs/).
 
 ## Grants
-Ignore unless the Wrangler notes that the work was funded by large grant funding institutions that might be on the available list.
+Ignore unless the Wrangler notes that the work was funded by large grant funding institutions that might be on the available list.  For other organizations that funded work, list them under Additional notes above.
 
 ## Related/alternate Identifiers
 Are there other uploads on the repository directly related to this research? Is there a published paper related to this research?
