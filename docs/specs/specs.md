@@ -61,6 +61,16 @@ The last step puts all your updates into the Metadata Form dropdowns.
 - the cape and islands
 - tuckernuck
 
+#### Study Type
+
+- checklist
+- field survey
+- genetics study
+- species comparison
+- species survey
+- population dynamics
+- population survey
+
 #### Specific Locations
 
 This is a very long list and is available <a href="{{site.baseurl}}/specs/specificLocation">here</a>.
@@ -120,7 +130,7 @@ This is also a very long list and is available <a href="{{site.baseurl}}/specs/m
 
 The following diagram shows the folder structure to store research outputs.  Files are stored by category (Ready, Uploaded, Embargoed) and then year to upload or year uploaded. The Metadata folder contains the files used to collect metadata from the NBI Wranglers.
 
-![A diagram of the Google Drive folder structure](https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/docs/assets/images/folderStructure.jpeg "Folder Structure"){:height="90%" width="90%"}
+<a href="https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/docs/assets/images/folderStructure.jpeg">![A diagram of the Google Drive folder structure](https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/docs/assets/images/folderStructure.jpeg "Folder Structure"){:height="90%" width="90%"}</a>
 
 
 ## Citations

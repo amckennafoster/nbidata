@@ -45,7 +45,7 @@ Type 'Nantucket' and the Nantucket Biodiversity Digital Repository should show u
 
 ## Upload Type
 
-![Flow chart showing upload decision making process](https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/docs/assets/images/uploadFlow.jpeg "Upload process chart"){:height="90%" width="90%"}
+<a href="https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/docs/assets/images/uploadFlow.jpeg">![Flow chart showing upload decision making process](https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/docs/assets/images/uploadFlow.jpeg "Upload process chart"){:height="90%" width="90%"}</a>
 
 ## Digital Object Identifier
 If the researcher submitted a report that already has a DOI, enter it here.  This is unlikely.
