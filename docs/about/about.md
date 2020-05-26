@@ -4,7 +4,7 @@ permalink: /about/
 
 # About the NBI Digital Repository
 
-This repository came out of a collaboration between the Nantucket Biodiversity Initiative (NBI) and a team of library and information science graduate students at the University of Washington Information School.  As a consortium of nonprofit organizations, NBI faced the problem of tracking completed research and making research outputs available to everyone. 
+This repository came out of a collaboration between the Nantucket Biodiversity Initiative (NBI) and a team of library and information science graduate students at the University of Washington Information School. As a consortium of nonprofit organizations, NBI faced the problem of tracking completed research and making research outputs available to everyone. 
 
 # Repository Authors
 
@@ -23,11 +23,11 @@ This repository came out of a collaboration between the Nantucket Biodiversity I
 
 ## About NBI
 
-The [Nantucket Biodiversity Initiative](https://www.nantucketbiodiversity.org/) seeks to conserve the native biodiversity of Nantucket, Tuckernuck, Muskeget and surrounding waters through collaborative research, monitoring and education.  It is a collaboration of over 10 regional non profits, goverment departments, and schools.  
+The [Nantucket Biodiversity Initiative](https://www.nantucketbiodiversity.org/) seeks to conserve the native biodiversity of Nantucket, Tuckernuck, Muskeget and surrounding waters through collaborative research, monitoring and education. It is a collaboration of over 10 regional non profits, goverment departments, and schools.  
 
 ## About UW iSchool
 
-The [University of Washington Information School](https://ischool.uw.edu/) trains students to be information professionals with an emphasis on the technologies through which information is delivered.  The iSchool offeres an undergraduate informatics degree, a Master's degree in information management, and a Master's degree in library and information science.  Both Master's programs require a culminating [Capstone project](https://ischool.uw.edu/capstone).  This digital repository is the Capstone project for a team of library and information science graduate students in 2020.
+The [University of Washington Information School](https://ischool.uw.edu/) trains students to be information professionals with an emphasis on the technologies through which information is delivered. The iSchool offeres an undergraduate informatics degree, a Master's degree in information management, and a Master's degree in library and information science. Both Master's programs require a culminating [Capstone project](https://ischool.uw.edu/capstone). This digital repository is the Capstone project for a team of library and information science graduate students in 2020.
 
 ---
 
@@ -49,17 +49,17 @@ Our team would like to thank NBI for the opportunity to create this repository a
 All the software used to develop this repository and documentation is open source.  
 
 **GitHub**
-This website and useful files are hosted by [GitHub](https://github.com/nantucketbiodiversity/NBIdigitalrepo).  Used extensively by developers to work collaboratively on software projects, it is increasingly used as a tool to track, document, and archive all sorts of projects.
+This website and useful files are hosted by [GitHub](https://github.com/nantucketbiodiversity/NBIdigitalrepo). Used extensively by developers to work collaboratively on software projects, it is increasingly used as a tool to track, document, and archive all sorts of projects.
 
 **Zenodo**
-The repository itself is hosted by Zenodo. Zenodo was founded to store data produced by CERN, the European Organization for Nuclear Research.  The repository infrastructure was built for ‘big science’ outputs, but the founders realized small scale science would benefit from access to the repository.  It was launched as a completely open resource in 2013.  Anyone can create a profile, upload files and receive a digital object identifier (DOI) so that those resources are secured and citable. Zenodo secures uploaded files for the future and is committed to their preservation.  It has a [strong back up process](https://about.zenodo.org/infrastructure/) and is well funded by government and private entities.  Zenodo software is also open source and is under constant improvement through [GitHub](https://github.com/zenodo/zenodo).
+The repository itself is hosted by Zenodo. Zenodo was founded to store data produced by CERN, the European Organization for Nuclear Research.  The repository infrastructure was built for ‘big science’ outputs, but the founders realized small scale science would benefit from access to the repository. It was launched as a completely open resource in 2013. Anyone can create a profile, upload files, and receive a digital object identifier (DOI) so that those resources are secured and citable. Zenodo secures uploaded files for the future and is committed to their preservation. It has a [strong back up process](https://about.zenodo.org/infrastructure/) and is well funded by government and private entities. Zenodo software is also open source and is under constant improvement through [GitHub](https://github.com/zenodo/zenodo).
 
 Zenodo was a good choice for NBI because it is a well established repository, it is free to upload, and it allows uploads to be grouped by institution or group. We also considered using Harvard's Dataverse.
 
 **Google Drive, Forms, and Sheets**
-Google Drive is used to store research outputs ready for upload.  The Nantucket Biodiversity Initiative has its own Google account.  The Drive also contains a controlled vocabulary Google sheet that is used to source drop-down options in the Metadata Form, also stored in the Drive.
+Google Drive is used to store research outputs ready for upload. The Nantucket Biodiversity Initiative has its own Google account. The Drive contains a controlled vocabulary Google sheet that is used to source drop-down options in the Metadata Form, also stored in the Drive.
 
-The controlled vocabulary sheet has a script (Tools>Script Editor) that fills the appropriate fields in the form.  The code for this script comes from the YouTube channel [Learn Google Spreadsheets](https://www.youtube.com/watch?v=o3AL7ASI_cA&feature=youtu.be) and is reproduced here:
+The controlled vocabulary sheet has a script (Tools>Script Editor) that fills the appropriate fields in the form. The code for this script comes from the YouTube channel [Learn Google Spreadsheets](https://www.youtube.com/watch?v=o3AL7ASI_cA&feature=youtu.be) and is reproduced here:
 
 	var ssID= "[your sheet id- remove the brackets]";
 	var formID= "[your form id- remove the brackets]";
