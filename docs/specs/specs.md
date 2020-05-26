@@ -21,17 +21,17 @@ Here is what some of the terms mean:
 - Attribution Non-Commercial: Attribution required, others may remix and build upon your material non-commercially and their work must also be non-commercial. Derivatives of their work do not have to follow these restrictions.
 - Share Alike: Adding this means the original restrictions (e.g. non-commercial) must be applied to derivatives.
 
-Adding derivative or commercial restrictions to a license will make the material (the dataset) less reusable and less interoperable. The Share Alike addition can also cause problems.  [Rathmann (2018)](https://zenodo.org/record/1463156#.XpCh1pl7k2x) provides a great overview of licensing data and the paper is in Zenodo! The following quotes from a variety of sources summarize the impact of restrictions:
+Adding derivative or commercial restrictions to a license will make the material (the dataset) less reusable and less interoperable. The Share Alike addition can also cause problems. [Rathmann (2018)](https://zenodo.org/record/1463156#.XpCh1pl7k2x) provides a great overview of licensing data and the paper is on Zenodo! The following quotes from a variety of sources summarize the impact of restrictions:
 
 > "This means the Share Alike and No Derivatives conditions might have further reaching consequences than intended." ([Digital Curation Centre](http://www.dcc.ac.uk/resources/how-guides/license-research-data) )
 
-> "the No Derivatives condition would likely disallow most substantive types of reuse" ([Digital Curation Centre](http://www.dcc.ac.uk/resources/how-guides/license-research-data) )
+> "the No Derivatives condition would likely disallow most substantive types of reuse" ([Digital Curation Centre](http://www.dcc.ac.uk/resources/how-guides/license-research-data))
 
-> "Similar to how a non-commercial licence might restrict meaningful reuse of your dataset, a ND \[No Derivative\] license can have the same effect: it may prevent someone from recombining and reusing your data for new research." ([OpenAIRE](https://www.openaire.eu/research-data-how-to-license/) )
+> "Similar to how a non-commercial licence might restrict meaningful reuse of your dataset, a ND \[No Derivative\] license can have the same effect: it may prevent someone from recombining and reusing your data for new research." ([OpenAIRE](https://www.openaire.eu/research-data-how-to-license/))
 
-> "...using a non-commercial licence may prevent researchers from using your data in work destined for publication. This can subsequently affect the dissemination, recognition, and impact of your dataset. And it is definitively NOT open access." ([OpenAIRE](https://www.openaire.eu/research-data-how-to-license/) )
+> "...using a non-commercial licence may prevent researchers from using your data in work destined for publication. This can subsequently affect the dissemination, recognition, and impact of your dataset. And it is definitively NOT open access." ([OpenAIRE](https://www.openaire.eu/research-data-how-to-license/))
 
-> "...the prohibition of monetary compensation may also prevent non-governmental organisations (NGOs) from re-using the data." ([Rathmann (2018)](https://zenodo.org/record/1463156#.XpCh1pl7k2x) )
+> "...the prohibition of monetary compensation may also prevent non-governmental organisations (NGOs) from re-using the data." ([Rathmann (2018)](https://zenodo.org/record/1463156#.XpCh1pl7k2x))
 
 There is a data specific license available called the [Open Data Commons Attribution License](https://opendatacommons.org/licenses/by/) but it seems that the Creative Commons licenses are a [better option](https://forum.openmod-initiative.org/t/choosing-an-open-data-license-odc-by-vs-cc-by/640/4) for now.
 
@@ -39,7 +39,7 @@ For Creative Commons Licenses, use version 4.0 because this allows a better attr
 
 ## Controlled Vocabularies
 
-These lists are either specified by Zenodo or created specifically for NBI. To add a term to an NBI controlled vocabulary (Geographic Location, Specific Location, Study Type, or Method) opn the Controlled-Vocabulary Google sheet in the NBI Google Drive.  You must add the term to each applicable list.  For example, here are the steps to add "Lily Pond" to the Specific Location lists:
+These lists are either specified by Zenodo or created specifically for NBI. To add a term to an NBI controlled vocabulary (Geographic Location, Specific Location, Study Type, or Method) open the Controlled-Vocabulary Google sheet in the NBI Google Drive. You must add the term to each applicable list. For example, here are the steps to add "Lily Pond" to the Specific Location lists:
 1. In the Controlled Vocabulary sheet, add Lily Pond to the bottom of Specific Location1
 2. Highlight the Specific Location1 terms and sort alphabetically
 3. Copy and Paste that full list into each of the other five Specific Location columns.
@@ -128,7 +128,7 @@ This is also a very long list and is available <a href="{{site.baseurl}}/specs/m
 
 ## Google Drive Organization
 
-The following diagram shows the folder structure to store research outputs.  Files are stored by category (Ready, Uploaded, Embargoed) and then year to upload or year uploaded. The Metadata folder contains the files used to collect metadata from the NBI Wranglers.
+The following diagram shows the folder structure to store research outputs. Files are stored by category (Ready, Uploaded, Embargoed) and then year to upload or year uploaded. The Metadata folder contains the files used to collect metadata from the NBI Wranglers.
 
 <a href="https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/docs/assets/images/folderStructure.jpeg">![A diagram of the Google Drive folder structure](https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/docs/assets/images/folderStructure.jpeg "Folder Structure"){:height="90%" width="90%"}</a>
 
