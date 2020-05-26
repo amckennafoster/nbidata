@@ -41,7 +41,7 @@ Assist researchers with metadata and data curation to ensure high quality resour
 The Wrangler, the NBI Committee member who works closely with an NBI funded researcher, is the point person for collecting the report and data from the researcher because they are in the best position to apply metadata correctly and easily. The Wrangler will help the researcher complete three items:
 
 - Final Report
-- [Data Plan](https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/files/documents/Researcher-Data-Plan.pdf).
+- [Data Plan](https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/files/documents/Researcher-Data-Plan.pdf)
 - Dataset
 
 ## Curating Data
@@ -61,4 +61,4 @@ Once a year, the NBI committee member designated as the Uploader assembles all t
 
 ## Uploading
 
-The Uploader signs into the NBI Zenodo account and uploads all the files for the year. Metadata is copy and pasted from the metadata spreadsheet created by NBI Wranglers using the Google form.
+The Uploader signs into the NBI Zenodo account and uploads all the files for the year. Metadata is copied and pasted from the metadata spreadsheet created by NBI Wranglers using the Google form.
