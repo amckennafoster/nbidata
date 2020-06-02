@@ -44,7 +44,7 @@ Researchers should do most of this work (steps 1-4) since they know their data t
 <a href=" https://htmlpreview.github.io/?https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/docs/assets/files/exampleIsopodData.html" target="_blank">Here is an example</a> of a cleaned and properly formatted dataset.
 
 
-An excellent and mandatory read for anyone who works with data is Broman and Woo's (2017) ["Data Organization in Spreadsheets"](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989).
+An excellent and mandatory read for anyone who works with data is Broman and Woo's (2018) ["Data Organization in Spreadsheets"](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989).
 
 
 ## Tidy Data
