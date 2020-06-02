@@ -1,5 +1,5 @@
 ---
-permalink: /overview/
+permalink: /researchers/
 layout: researchers
 ---
 
@@ -10,9 +10,9 @@ NBI has developed a digital repository for reports and datasets produced by NBI 
 
 Open science is now the norm across most fields. Read more about the benefits and strategies:
 
-[Open science challenges, benefits and tips in early career and beyond.](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000246) Allen and Mehler 2019
+- [Open science challenges, benefits and tips in early career and beyond.](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000246) Allen and Mehler 2019
 
-[Improving Openness and Reproducibility of Scientific Research.](https://www.nsf.gov/attachments/132722/public/EHR_ACslides3.pdf)  Nosek Center for Open Science presentation
+- [Improving Openness and Reproducibility of Scientific Research.](https://www.nsf.gov/attachments/132-722/public/EHR_ACslides3.pdf)  Nosek Center for Open Science presentation
 
 ---
 
