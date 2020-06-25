@@ -105,8 +105,8 @@ Add the following columns to the dataDictionary:
 ## File Names and Types
 
 File naming convention is the following:
-- Reports: authorlastname-report-year.pdf   For multiple authors: (author1 last name)-et-al-year.pdf
-	- Example: richardson-nbi-report-2011.pdf   For multiple authors: richardson-et-al-report-2011.pdf
+- Reports: authorlastname-nbi-report-year.pdf   For multiple authors: (author1 last name)-et-al-nbi-report-year.pdf
+	- Example: richardson-nbi-report-2011.pdf   For multiple authors: richardson-et-al-nbi-report-2011.pdf
 - Datasets: Describe the file contents using camalCase
 	-Examples: capturesByDate.csv or pRigidaHeights.csv or allPitfallData.csv or anova.R
 
