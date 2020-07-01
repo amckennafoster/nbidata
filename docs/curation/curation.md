@@ -173,23 +173,32 @@ Include all authors in the format: last name1, first name1, affiliation1, ORCID1
 
 If the author's ORCID is unknown, leave blank.
 
+#### Author contact email
+This is especially important if the author chooses to embargo data and is also useful if errors are found in the report or data in the future.
+
 #### Basic Description
 Paste in the abstract of the researcher report and include any other relevant information.
-
-#### Subject
-Enter the url for the study subject (species studied) if one exists. Use the [Global Biodiversity Inforamtion Facility](https://www.gbif.org/) to find the url.  
-- If the subject is not represented on GBIF, use the lowest taxonomic term available and include your subject's species name as a keyword.  
-- If there are many subjects, include the lowest taxonomic term that describes them all (e.g. [https://www.gbif.org/species/6163](https://www.gbif.org/species/6163) for a study on spiders in the family Thomisidae).
 
 #### File Description
 List the name of each file being uploaded, including the file extension (e.g. wormData.csv). If necessary, include a description that would help a user know what the file contains. This is helpful there are many files and the file names do not fully convey their contents.
 
 This list will be used by the NBI Uploader to confirm they have the right files to upload. It will also be included in the Description field on the Repository.
 
+#### Subject
+Enter the url for the study subject (species studied) if one exists. Use the [Global Biodiversity Inforamtion Facility](https://www.gbif.org/) to find the url.  
+- If the subject is not represented on GBIF, use the lowest taxonomic term available and include your subject's species name as a keyword.  
+- If there are many subjects, include the lowest taxonomic term that describes them all (e.g. [https://www.gbif.org/species/6163](https://www.gbif.org/species/6163) for a study on spiders in the family Thomisidae).
+
+#### Kingdom 
+Choose the kingdom that the subject of the study is classified in. If the study focuses on subjects in more than one kingdom, add another kingdom as an additional keyword in the free text box at the end of the page. This will help users find all NBI studies related to plants or animals or fungi.
+
+#### Group
+This list is sourced from the original NBI list of grants.  It is a 'folksonomy' and is useful for grouping reserach outputs into general subjects of study.
+
 #### Study Type
 Study type is how the collected data is analyzed or what it produces. Examples include: checklist, species survey, genetic analysis, species-area curve, etc.
 
-#### Locations
+#### Locations -Geography and Specific Location
 General Geography
 - The General Geography locations are the islands or other land masses, please choose as appropriate to the study. 
 
@@ -201,11 +210,11 @@ Specific locations may include properties, generally accepted place names, prope
 #### Methods
 Choose two methods used to collect data in the study. If more than two methods were used add additional method keywords in the free text box at the end of the page. Methods are the ways data was acquired, not the way it was analyzed.
 
-#### Kingdom 
-Choose the kingdom that the subject of the study is classified in. If the study focuses on subjects in more than one kingdom, add another kingdom as an additional keyword in the free text box at the end of the page. This will help users find all NBI studies related to plants or animals or fungi.
-
 #### Additional Keywords
 Examples of this could include ecosystem analysis, symbiotic relationships, diet analysis etc. Include important words that a user might search for. Add any information here that did not fit in the above fields.  
+
+#### Funding Keyword
+This helps the NBI uploader fill out the metadata properly on Zenodo.  Choose NBI Grant, Other Grant, Both or multiple or None.
 
 #### License
 The recommended license is Creative Commons Attribution 4.0. This allows maximum reusability and requires users to cite the upload. For more information on the world of open data licenses see <a href="{{site.baseurl}}/specs/#licenses">the specifications and technical details section</a> of this site.
@@ -232,7 +241,7 @@ Here are the relationships that will likely be useful to NBI, however Zenodo has
 </table>
 
 #### Grant Funding
-Information regarding single or multiple grants that funded this research in this format: Grant funder, grant name or grant number; Grant funder, grant name or grant number; etc. If this is NBI funded, use the following format: Nantucket Biodiversity Initiative [year of grant]. Example: Nantucket Biodiversity Initiative 2019
+Information regarding single or multiple grants that funded this research in this format: Grant funder, grant name or grant number; Grant funder, grant name or grant number; etc. If this is NBI funded, enter the year of the grant.  This helps the NBI uploader enter the metadata properly.
 
 #### Contributors
 Contributors are those who helped significantly with data collection/analysis/management or the research project as a whole but are not authors. People in the Acknoledgments should not be automatically added here. However, you, as the NBI Wrangler should be noted here (relationship = Related person) because you likely facilitated the work overall. If you oversaw the data curation of the dataset, **include yourself as Data curator!**. Use the following format: last name1, first name1, affiliation1, relationship1; last name2, first name2, affiliation2, relationship2

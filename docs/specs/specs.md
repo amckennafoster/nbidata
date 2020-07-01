@@ -48,6 +48,29 @@ These lists are either specified by Zenodo or created specifically for NBI. To a
 
 The last step puts all your updates into the Metadata Form dropdowns.
 
+#### Study Type
+
+- checklist
+- field survey
+- genetics study
+- species comparison
+- species survey
+- population dynamics
+- population survey
+
+#### Group
+- amphibians and reptiles
+- bacteria
+- birds
+- fish
+- flora
+- fungi
+- invasive flora
+- invertebrates
+- mammals
+- marine fauna
+- non-vascular flora
+
 #### Geographic Location
 
 - cape cod
@@ -60,16 +83,6 @@ The last step puts all your updates into the Metadata Form dropdowns.
 - new england coast
 - the cape and islands
 - tuckernuck
-
-#### Study Type
-
-- checklist
-- field survey
-- genetics study
-- species comparison
-- species survey
-- population dynamics
-- population survey
 
 #### Specific Locations
 
