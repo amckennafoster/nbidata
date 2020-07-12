@@ -15,7 +15,7 @@ This documentation is avaialable for reuse and is published through GitHub under
 <div>
 
 <div calss="container">
-<div class="one"><a href="https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/docs/assets/images/groups.png"><img src="https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/docs/assets/images/groups.pn" height="90%" width="90%">
+<div class="one"><a href="https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/docs/assets/images/groups.png"><img src="https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/docs/assets/images/groups.png" height="90%" width="90%">
 </a></div>
 <div class="two"><a href="https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/docs/assets/images/upload.png"><img src="https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/docs/assets/images/upload.png" height="90%" width="90%">
 </a></div>
