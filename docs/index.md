@@ -11,27 +11,30 @@ This site documents the workflow and curation details to upload research outputs
 
 This documentation is avaialable for reuse and is published through GitHub under the MIT license.  Please attribute the site as "Nantucket Biodiversity Digital Repository Documentation, {{ site.github.repository_url }}". 
 
+## Repository Contents
+
+The following charts summarize the contents of the repository.  These are updated once a year.
 
 <div>
 
-<div calss="container">
-<div class="one"><a href="https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/docs/assets/images/groups.png"><img src="https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/docs/assets/images/groups.png" height="90%" width="90%">
-</a></div>
-<div class="two"><a href="https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/docs/assets/images/upload.png"><img src="https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/docs/assets/images/upload.png" height="90%" width="90%">
-</a></div>
-</div>
-
-<div calss="container">
-<div class="one"><a href="https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/docs/assets/images/geography.png"><img src="https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/docs/assets/images/geography.png" height="90%" width="90%">
-</a></div>
-<div class="two"><a href="https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/docs/assets/images/method.png"><img src="https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/docs/assets/images/method.png" height="90%" width="90%">
-</a></div>
-</div>
-
-<div calss="container">
-<div class="one"><a href="https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/docs/assets/images/types.png"><img src="https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/docs/assets/images/types.png" height="90%" width="90%">
+<div class="container">
+<div class="one"><a href="https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/docs/assets/images/upload.png"><img src="https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/docs/assets/images/upload.png" height="90%" width="90%">
 </a></div>
 <div class="two"><a href="https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/docs/assets/images/files.png"><img src="https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/docs/assets/images/files.png" height="90%" width="90%">
+</a></div>
+</div>
+
+<div class="container">
+<div class="one"><a href="https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/docs/assets/images/geography.png"><img src="https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/docs/assets/images/geography.png" height="90%" width="90%">
+</a></div>
+<div class="two"><a href="https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/docs/assets/images/groups.png"><img src="https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/docs/assets/images/groups.png" height="90%" width="90%">
+</a></div>
+</div>
+
+<div class="container">
+<div class="one"><a href="https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/docs/assets/images/types.png"><img src="https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/docs/assets/images/types.png" height="90%" width="90%">
+</a></div>
+<div class="two"><a href="https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/docs/assets/images/method.png"><img src="https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/docs/assets/images/method.png" height="90%" width="90%">
 </a></div>
 </div>
 
