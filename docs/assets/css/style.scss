@@ -51,6 +51,26 @@ header {
 
 }
 
+<!-- This is for the graphs on the main page -->
+
+.container {
+  width: 80%;
+  height: 250px;
+  margin: auto;
+  padding: 10px;
+}
+
+.one {
+  width: 15%;
+  height: 250px;
+  float: left;
+}
+
+.two {
+  margin-left: 15%;
+  height: 250px;
+}
+
 <!--This is the css for the sidebar menu-->
 nav ul {
 	max-height: 400px;
