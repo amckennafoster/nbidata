@@ -6,7 +6,7 @@ layout: researchers
 
 ## Expectations for NBI Researchers
 
-A researcher who receives an NBI grant is expected to submit a report of their work by February 15 of the following year. Additionally, NBI expects researchers to work with an NBI committee member to create a data plan. This plan may entail submitting raw data with the report or submitting the data at a later agreed upon date.
+A researcher who receives an NBI grant is expected to submit a report of their work by February 15 of the following year. Additionally, NBI strongly encourages, but does not require, researchers to submit data with their reports for inclusion in the digital repository. With this in mind, NBI expects researchers to work with an NBI committee member to create a data plan (see <a href="{{site.baseurl}}/submittingData/">Submitting Data and Reports</a> section). This plan outlines how the reseracher will store their data.
 
 ### Report Expectations
 

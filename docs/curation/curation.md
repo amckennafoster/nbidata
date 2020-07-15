@@ -17,7 +17,7 @@ The three main sections on this page are:
 
 # Data Embargoes
 
-In an ideal world, a dataset would be ready for upload with the report. However, there are many reasons why a researcher may want to postpone uploading their data. Researchers have the option to submit their data with their report to NBI under an agreed upon embargo postponing upload to a future date.  The default time period is **two years**. The benefit of embargoing, rather than just submitting data at some later point, is that NBI holds a copy of the data in case the researcher either loses the dataset or goes incommunicado. Additionally, timely submission of data means the NBI Wrangler can curate the dataset while the project is fresh on the mind.  Work with the researcher to fill out the [Data Plan](https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/files/documents/Researcher-Data-Plan.pdf).
+In an ideal world, a dataset would be ready for upload with the report. However, there are many reasons why a researcher may want to postpone uploading their data (or not submit data at all). Researchers have the option to submit their data with their report to NBI under an agreed upon embargo, postponing upload to a future date.  The default time period is **two years**. The benefit of embargoing, rather than just submitting data at some later point, is that NBI holds a copy of the data in case the researcher either loses the dataset or goes incommunicado. Additionally, timely submission of data means the NBI Wrangler can curate the dataset while the project is fresh on the mind.  Work with the researcher to fill out the [Data Plan](https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/files/documents/Researcher-Data-Plan.pdf).
 
 The researcher has the following options:
 
@@ -25,7 +25,7 @@ The researcher has the following options:
 2. Submit data with report and agree to a default two year embargo period for upload, or arrange a different embargo timeline. Report is uploaded immediately.
 3. Submit a report only and agree to a custom data agreement.
 
-Universities and institutions may have their own data policies that will complicate this. Ultimately, the data should be published somewhere. If a researchers uses their institutional repository or a third party repository, their report record in the NBI Digital Repository can point to the published data wherever it sits.
+Universities and institutions may have their own data policies that will complicate this. Ultimately, the data should be published somewhere. If a researcher uses their institutional repository or a third party repository, their report record in the NBI Digital Repository can point to the published data wherever it sits.
 
 Here is an example: A PhD student hopes to publish a paper based on their data as part of their dissertation. They think it will be 3 years before publication. The student agrees to submit data with their report but have it embargoed for 3 years. At the end of their grant year, NBI receives the report and dataset. The report is uploaded to Zenodo immediately. The NBI Wrangler curates the dataset and puts it in a folder marked with the specified date of upload.  In 3 years, NBI contacts the researcher to get final confirmation for data upload. At this point the researcher may send a more complete dataset or let NBI know the data has been pubished elsewhere. In the latter case, the NBI uploader can add the DOI of the published data to the existing report record in the NBI Repository.
 
@@ -167,6 +167,9 @@ Choose the upload type from the dropdown list. If the upload will include both a
 
 #### Title
 Paste in the title from the researcher report, if available. Otherwise, create a descriptive title.  
+
+#### Report Date
+If there is a report as part of the upload, use the date of the report.  If it has no date, use February 15 of the year following the grant year. For example, for a report on work done as part of a 2019 grant, the date would be 02-15-2020.  If this is only a data file or code, use today's date.
 
 #### Authors 
 Include all authors in the format: last name1, first name1, affiliation1, ORCID1; last name2, first name2, affiliation2, ORCID2
