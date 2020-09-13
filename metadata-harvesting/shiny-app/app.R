@@ -2,14 +2,22 @@
 
 #Left off- trying to get reactive value to show up.
 
+#setwd("C:/Users/Andre/Documents/GitHub/NBIdigitalrepo/metadata-harvesting") #Comment this out before running
+
 library(shiny)
 library(htmlwidgets)
+library(tidyverse)
+library (plyr)
 library(ggplot2)
 library(ggvis)
 library(dplyr)
 
 ui <- fluidPage(
-  navbarPage("App Title",
+  titlePanel( div(tags$img(src = "nbilogo-sml.jpg"))
+  ),
+  tags$div(
+    h3("These visualizations summarize uploads to the Nantucket Biodisversity Digital Repository"),),
+  navbarPage("",
                    tabPanel("By Group",
                             sidebarPanel(
                               selectInput("Select1",
@@ -29,7 +37,7 @@ ui <- fluidPage(
                                           selected="invertebrates"),
                             ),
                             mainPanel(
-                              h3(paste("Total research outputs:", rv$val1)),
+                              h3(textOutput("val1")),
                               tabsetPanel(
                                 tabPanel("Plot",
                                          fluidRow(
@@ -52,6 +60,7 @@ ui <- fluidPage(
                             selected="nantucket"),
                             ),
                             mainPanel(
+                              h3(textOutput("val2")),
                               tabPanel("Plot",
                                       fluidRow(
                                         plotOutput("myPlot2"),
@@ -60,6 +69,7 @@ ui <- fluidPage(
                    )
                    
   )
+
 )
 
 
@@ -72,13 +82,16 @@ server <- function(input, output) {
   filter1 <- reactive({
     filter(merge((filter(keywords, keywords == input$Select1) %>% subset(select = -c(keywords,type) )), keywords, by = 'doi'), type == 'geographies')
   })
-  val1 <- reactval(nrow(filter(keywords, keywords == input$Select1) %>% subset(select = -c(keywords,type) )))
+  output$val1 <- renderText({
+    paste0("Total research outputs:", nrow(filter(keywords, keywords == input$Select1) %>% subset(select = -c(keywords,type) )))})
   
   filter2 <- reactive({
     rows2 <- nrow(filter(keywords, keywords == input$Select2) %>% subset(select = -c(keywords,type) ))
     filter(merge((filter(keywords, keywords == input$Select2) %>% subset(select = -c(keywords,type) )), keywords, by = 'doi'), type == 'group')
   })
-  val2 <- reactval(nrow(filter(keywords, keywords == input$Select2) %>% subset(select = -c(keywords,type) )))
+  output$val2 <- renderText({
+    paste0("Total research outputs:", nrow(filter(keywords, keywords == input$Select2) %>% subset(select = -c(keywords,type) )))})
+  
   
   output$myPlot1 <- renderPlot({
     
@@ -91,7 +104,7 @@ server <- function(input, output) {
             axis.title.y = element_text(face='bold', size=12),
             axis.text.x = element_text(angle = 45, hjust=1, size=14, face='bold')) +
       ggtitle(paste("Research Outputs on",input$Select1)) +
-      labs(x="Geography", y= "Count of Research Uploads")
+      labs(x="Group", y= "Count of Research Uploads")
     
     p1
   })

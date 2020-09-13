@@ -1,0 +1,8 @@
+In the console type
+runApp("shiny-app")
+	This runs the app.R file
+
+
+To connect to shinyapps.io run
+library(rsconnect)
+rsconnect::deployApp('C:/Users/Andre/Documents/R/shiny-app')
