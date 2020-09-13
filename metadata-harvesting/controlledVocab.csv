@@ -1,86 +1,81 @@
-Paste lists in this column				This column has formated lists for python. Just delete the last comma.
-Group				"'Group',"
-amphibians and reptiles				"'amphibians and reptiles',"
-bacteria				"'bacteria',"
-birds				"'birds',"
-fish				"'fish',"
-flora				"'flora',"
-fungi				"'fungi',"
-invasive flora				"'invasive flora',"
-invertebrates				"'invertebrates',"
-mammals				"'mammals',"
-marine fauna				"'marine fauna',"
-non-vascular flora				"'non-vascular flora',"
-				"'',"
-Geography Location 3				"'Geography Location 3',"
-cape cod				"'cape cod',"
-global				"'global',"
-martha's vinyard				"'martha's vinyard',"
-massachusetts				"'massachusetts',"
-muskeget				"'muskeget',"
-nantucket				"'nantucket',"
-national				"'national',"
-new england coast				"'new england coast',"
-cape and islands				"'cape and islands',"
-tuckernuck				"'tuckernuck',"
-				"'',"
-Method 2				"'Method 2',"
-acoustic sampling				"'acoustic sampling',"
-amplicon sequencing				"'amplicon sequencing',"
-bait stations				"'bait stations',"
-banding				"'banding',"
-berlese funnel				"'berlese funnel',"
-bioblitz				"'bioblitz',"
-camera trap				"'camera trap',"
-cover board				"'cover board',"
-digital recording				"'digital recording',"
-DNA sequencing				"'DNA sequencing',"
-emergence counts				"'emergence counts',"
-field experiment				"'field experiment',"
-field observation				"'field observation',"
-field sampling				"'field sampling',"
-geographic information system				"'geographic information system',"
-ground penetrating radar				"'ground penetrating radar',"
-habitat monitoring				"'habitat monitoring',"
-hand collection				"'hand collection',"
-health measurements				"'health measurements',"
-histology of adults				"'histology of adults',"
-laboratory research				"'laboratory research',"
-leaf collection				"'leaf collection',"
-liquid mustard extraction				"'liquid mustard extraction',"
-litter sorting				"'litter sorting',"
-mist-netting				"'mist-netting',"
-morphological observations				"'morphological observations',"
-photography				"'photography',"
-pitfall traps				"'pitfall traps',"
-point count				"'point count',"
-quadrat sampling				"'quadrat sampling',"
-remote sensing				"'remote sensing',"
-remote tracking				"'remote tracking',"
-soil samples				"'soil samples',"
-song recognition software				"'song recognition software',"
-spat bags				"'spat bags',"
-species inventory				"'species inventory',"
-specimen collection				"'specimen collection',"
-spore density analysis				"'spore density analysis',"
-sweep net				"'sweep net',"
-tethering experiment				"'tethering experiment',"
-water samples				"'water samples',"
-				"'',"
-Study Type				"'Study Type',"
-checklist				"'checklist',"
-field survey				"'field survey',"
-genetics study				"'genetics study',"
-species comparison				"'species comparison',"
-species survey				"'species survey',"
-population dynamics				"'population dynamics',"
-population survey				"'population survey',"
-				"'',"
-Kingdom				"'Kingdom',"
-animalia				"'animalia',"
-archeae				"'archeae',"
-bacteria				"'bacteria',"
-chromista				"'chromista',"
-fungi				"'fungi',"
-plantae				"'plantae',"
-protozoa				"'protozoa',"
+type,keywords
+group,amphibians and reptiles
+group,bacteria
+group,birds
+group,fish
+group,flora
+group,fungi
+group,invasive flora
+group,invertebrates
+group,mammals
+group,marine fauna
+group,marine flora
+group,non-vascular flora
+geographies,cape cod
+geographies,global
+geographies,martha\'s vineyard
+geographies,massachusetts
+geographies,muskeget
+geographies,nantucket
+geographies,national
+geographies,new england coast
+geographies,cape and islands
+geographies,tuckernuck
+studyTypes,checklist
+studyTypes,ecosystem study
+studyTypes,field survey
+studyTypes,genetics study
+studyTypes,impact survey
+studyTypes,management study
+studyTypes,species comparison
+studyTypes,species survey
+studyTypes,population dynamics
+studyTypes,population survey
+kingdoms,animalia
+kingdoms,archeae
+kingdoms,bacteria
+kingdoms,chromista
+kingdoms,fungi
+kingdoms,plantae
+kingdoms,protozoa
+methods,acoustic sampling'
+methods,amplicon sequencing
+methods,bait stations
+methods,banding
+methods,berlese funnel
+methods,bioblitz
+methods,camera trap
+methods, cover board
+methods,digital recording
+methods,genetic sequencing
+methods,emergence counts
+methods,field experiment
+methods, field observation
+methods,field sampling
+methods,garden experiment
+methods,geographic information system
+methods,ground penetrating radar
+methods, habitat monitoring
+methods,hand collection
+methods,health measurements
+methods,histology of adults
+methods, laboratory research
+methods,leaf collection
+methods,light trap
+methods,liquid mustard extraction
+methods,litter sorting
+methods, mist-netting
+methods,morphological observations
+methods,photography
+methods,pitfall traps
+methods, point count
+methods,quadrat sampling
+methods,remote sensing
+methods,remote tracking
+methods, soil samples
+methods,song recognition software
+methods,spat bags
+methods,spore density analysis
+methods,sweep net
+methods,tethering experiment
+methods, water samples

@@ -1,0 +1,29 @@
+ui <- fluidPage(
+  titlePanel("Group by Study Location"),
+  sidebarPanel(
+    selectInput("Select",
+                label=h4("Group"),
+                choices=c("amphibians and reptiles",
+                            "bacteria",
+                            "birds",
+                            "fish",
+                            "flora",
+                            "fungi",
+                            "invasive flora",
+                            "invertebrates",
+                            "mammals",
+                            "marine fauna",
+                            "marine flora",
+                            "non-vascular flora"),
+                selected="invertebrates"),
+  ),
+  mainPanel(
+    tabsetPanel(
+      tabPanel("Plot",
+               fluidRow(
+                 plotOutput("myPlot1"),
+               )
+
+      ))
+  )
+)
