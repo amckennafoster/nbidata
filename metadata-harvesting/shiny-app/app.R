@@ -13,10 +13,11 @@ library(ggvis)
 library(dplyr)
 
 ui <- fluidPage(
-  titlePanel( div(tags$img(src = "nbilogo-sml.jpg"))
+  titlePanel( div(tags$img(src = "nbilogo-sml.jpg", div(h2("Nantucket Biodiversity Digital Repository Visualizations"))))
   ),
   tags$div(
-    h3("These visualizations summarize uploads to the Nantucket Biodisversity Digital Repository"),),
+    p("These visualizations summarize uploads to the ", tags$a(href="https://zenodo.org/communities/nantucketbiodiversity/?page=1&size=20", "Nantucket Biodiversity Digital Repository")),
+    p("A research output uploaded to the repository may include several groups and several geographies. As an example, an output that involves data collection on Nantucket, but is part of a regional study will be tagged with 'nantucket' and 'new england coast'"),),
   navbarPage("",
                    tabPanel("By Group",
                             sidebarPanel(
@@ -83,14 +84,14 @@ server <- function(input, output) {
     filter(merge((filter(keywords, keywords == input$Select1) %>% subset(select = -c(keywords,type) )), keywords, by = 'doi'), type == 'geographies')
   })
   output$val1 <- renderText({
-    paste0("Total research outputs:", nrow(filter(keywords, keywords == input$Select1) %>% subset(select = -c(keywords,type) )))})
+    paste0("Total research outputs: ", nrow(filter(keywords, keywords == input$Select1) %>% subset(select = -c(keywords,type) )))})
   
   filter2 <- reactive({
     rows2 <- nrow(filter(keywords, keywords == input$Select2) %>% subset(select = -c(keywords,type) ))
     filter(merge((filter(keywords, keywords == input$Select2) %>% subset(select = -c(keywords,type) )), keywords, by = 'doi'), type == 'group')
   })
   output$val2 <- renderText({
-    paste0("Total research outputs:", nrow(filter(keywords, keywords == input$Select2) %>% subset(select = -c(keywords,type) )))})
+    paste0("Total research outputs: ", nrow(filter(keywords, keywords == input$Select2) %>% subset(select = -c(keywords,type) )))})
   
   
   output$myPlot1 <- renderPlot({
@@ -112,7 +113,7 @@ server <- function(input, output) {
   output$myPlot2 <- renderPlot({
     
     p2 <- ggplot(filter2(), aes(fct_infreq(keywords))) + #this fct_infreq sorts the bars https://stackoverflow.com/questions/5208679/order-bars-in-ggplot2-bar-graph 
-      geom_bar(color='black', fill="#def2da") +
+      geom_bar(color='black', fill="#bfebf2") +
       geom_text(stat="count", aes(y = ..count..-0.5, label=..count.., size=3.5)) + #This adds the label
       theme_minimal() +
       theme(legend.position="none", plot.title = element_text(face='bold', size=20, hjust=0.5), 

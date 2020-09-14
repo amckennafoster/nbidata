@@ -5,4 +5,4 @@ runApp("shiny-app")
 
 To connect to shinyapps.io run
 library(rsconnect)
-rsconnect::deployApp('C:/Users/Andre/Documents/R/shiny-app')
+rsconnect::deployApp('C:/Users/Andre/Documents/GitHub/NBIdigitalrepo/metadata-harvesting/shiny-app')

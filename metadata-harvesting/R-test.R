@@ -41,7 +41,7 @@ df <- fromJSON("nbiRepository-2020-09-11.json")
 
 
 #-------------------------------------------------------
-#Begin Analysis
+#Set up data file to use in shiny-app or create charts here
 
 #Good info on working with the data: https://stackoverflow.com/questions/20925492/how-to-import-json-into-r-and-convert-it-to-table
 #also this medium post: https://blog.exploratory.io/working-with-json-data-in-very-simple-way-ad7ebcc0bb89
@@ -59,6 +59,11 @@ keycat = read.csv("controlledVocab.csv")
 keywords <- (merge(keycat, keydf, by = 'keywords'))
 
 write.csv(keywords, "keywords.csv")
+write.csv(keywords, "shiny-app/keywords.csv") #save a copy for shiny-app
+
+#To update shiny-app, open app.R and send to R server.
+#Or contunue below to make charts
+
 
 #-------------------------------------------------------------------
 
