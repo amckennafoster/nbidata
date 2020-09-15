@@ -1,6 +1,4 @@
-#NEED error handling for when a keyword does not exist
 
-#Left off- trying to get reactive value to show up.
 
 #setwd("C:/Users/Andre/Documents/GitHub/NBIdigitalrepo/metadata-harvesting") #Comment this out before running
 
@@ -9,10 +7,11 @@ library(htmlwidgets)
 library(tidyverse)
 library (plyr)
 library(ggplot2)
-library(ggvis)
+library(ggvis) # does this need this? try deleting
 library(dplyr)
 
 ui <- fluidPage(
+  tags$head(tags$title("NBI Repo Summary")),
   titlePanel( div(tags$img(src = "nbilogo-sml.jpg", div(h2("Nantucket Biodiversity Digital Repository Visualizations"))))
   ),
   tags$div(
@@ -47,7 +46,7 @@ ui <- fluidPage(
                    tabPanel("By Geography",
                             sidebarPanel( 
                               selectInput("Select2",
-                                  label=h4("Group"),
+                                  label=h4("Geography"),
                                   choices=c("cape cod",
                                          "global",
                                          "martha\'s vineyard",
@@ -107,7 +106,11 @@ server <- function(input, output) {
       ggtitle(paste("Research Outputs on",input$Select1)) +
       labs(x="Group", y= "Count of Research Uploads")
     
+    if (dim(filter1())[1] == 0) {     #Check if there is any data to plot by looking at dimensions (rows=0?)
+    
+    }  else {
     p1
+    }
   })
   
   output$myPlot2 <- renderPlot({
@@ -123,7 +126,11 @@ server <- function(input, output) {
       ggtitle(paste("Research Outputs Encompassing",input$Select2)) +
       labs(x="Geography", y= "Count of Research Uploads")
     
-    p2
+    if (dim(filter2())[1] == 0) {     #Check if there is any data to plot
+      
+    }  else {
+      p2
+    }
   })
 }
 

@@ -35,7 +35,7 @@ df = fromJSON(rawToChar(res$content))
 
 #------------------------------------------------------
 #OPEN EXISTING FILE if running a new download! Open a previous json file
-df <- fromJSON("nbiRepository-2020-09-11.json")
+df <- fromJSON("nbiRepository-2020-09-14.json")
 
 
 
@@ -84,7 +84,7 @@ filter2 <- filter(dfchart1,
                   type == 'geographies')
 
 #Piped- This is used in the shiny app
-#test <- filter(merge((filter(keywords, keywords == 'mammals') %>% subset(select = -c(keywords,type) )), keywords, by = 'doi'), type == 'geographies')
+filter2 <- filter(merge((filter(keywords, keywords == 'fish') %>% subset(select = -c(keywords,type) )), keywords, by = 'doi'), type == 'geographies')
 
 #Count occurances
 #chart1 <- filter2 %>%
@@ -97,17 +97,22 @@ filter2 <- filter(dfchart1,
 #ggplot(chart1, aes(x=keywords, y=n)) +  
 #  geom_bar( stat='identity')
 
-ggplot(filter2, aes(fct_infreq(keywords))) + #this fct_infreq sorts the bars https://stackoverflow.com/questions/5208679/order-bars-in-ggplot2-bar-graph 
-  geom_bar(color='black', fill="#def2da") +
-  geom_text(stat="count", aes(y = ..count..-0.5, label=..count.., size=3.5)) + #This adds the
-  theme_minimal() +
-  theme(legend.position="none", plot.title = element_text(face='bold', size=14, hjust=0.5), 
-        axis.title.x = element_text(face='bold', size=12),
-        axis.title.y = element_text(face='bold', size=12),
-        axis.text.x = element_text(angle = 45, hjust=1, size=14, face='bold')) +
-  ggtitle(paste("Research Outputs on (fill in)"))+ #)) +
-  labs(x="Geography", y= "Count of Uploads")
+
+if (dim(filter2)[1] == 0) {     #Check if there is any data to plot
+  print("There is no data to display for the selected value")
+}  else {
+  ggplot(filter2, aes(fct_infreq(keywords))) + #this fct_infreq sorts the bars https://stackoverflow.com/questions/5208679/order-bars-in-ggplot2-bar-graph 
+    geom_bar(color='black', fill="#def2da") +
+    geom_text(stat="count", aes(y = ..count..-0.5, label=..count.., size=3.5)) + #This adds the
+    theme_minimal() +
+    theme(legend.position="none", plot.title = element_text(face='bold', size=14, hjust=0.5), 
+          axis.title.x = element_text(face='bold', size=12),
+          axis.title.y = element_text(face='bold', size=12),
+          axis.text.x = element_text(angle = 45, hjust=1, size=14, face='bold')) +
+    ggtitle(paste("Research Outputs on (fill in)"))+ #)) +
+    labs(x="Geography", y= "Count of Uploads")
   labs(title = "Research Outputs on (fill in)", x="Geography", y= "Count of Uploads")
+}
 
 
 #-------------------------------------------------------------------

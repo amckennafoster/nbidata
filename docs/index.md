@@ -13,7 +13,7 @@ This documentation is avaialable for reuse and is published through GitHub under
 
 ## Repository Contents
 
-The following charts summarize the contents of the repository.  These are updated once a year.
+The following charts summarize the curent contents of the repository. There is also an <a href="https://amckennafoster.shinyapps.io/shiny-app/" target="_blank">interactive version</a> of some of these charts. These charts are based on data from the Zenodo API and code to create them is in the github repository.
 
 <div>
 

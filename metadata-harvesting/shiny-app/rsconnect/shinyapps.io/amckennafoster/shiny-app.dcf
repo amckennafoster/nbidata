@@ -5,6 +5,6 @@ account: amckennafoster
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 2807008
-bundleId: 3628366
+bundleId: 3631928
 url: https://amckennafoster.shinyapps.io/shiny-app/
-when: 1600108053.89941
+when: 1600184655.04553
