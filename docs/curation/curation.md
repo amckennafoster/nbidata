@@ -22,7 +22,7 @@ In an ideal world, a dataset would be ready for upload with the report. However,
 The researcher has the following options:
 
 1. Submit data with report for upload.
-2. Submit data with report and agree to a default two year embargo period for upload, or arrange a different embargo timeline. Report is uploaded immediately.
+2. Submit data with report and agree to a default two year embargo period for upload, or arrange a different embargo timeline. Report is submitted for upload.
 3. Submit a report only and agree to a custom data agreement.
 
 Universities and institutions may have their own data policies that will complicate this. Ultimately, the data should be published somewhere. If a researcher uses their institutional repository or a third party repository, their report record in the NBI Digital Repository can point to the published data wherever it sits.
@@ -90,7 +90,7 @@ It has the following characteristics.
 ## Data Dictionary
 [Data dictionaries](https://help.osf.io/hc/en-us/articles/360019739054-How-to-Make-a-Data-Dictionary) tell users what the column names mean, what the data values mean, and anything else that would help someone use the data wisely.
 
-Create a csv file in your favorite spreadsheet program. The data dictionary will define the variables used in all the data files uploaded as one package, under one doi. If you have a dataset with more than one data table that each have many of the same variables (e.g. survey data and trap data for the same study subject), make each table its own csv file and list all the variables from each file in the data dictionary file.
+Create a csv file in your favorite spreadsheet program. The data dictionary will define the variables used in all the data files uploaded as one package, under one DOI. If you have a dataset with more than one data table that each have many of the same variables (e.g. survey data and trap data for the same study subject), make each table its own csv file and list all the variables from each file in the data dictionary file.
 Add the following columns to the dataDictionary:
 
 - Variable = Variable (column) name
@@ -118,7 +118,7 @@ All file types should be 'open' meaning a user does not need propriatary softwar
 #### Data
 **CSV** Comma Separated Values
 
-CSV is a standard format for open data. Most spreadsheet programs (like Excel) will allow you to save a file as .csv. All formatting is stripped away. If you have the options save as CSV UTF-8. This will store unusual characters used in any note or comment fields properly.
+CSV is a standard format for open data. Most spreadsheet programs (like Excel) will allow you to save a file as .csv. All formatting is stripped away. If you have the option, save as CSV UTF-8. This will store unusual characters used in any note or comment fields properly.
 
 **TXT** Text file
 

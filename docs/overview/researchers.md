@@ -17,15 +17,15 @@ Open science is now the norm across most fields. Read more about the benefits an
 ---
 
 ### What is expectated of NBI grantees?
-In addition to the required report, NBI expects every grantee to submit their raw data under the following circumstances:
-- The dataset was used in a published paper and is not part of a publication in preparation
+In addition to the required report, NBI encourages every grantee to submit their raw data under the following circumstances:
+- The dataset was used in a published paper, is not published elsewhere, and is not part of a publication in preparation
 - The dataset is unlikely to be part of a publication
 - It has been two or more years since the data were collected
 
 ---
 
 ### What happens to submitted data?
-An NBI committee member will work with you to make sure the dataset is clean and understandable. An important step is determining if the dataset(s) contains sensitive information on rare species or protected areas. Other steps include data cleaning, application of metadata, and linking to related resources. As the person who knows your data best, please complete as many curation steps as possible in the data [curation section](https://nantucketbiodiversity.github.io/NBIdigitalrepo/curation/).
+An NBI committee member will work with you to make sure the dataset is clean and understandable. An important step is determining if the dataset(s) contains sensitive information on rare species or protected areas. Other steps include data cleaning, application of metadata, and linking to related resources. As the person who knows your data best, please complete as many curation steps as possible in the [data curation section](https://nantucketbiodiversity.github.io/NBIdigitalrepo/curation/).
 
 No matter if you submit your data with your report now or later, your report will be uploaded to the repository.
 

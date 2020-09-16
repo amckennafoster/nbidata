@@ -4,7 +4,7 @@ layout: curators
 ---
 
 # General Workflow
-This is an overview of process that moves reserach outputs (reports and datasets) from researchers to final upload on the repository. It is tailored to the NBI committee member's point of view.
+This is an overview of the process that moves reserach outputs (reports and datasets) from researchers to final upload on the repository. It is tailored to the NBI committee member's point of view.
 
 ## Overview
 
@@ -18,7 +18,7 @@ This is an overview of process that moves reserach outputs (reports and datasets
 
 **Researcher Responsibilities:**
 
-Submit a report and metadata form one year after receiving funds from NBI and choose one option for dataset(s):
+Submit a report and data plan one year after receiving funds from NBI and choose one option for dataset(s):
 1. Submit data with report for upload.
 2. Submit data with report and agree to the default two year embargo period for upload, or arrange a different embargo timeline.
 3. Submit a report only and agree to a custom embargo time period.
@@ -32,11 +32,11 @@ Assist researchers with metadata and data curation to ensure high quality resour
 4. Apply metadata fully and accurately.
 5. Upload research outputs once a year.
 
-
+The following flowchart illustrates how research outputs move from the researcher to upload on the repository.
 <a href="https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/docs/assets/images/workflow.jpeg">![Flow chart showing upload decision making process](https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/docs/assets/images/workflow.jpeg "Flowchart showing workflow moving a research output from researcher to upload"){:height="90%" width="90%"}
 </a>
 
-## Collecting Reports and Datasets
+## Collecting Reports and Data Plan
 
 The Wrangler, the NBI Committee member who works closely with an NBI funded researcher, is the point person for collecting the report and data from the researcher because they are in the best position to apply metadata correctly and easily. The Wrangler will help the researcher complete three items:
 
@@ -46,7 +46,7 @@ The Wrangler, the NBI Committee member who works closely with an NBI funded rese
 
 ## Curating Data
 
-If the Wrangler received a dataset, they are responsible for curating the researcher data following the directions in the <a href="{{site.baseurl}}/curation/">Curation section</a>.
+If the Wrangler received a dataset, they are responsible for curating the data following the directions in the <a href="{{site.baseurl}}/curation/">Curation section</a>.
 
 
 ## Metadata and File Submission
