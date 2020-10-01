@@ -34,7 +34,7 @@ df = fromJSON(rawToChar(res$content))
 
 
 #------------------------------------------------------
-#OPEN EXISTING FILE if running a new download! Open a previous json file
+#OPEN EXISTING FILE
 df <- fromJSON("nbiRepository-2020-09-14.json")
 
 
@@ -84,7 +84,7 @@ filter2 <- filter(dfchart1,
                   type == 'geographies')
 
 #Piped- This is used in the shiny app
-filter2 <- filter(merge((filter(keywords, keywords == 'fish') %>% subset(select = -c(keywords,type) )), keywords, by = 'doi'), type == 'geographies')
+#filter2 <- filter(merge((filter(keywords, keywords == 'fish') %>% subset(select = -c(keywords,type) )), keywords, by = 'doi'), type == 'geographies')
 
 #Count occurances
 #chart1 <- filter2 %>%
@@ -101,7 +101,7 @@ filter2 <- filter(merge((filter(keywords, keywords == 'fish') %>% subset(select 
 if (dim(filter2)[1] == 0) {     #Check if there is any data to plot
   print("There is no data to display for the selected value")
 }  else {
-  ggplot(filter2, aes(fct_infreq(keywords))) + #this fct_infreq sorts the bars https://stackoverflow.com/questions/5208679/order-bars-in-ggplot2-bar-graph 
+  p <- ggplot(filter2, aes(fct_infreq(keywords))) + #this fct_infreq sorts the bars https://stackoverflow.com/questions/5208679/order-bars-in-ggplot2-bar-graph 
     geom_bar(color='black', fill="#def2da") +
     geom_text(stat="count", aes(y = ..count..-0.5, label=..count.., size=3.5)) + #This adds the
     theme_minimal() +
@@ -112,6 +112,7 @@ if (dim(filter2)[1] == 0) {     #Check if there is any data to plot
     ggtitle(paste("Research Outputs on (fill in)"))+ #)) +
     labs(x="Geography", y= "Count of Uploads")
   labs(title = "Research Outputs on (fill in)", x="Geography", y= "Count of Uploads")
+  p
 }
 
 

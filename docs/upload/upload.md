@@ -15,7 +15,7 @@ This page provides instructions for uploading research material to the repositor
 - Check for embargoed datasets in the NBI Google Drive.
 - Contact researchers with expiring dataset embargos to confirm consent for uploading data.
 - Confirm that you have a report and hopefully dataset in the [Google Drive](https://nantucketbiodiversity.github.io/NBIdigitalrepo/upload/#google-drive-organization) for each new entry logged from the Metadata Form. The File Description column of the Google Sheet should have a list of upload files.
-- Make a new folder in the Uploaded folder and name it for the upload year.
+- If needed, make a new folder in the Uploaded folder and name it for the upload year.
 - After uploading reports and datasets, move them into the new Uploaded folder. *Do not leave copies in the Ready folder.*
 
 For each upload:
@@ -37,8 +37,15 @@ Look in the Embargoed folder in the Google Drive.  If there is a folder with the
 
 If permission is granted, move those datasets into the appropriate year folder in the Ready folder.
 
+---
+
 # Uploading Files
 Log into [Zenodo](https://zenodo.org) with NBI credentials. Click 'Upload' to the right of the search bar at the top of the page. Click the green 'Upload' button in the middle of the screen. Fill in all applicable metadata fields as described below using the information provided by the NBI Wrangler and the researcher's report. Be as accurate and detailed as you can!  Without good metadata, the report and data are not very useful.
+
+## For Each Upload
+The purpose of this repository is to make it easy for people to find and cite research while also helping NBI track research it has supported.  For each upload, please consider the landscape of publishing for each report or dataset you have. Look at the related identifiers (if they exist) submitted by the Wrangler and make sure it makes sense to upload the files as they are. Anything that is unique and not published elsewhere is worth uploading. Duplicates of published research are tricky though. For example, a report that is the basis for a master's thesis and contains no unique information compared to the thesis is probably not useful to upload if the University has "published" the thesis with a DOI (if there is no DOI, you could upload the thesis itself as the NBI report, with the author's permission of course). Uploading the data from a published thesis with a DOI and linking it to the university published thesis is preferred. However, what if you do not have the data? In this case, the best option is to create a pdf using the title, authors, and abstract and put in the document that the work was supported through an NBI grant. Then link it to the published thesis.
+
+**Upload Reports and Data Seperately** Initially everything was uploaded together to make tracking easier for NBI. However, this makes it more difficult for others to cite the research appropriately.
 
 ## Community
 Type 'Nantucket' and the Nantucket Biodiversity Digital Repository should show up. Click it to select it.
@@ -48,13 +55,13 @@ Type 'Nantucket' and the Nantucket Biodiversity Digital Repository should show u
 <a href="https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/docs/assets/images/uploadFlow.jpeg">![Flow chart showing upload decision making process](https://raw.githubusercontent.com/nantucketbiodiversity/NBIdigitalrepo/master/docs/assets/images/uploadFlow.jpeg "Upload process chart"){:height="90%" width="90%"}</a>
 
 ## Digital Object Identifier
-If the researcher submitted a report that already has a DOI, enter it here. This is unlikely.
+Ignore this.  This field is for documents or data that are already assigned a DOI by a publisher.
 
 ## Publication date
-Use the report date unless it was officially published elsewhere (and you added a DOI above). If there is no date on the report, use February 15 and the year following the grant year. For example, if the report is for a 2016 grant and there is no report date, use 2017-02-15.
+Use the report date. If there is no date on the report, use February 15 and the year following the grant year. For example, if the report is for a 2016 grant and there is no report date, use 02-15-2017.
 
 ## Title
-Use the title of the report.
+Use the title of the report. If publishing data seperately, title the data with "Data for [insert report title]"
 
 ## Authors
 Fill in the names in the proper format. The Wrangler should have looked up ORCIDs for each author already so if they are not in the Google sheet, leave blank.
@@ -100,7 +107,7 @@ Paste in what the Wrangler provided if not CC 4.0. The recommended license is Cr
 Ignore unless the Wrangler notes that the work was funded by large grant funding institutions that might be on the available list. For other organizations that funded work, list them under Additional notes above.
 
 ## Related/alternate Identifiers
-Are there other uploads on the repository directly related to this research? Is there a published paper related to this research?
+Are there other uploads on the repository directly related to this research? Is there a published paper related to this research? The Wrangler should have investigated this.  If you have both data and a report, link them together here. It is a little bit of a pain, you must do this for both report and data to make sure someone can find the report from the data and the data from the report.
 
 ## Contributors
 Paste in any information provided by the Wrangler. However, the contributor relationships are very specific. Only add people or institutions that have a direct relationship to the files bing uploaded.
@@ -108,7 +115,7 @@ Paste in any information provided by the Wrangler. However, the contributor rela
 ## References to Thesis
 Unlikely to use these fields.
 
-Use the Thesis field only if the report is actually a thesis. If it has been published elsewhere, has a DOI, and there is no associated dataset, be sure to put the DOI in the Digital Object Identifier field above. If this is the data associated with a published thesis that has a DOI, DO NOT upload a copy of the thesis. Put the thesis DOI in the RElated/alternate Identifier section.
+Use the Thesis field only if the report is actually a thesis. If it has been published elsewhere, has a DOI, and there is no associated dataset, be sure to put the DOI in the Digital Object Identifier field above. If this is the data associated with a published thesis that has a DOI, DO NOT upload a copy of the thesis. Put the thesis DOI in the Related/alternate Identifier section.
 
 ## Subject
 Paste in the name and url provided by the Wrangler.
