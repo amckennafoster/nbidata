@@ -107,8 +107,8 @@ Add the following columns to the dataDictionary:
 File naming convention is the following:
 - Reports: authorlastname-nbi-report-year.pdf   For multiple authors: (author1 last name)-et-al-nbi-report-year.pdf
 	- Example: richardson-nbi-report-2011.pdf   For multiple authors: richardson-et-al-nbi-report-2011.pdf
-- Datasets: Describe the file contents using camalCase
-	-Examples: capturesByDate.csv or pRigidaHeights.csv or allPitfallData.csv or anova.R
+- Datasets: Describe the file contents using camalCase. The more descriptive, the better.
+	- Basic Examples: capturesByDate.csv or pRigidaHeights.csv or allPitfallData.csv or anova.R
 
 When adding the year to a filename, use the year of publication rather than the year of the grant. This will make it easier for people to figure out how to cite it.
 
@@ -166,7 +166,7 @@ The NBI Wrangler submits metadata related to the report and dataset to NBI via t
 Choose the upload type from the dropdown list. If the upload will include both a report and a dataset, use dataset.
 
 #### Title
-Paste in the title from the researcher report, if available. Otherwise, create a descriptive title.  
+Paste in the title from the researcher report, if available. Otherwise, create a descriptive title. If it is only a dataset, begin the title with "Data for" and then include the title of the report or paper associated with the data.  Titles should be descriptive.  
 
 #### Report Date
 If there is a report as part of the upload, use the date of the report.  If it has no date, use February 15 of the year following the grant year. For example, for a report on work done as part of a 2019 grant, the date would be 02-15-2020.  If this is only a data file or code, use today's date.

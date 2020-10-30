@@ -37,6 +37,9 @@ There is a data specific license available called the [Open Data Commons Attribu
 
 For Creative Commons Licenses, use version 4.0 because this allows a better attribution format (read more at the [Digital Curation Centre](http://www.dcc.ac.uk/resources/how-guides/license-research-data))
 
+This [interactive tool](https://ufal.github.io/public-license-selector/) will help you choose a license.
+
+
 ## Controlled Vocabularies
 
 These lists are either specified by Zenodo or created specifically for NBI. To add a term to an NBI controlled vocabulary (Geographic Location, Specific Location, Study Type, or Method) open the Controlled-Vocabulary Google sheet in the NBI Google Drive. You must add the term to each applicable list. For example, here are the steps to add "Lily Pond" to the Specific Location lists:
