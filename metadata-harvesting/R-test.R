@@ -55,14 +55,14 @@ keydf <- metdf %>% unnest(keywords) %>% select(doi, keywords) #This lists the do
 
 #Import a categorized list of keywords:
 keycat = read.csv("controlledVocab.csv")
-
+#Merge with list of keywords so that you can group the keywords
 keywords <- (merge(keycat, keydf, by = 'keywords'))
 
 write.csv(keywords, "keywords.csv")
 write.csv(keywords, "shiny-app/keywords.csv") #save a copy for shiny-app
 
 #To update shiny-app, open app.R and send to R server.
-#Or contunue below to make charts
+#Or continue below to make charts
 
 
 #-------------------------------------------------------------------
@@ -118,7 +118,7 @@ if (dim(filter2)[1] == 0) {     #Check if there is any data to plot
 
 #-------------------------------------------------------------------
 
-#SET UP THE SENCOND CHART- user selects a geography and then sees a chart by group and the number of dois represented
+#SET UP THE SECOND CHART- user selects a geography and then sees a chart by group and the number of dois represented
 
 filter1a <- filter(keywords, 
                   keywords == 'nantucket') %>% subset(select = -c(keywords,type) )
@@ -153,3 +153,6 @@ ggplot(filter2a, aes(fct_infreq(keywords))) + #this fct_infreq sorts the bars ht
   theme_minimal() +
   theme(legend.position="none", plot.title = element_text(face='bold', size=14, hjust=0.5), axis.text.x = element_text(angle = 45, hjust=1)) +
   labs(title = "Research Outputs encompassing (fill in)", x="Geography", y= "Count of Uploads")
+
+#TEST OUT MAKING A TABLE
+#For some reason the stats are not transfered into the df from json?

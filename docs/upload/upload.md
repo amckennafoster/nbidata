@@ -67,8 +67,6 @@ Use the title of the report. If publishing data seperately, title the data with 
 Fill in the names in the proper format. The Wrangler should have looked up ORCIDs for each author already so if they are not in the Google sheet, leave blank.
 
 ## Description
-If the research was funded by NBI, on the first line put "Report submitted in fulfillment of a (Year) Nantucket Biodiversity Initiative grant." The year should be the year of the grant, while the rest of the dates (file name and publication date) should be the date on the report or the date the report was received (default to February 15 of the year following the grant year).
-
 Paste in whatever description the Wrangler provided. You may have to delete a bunch of carriage returns if the description was pasted in from pdf.
 
 If applicable, paste in the file descriptions provided by the Wrangler. This is useful if there are multiple files and a potential user wants to know about the files before downloading them.
@@ -95,7 +93,9 @@ Add the terms from the Google sheet for:
 If there is an "Additional keyword" that should be added to the list that appears in the metadata form that Wranglers use, add it to each appropriate list in the Controlled-Vocabulary Google sheet in the Google Drive. Follow the specific directions in the [Specifications & Technical Details](https://nantucketbiodiversity.github.io/NBIdigitalrepo/specs/) section.
 
 ## Additional notes
-Add anything relevant. This is a good spot to list other funding agencies that are not listed in Zenodo's list (see Grants).  List funders using a format similar to: "This work was funded by Grant Institution 1 and Grant Institution 2."
+If the research was funded by NBI, put "Report submitted in fulfillment of a (Year) Nantucket Biodiversity Initiative grant." The year should be the year of the grant, while the rest of the dates (file name and publication date) should be the date on the report or the date the report was received (default to February 15 of the year following the grant year).
+
+Add any other relevant funding that are not in the Zenodo list (see Grants).  List funders using a format similar to: "This work was funded by Grant Institution 1 and Grant Institution 2."
 
 ## Access right
 Leave as Open Access. Do not upload anything that would fall under the other categories unless the NBI Committee decides to start doing this.
