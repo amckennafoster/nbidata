@@ -1,1 +1,510 @@
-{"person": {"id": "https://orcid.org/0000-0001-7641-6588", "name": "Andrew Mckenna-Foster", "datasets": {"totalCount": 23, "nodes": [{"id": "https://doi.org/10.6084/m9.figshare.7732814", "relatedIdentifiers": []}, {"id": "https://doi.org/10.6084/m9.figshare.7732814.v1", "relatedIdentifiers": [{"relatedIdentifier": "10.6084/m9.figshare.7732814"}]}, {"id": "https://doi.org/10.6084/m9.figshare.7732814.v2", "relatedIdentifiers": [{"relatedIdentifier": "10.6084/m9.figshare.7732814"}]}, {"id": "https://doi.org/10.5281/zenodo.3745607", "relatedIdentifiers": [{"relatedIdentifier": "10.1636/p10-15.1"}, {"relatedIdentifier": "10.5281/zenodo.3745606"}, {"relatedIdentifier": "https://zenodo.org/communities/nantucketbiodiversity"}]}, {"id": "https://doi.org/10.5281/zenodo.3745606", "relatedIdentifiers": [{"relatedIdentifier": "10.1636/p10-15.1"}, {"relatedIdentifier": "10.5281/zenodo.3745607"}, {"relatedIdentifier": "https://zenodo.org/communities/nantucketbiodiversity"}]}, {"id": "https://doi.org/10.5281/zenodo.3757466", "relatedIdentifiers": [{"relatedIdentifier": "10.1656/045.026.0106"}, {"relatedIdentifier": "10.5281/zenodo.3757465"}, {"relatedIdentifier": "https://zenodo.org/communities/nantucketbiodiversity"}]}, {"id": "https://doi.org/10.5281/zenodo.3757465", "relatedIdentifiers": [{"relatedIdentifier": "10.1656/045.026.0106"}, {"relatedIdentifier": "10.5281/zenodo.3757466"}, {"relatedIdentifier": "https://zenodo.org/communities/nantucketbiodiversity"}]}, {"id": "https://doi.org/10.5281/zenodo.3802029", "relatedIdentifiers": [{"relatedIdentifier": "10.5281/zenodo.3802028"}, {"relatedIdentifier": "https://zenodo.org/communities/nantucketbiodiversity"}]}, {"id": "https://doi.org/10.5281/zenodo.3802028", "relatedIdentifiers": [{"relatedIdentifier": "10.5281/zenodo.3802029"}, {"relatedIdentifier": "https://zenodo.org/communities/nantucketbiodiversity"}]}, {"id": "https://doi.org/10.5281/zenodo.3841216", "relatedIdentifiers": [{"relatedIdentifier": "10.13140/rg.2.2.20070.98884"}, {"relatedIdentifier": "10.5281/zenodo.3841215"}, {"relatedIdentifier": "https://zenodo.org/communities/nantucketbiodiversity"}]}, {"id": "https://doi.org/10.5281/zenodo.3841215", "relatedIdentifiers": [{"relatedIdentifier": "10.13140/rg.2.2.20070.98884"}, {"relatedIdentifier": "10.5281/zenodo.3841216"}, {"relatedIdentifier": "https://zenodo.org/communities/nantucketbiodiversity"}]}, {"id": "https://doi.org/10.5281/zenodo.3841617", "relatedIdentifiers": [{"relatedIdentifier": "10.5281/zenodo.3841216"}, {"relatedIdentifier": "10.5281/zenodo.3841616"}, {"relatedIdentifier": "https://zenodo.org/communities/nantucketbiodiversity"}]}, {"id": "https://doi.org/10.5281/zenodo.3841616", "relatedIdentifiers": [{"relatedIdentifier": "10.5281/zenodo.3841216"}, {"relatedIdentifier": "10.5281/zenodo.3841617"}, {"relatedIdentifier": "https://zenodo.org/communities/nantucketbiodiversity"}]}, {"id": "https://doi.org/10.5281/zenodo.3942563", "relatedIdentifiers": [{"relatedIdentifier": "10.5281/zenodo.3937705"}, {"relatedIdentifier": "10.5281/zenodo.3942562"}, {"relatedIdentifier": "https://zenodo.org/communities/nantucketbiodiversity"}]}, {"id": "https://doi.org/10.5281/zenodo.3942562", "relatedIdentifiers": [{"relatedIdentifier": "10.5281/zenodo.3937705"}, {"relatedIdentifier": "10.5281/zenodo.3942563"}, {"relatedIdentifier": "https://zenodo.org/communities/nantucketbiodiversity"}]}, {"id": "https://doi.org/10.5281/zenodo.3942568", "relatedIdentifiers": [{"relatedIdentifier": "10.5281/zenodo.3900552"}, {"relatedIdentifier": "10.5281/zenodo.3942567"}, {"relatedIdentifier": "https://zenodo.org/communities/nantucketbiodiversity"}]}, {"id": "https://doi.org/10.5281/zenodo.3942567", "relatedIdentifiers": [{"relatedIdentifier": "10.5281/zenodo.3900552"}, {"relatedIdentifier": "10.5281/zenodo.3942568"}, {"relatedIdentifier": "https://zenodo.org/communities/nantucketbiodiversity"}]}, {"id": "https://doi.org/10.5281/zenodo.3942586", "relatedIdentifiers": [{"relatedIdentifier": "10.5281/zenodo.3900568"}, {"relatedIdentifier": "10.5281/zenodo.3942585"}, {"relatedIdentifier": "https://zenodo.org/communities/nantucketbiodiversity"}]}, {"id": "https://doi.org/10.5281/zenodo.3942585", "relatedIdentifiers": [{"relatedIdentifier": "10.5281/zenodo.3900568"}, {"relatedIdentifier": "10.5281/zenodo.3942586"}, {"relatedIdentifier": "https://zenodo.org/communities/nantucketbiodiversity"}]}, {"id": "https://doi.org/10.5281/zenodo.3955323", "relatedIdentifiers": [{"relatedIdentifier": "10.5281/zenodo.3900559"}, {"relatedIdentifier": "10.5281/zenodo.3841215"}, {"relatedIdentifier": "10.5281/zenodo.3955322"}, {"relatedIdentifier": "https://zenodo.org/communities/nantucketbiodiversity"}]}, {"id": "https://doi.org/10.5281/zenodo.3955322", "relatedIdentifiers": [{"relatedIdentifier": "10.5281/zenodo.3900559"}, {"relatedIdentifier": "10.5281/zenodo.3841215"}, {"relatedIdentifier": "10.5281/zenodo.3955323"}, {"relatedIdentifier": "https://zenodo.org/communities/nantucketbiodiversity"}]}, {"id": "https://doi.org/10.5281/zenodo.4050579", "relatedIdentifiers": [{"relatedIdentifier": "10.5281/zenodo.4050578"}, {"relatedIdentifier": "https://zenodo.org/communities/nantucketbiodiversity"}]}, {"id": "https://doi.org/10.5281/zenodo.4050578", "relatedIdentifiers": [{"relatedIdentifier": "10.5281/zenodo.4050579"}, {"relatedIdentifier": "https://zenodo.org/communities/nantucketbiodiversity"}]}]}, "publications": {"totalCount": 16, "nodes": [{"id": "https://doi.org/10.5281/zenodo.3782785", "relatedIdentifiers": [{"relatedIdentifier": "10.5281/zenodo.3782784"}, {"relatedIdentifier": "https://zenodo.org/communities/nantucketbiodiversity"}]}, {"id": "https://doi.org/10.5281/zenodo.3782784", "relatedIdentifiers": [{"relatedIdentifier": "10.5281/zenodo.3782785"}, {"relatedIdentifier": "https://zenodo.org/communities/nantucketbiodiversity"}]}, {"id": "https://doi.org/10.5281/zenodo.3823409", "relatedIdentifiers": [{"relatedIdentifier": "10.5281/zenodo.3823408"}, {"relatedIdentifier": "https://zenodo.org/communities/csvconfv5"}]}, {"id": "https://doi.org/10.5281/zenodo.3823408", "relatedIdentifiers": [{"relatedIdentifier": "10.5281/zenodo.3823409"}, {"relatedIdentifier": "https://zenodo.org/communities/csvconfv5"}]}, {"id": "https://doi.org/10.5281/zenodo.3900552", "relatedIdentifiers": [{"relatedIdentifier": "10.5281/zenodo.3900551"}, {"relatedIdentifier": "https://zenodo.org/communities/nantucketbiodiversity"}]}, {"id": "https://doi.org/10.5281/zenodo.3900551", "relatedIdentifiers": [{"relatedIdentifier": "10.5281/zenodo.3900552"}, {"relatedIdentifier": "https://zenodo.org/communities/nantucketbiodiversity"}]}, {"id": "https://doi.org/10.5281/zenodo.3900560", "relatedIdentifiers": [{"relatedIdentifier": "10.5281/zenodo.3900552"}, {"relatedIdentifier": "10.5281/zenodo.3900559"}, {"relatedIdentifier": "https://zenodo.org/communities/nantucketbiodiversity"}]}, {"id": "https://doi.org/10.5281/zenodo.3900559", "relatedIdentifiers": [{"relatedIdentifier": "10.5281/zenodo.3900552"}, {"relatedIdentifier": "10.5281/zenodo.3900560"}, {"relatedIdentifier": "https://zenodo.org/communities/nantucketbiodiversity"}]}, {"id": "https://doi.org/10.5281/zenodo.3900568", "relatedIdentifiers": [{"relatedIdentifier": "10.5281/zenodo.3900552"}, {"relatedIdentifier": "10.5281/zenodo.3900567"}, {"relatedIdentifier": "https://zenodo.org/communities/nantucketbiodiversity"}]}, {"id": "https://doi.org/10.5281/zenodo.3900567", "relatedIdentifiers": [{"relatedIdentifier": "10.5281/zenodo.3900552"}, {"relatedIdentifier": "10.5281/zenodo.3900568"}, {"relatedIdentifier": "https://zenodo.org/communities/nantucketbiodiversity"}]}, {"id": "https://doi.org/10.5281/zenodo.3925854", "relatedIdentifiers": [{"relatedIdentifier": "10.5281/zenodo.3745607"}, {"relatedIdentifier": "10.5281/zenodo.3925853"}, {"relatedIdentifier": "https://zenodo.org/communities/nantucketbiodiversity"}]}, {"id": "https://doi.org/10.5281/zenodo.3925853", "relatedIdentifiers": [{"relatedIdentifier": "10.5281/zenodo.3745607"}, {"relatedIdentifier": "10.5281/zenodo.3925854"}, {"relatedIdentifier": "https://zenodo.org/communities/nantucketbiodiversity"}]}, {"id": "https://doi.org/10.5281/zenodo.3925865", "relatedIdentifiers": [{"relatedIdentifier": "10.6084/m9.figshare.7732814.v2"}, {"relatedIdentifier": "10.5281/zenodo.3925864"}, {"relatedIdentifier": "https://zenodo.org/communities/nantucketbiodiversity"}]}, {"id": "https://doi.org/10.5281/zenodo.3925864", "relatedIdentifiers": [{"relatedIdentifier": "10.6084/m9.figshare.7732814.v2"}, {"relatedIdentifier": "10.5281/zenodo.3925865"}, {"relatedIdentifier": "https://zenodo.org/communities/nantucketbiodiversity"}]}, {"id": "https://doi.org/10.5281/zenodo.3937705", "relatedIdentifiers": [{"relatedIdentifier": "10.5281/zenodo.3937704"}, {"relatedIdentifier": "https://zenodo.org/communities/nantucketbiodiversity"}]}, {"id": "https://doi.org/10.5281/zenodo.3937704", "relatedIdentifiers": [{"relatedIdentifier": "10.5281/zenodo.3937705"}, {"relatedIdentifier": "https://zenodo.org/communities/nantucketbiodiversity"}]}]}}}
+{
+	"person": {
+		"id": "https://orcid.org/0000-0001-7641-6588",
+		"name": "Andrew Mckenna-Foster",
+		"datasets": {
+			"totalCount": 23,
+			"nodes": [
+				{
+					"id": "https://doi.org/10.6084/m9.figshare.7732814",
+					"relatedIdentifiers": []
+				},
+				{
+					"id": "https://doi.org/10.6084/m9.figshare.7732814.v1",
+					"relatedIdentifiers": [
+						{
+							"relatedIdentifier": "10.6084/m9.figshare.7732814"
+						}
+					]
+				},
+				{
+					"id": "https://doi.org/10.6084/m9.figshare.7732814.v2",
+					"relatedIdentifiers": [
+						{
+							"relatedIdentifier": "10.6084/m9.figshare.7732814"
+						}
+					]
+				},
+				{
+					"id": "https://doi.org/10.5281/zenodo.3745607",
+					"relatedIdentifiers": [
+						{
+							"relatedIdentifier": "10.1636/p10-15.1"
+						},
+						{
+							"relatedIdentifier": "10.5281/zenodo.3745606"
+						},
+						{
+							"relatedIdentifier": "https://zenodo.org/communities/nantucketbiodiversity"
+						}
+					]
+				},
+				{
+					"id": "https://doi.org/10.5281/zenodo.3745606",
+					"relatedIdentifiers": [
+						{
+							"relatedIdentifier": "10.1636/p10-15.1"
+						},
+						{
+							"relatedIdentifier": "10.5281/zenodo.3745607"
+						},
+						{
+							"relatedIdentifier": "https://zenodo.org/communities/nantucketbiodiversity"
+						}
+					]
+				},
+				{
+					"id": "https://doi.org/10.5281/zenodo.3757466",
+					"relatedIdentifiers": [
+						{
+							"relatedIdentifier": "10.1656/045.026.0106"
+						},
+						{
+							"relatedIdentifier": "10.5281/zenodo.3757465"
+						},
+						{
+							"relatedIdentifier": "https://zenodo.org/communities/nantucketbiodiversity"
+						}
+					]
+				},
+				{
+					"id": "https://doi.org/10.5281/zenodo.3757465",
+					"relatedIdentifiers": [
+						{
+							"relatedIdentifier": "10.1656/045.026.0106"
+						},
+						{
+							"relatedIdentifier": "10.5281/zenodo.3757466"
+						},
+						{
+							"relatedIdentifier": "https://zenodo.org/communities/nantucketbiodiversity"
+						}
+					]
+				},
+				{
+					"id": "https://doi.org/10.5281/zenodo.3802029",
+					"relatedIdentifiers": [
+						{
+							"relatedIdentifier": "10.5281/zenodo.3802028"
+						},
+						{
+							"relatedIdentifier": "https://zenodo.org/communities/nantucketbiodiversity"
+						}
+					]
+				},
+				{
+					"id": "https://doi.org/10.5281/zenodo.3802028",
+					"relatedIdentifiers": [
+						{
+							"relatedIdentifier": "10.5281/zenodo.3802029"
+						},
+						{
+							"relatedIdentifier": "https://zenodo.org/communities/nantucketbiodiversity"
+						}
+					]
+				},
+				{
+					"id": "https://doi.org/10.5281/zenodo.3841216",
+					"relatedIdentifiers": [
+						{
+							"relatedIdentifier": "10.13140/rg.2.2.20070.98884"
+						},
+						{
+							"relatedIdentifier": "10.5281/zenodo.3841215"
+						},
+						{
+							"relatedIdentifier": "https://zenodo.org/communities/nantucketbiodiversity"
+						}
+					]
+				},
+				{
+					"id": "https://doi.org/10.5281/zenodo.3841215",
+					"relatedIdentifiers": [
+						{
+							"relatedIdentifier": "10.13140/rg.2.2.20070.98884"
+						},
+						{
+							"relatedIdentifier": "10.5281/zenodo.3841216"
+						},
+						{
+							"relatedIdentifier": "https://zenodo.org/communities/nantucketbiodiversity"
+						}
+					]
+				},
+				{
+					"id": "https://doi.org/10.5281/zenodo.3841617",
+					"relatedIdentifiers": [
+						{
+							"relatedIdentifier": "10.5281/zenodo.3841216"
+						},
+						{
+							"relatedIdentifier": "10.5281/zenodo.3841616"
+						},
+						{
+							"relatedIdentifier": "https://zenodo.org/communities/nantucketbiodiversity"
+						}
+					]
+				},
+				{
+					"id": "https://doi.org/10.5281/zenodo.3841616",
+					"relatedIdentifiers": [
+						{
+							"relatedIdentifier": "10.5281/zenodo.3841216"
+						},
+						{
+							"relatedIdentifier": "10.5281/zenodo.3841617"
+						},
+						{
+							"relatedIdentifier": "https://zenodo.org/communities/nantucketbiodiversity"
+						}
+					]
+				},
+				{
+					"id": "https://doi.org/10.5281/zenodo.3942563",
+					"relatedIdentifiers": [
+						{
+							"relatedIdentifier": "10.5281/zenodo.3937705"
+						},
+						{
+							"relatedIdentifier": "10.5281/zenodo.3942562"
+						},
+						{
+							"relatedIdentifier": "https://zenodo.org/communities/nantucketbiodiversity"
+						}
+					]
+				},
+				{
+					"id": "https://doi.org/10.5281/zenodo.3942562",
+					"relatedIdentifiers": [
+						{
+							"relatedIdentifier": "10.5281/zenodo.3937705"
+						},
+						{
+							"relatedIdentifier": "10.5281/zenodo.3942563"
+						},
+						{
+							"relatedIdentifier": "https://zenodo.org/communities/nantucketbiodiversity"
+						}
+					]
+				},
+				{
+					"id": "https://doi.org/10.5281/zenodo.3942568",
+					"relatedIdentifiers": [
+						{
+							"relatedIdentifier": "10.5281/zenodo.3900552"
+						},
+						{
+							"relatedIdentifier": "10.5281/zenodo.3942567"
+						},
+						{
+							"relatedIdentifier": "https://zenodo.org/communities/nantucketbiodiversity"
+						}
+					]
+				},
+				{
+					"id": "https://doi.org/10.5281/zenodo.3942567",
+					"relatedIdentifiers": [
+						{
+							"relatedIdentifier": "10.5281/zenodo.3900552"
+						},
+						{
+							"relatedIdentifier": "10.5281/zenodo.3942568"
+						},
+						{
+							"relatedIdentifier": "https://zenodo.org/communities/nantucketbiodiversity"
+						}
+					]
+				},
+				{
+					"id": "https://doi.org/10.5281/zenodo.3942586",
+					"relatedIdentifiers": [
+						{
+							"relatedIdentifier": "10.5281/zenodo.3900568"
+						},
+						{
+							"relatedIdentifier": "10.5281/zenodo.3942585"
+						},
+						{
+							"relatedIdentifier": "https://zenodo.org/communities/nantucketbiodiversity"
+						}
+					]
+				},
+				{
+					"id": "https://doi.org/10.5281/zenodo.3942585",
+					"relatedIdentifiers": [
+						{
+							"relatedIdentifier": "10.5281/zenodo.3900568"
+						},
+						{
+							"relatedIdentifier": "10.5281/zenodo.3942586"
+						},
+						{
+							"relatedIdentifier": "https://zenodo.org/communities/nantucketbiodiversity"
+						}
+					]
+				},
+				{
+					"id": "https://doi.org/10.5281/zenodo.3955323",
+					"relatedIdentifiers": [
+						{
+							"relatedIdentifier": "10.5281/zenodo.3900559"
+						},
+						{
+							"relatedIdentifier": "10.5281/zenodo.3841215"
+						},
+						{
+							"relatedIdentifier": "10.5281/zenodo.3955322"
+						},
+						{
+							"relatedIdentifier": "https://zenodo.org/communities/nantucketbiodiversity"
+						}
+					]
+				},
+				{
+					"id": "https://doi.org/10.5281/zenodo.3955322",
+					"relatedIdentifiers": [
+						{
+							"relatedIdentifier": "10.5281/zenodo.3900559"
+						},
+						{
+							"relatedIdentifier": "10.5281/zenodo.3841215"
+						},
+						{
+							"relatedIdentifier": "10.5281/zenodo.3955323"
+						},
+						{
+							"relatedIdentifier": "https://zenodo.org/communities/nantucketbiodiversity"
+						}
+					]
+				},
+				{
+					"id": "https://doi.org/10.5281/zenodo.4050579",
+					"relatedIdentifiers": [
+						{
+							"relatedIdentifier": "10.5281/zenodo.4050578"
+						},
+						{
+							"relatedIdentifier": "https://zenodo.org/communities/nantucketbiodiversity"
+						}
+					]
+				},
+				{
+					"id": "https://doi.org/10.5281/zenodo.4050578",
+					"relatedIdentifiers": [
+						{
+							"relatedIdentifier": "10.5281/zenodo.4050579"
+						},
+						{
+							"relatedIdentifier": "https://zenodo.org/communities/nantucketbiodiversity"
+						}
+					]
+				}
+			]
+		},
+		"publications": {
+			"totalCount": 16,
+			"nodes": [
+				{
+					"id": "https://doi.org/10.5281/zenodo.3782785",
+					"relatedIdentifiers": [
+						{
+							"relatedIdentifier": "10.5281/zenodo.3782784"
+						},
+						{
+							"relatedIdentifier": "https://zenodo.org/communities/nantucketbiodiversity"
+						}
+					]
+				},
+				{
+					"id": "https://doi.org/10.5281/zenodo.3782784",
+					"relatedIdentifiers": [
+						{
+							"relatedIdentifier": "10.5281/zenodo.3782785"
+						},
+						{
+							"relatedIdentifier": "https://zenodo.org/communities/nantucketbiodiversity"
+						}
+					]
+				},
+				{
+					"id": "https://doi.org/10.5281/zenodo.3823409",
+					"relatedIdentifiers": [
+						{
+							"relatedIdentifier": "10.5281/zenodo.3823408"
+						},
+						{
+							"relatedIdentifier": "https://zenodo.org/communities/csvconfv5"
+						}
+					]
+				},
+				{
+					"id": "https://doi.org/10.5281/zenodo.3823408",
+					"relatedIdentifiers": [
+						{
+							"relatedIdentifier": "10.5281/zenodo.3823409"
+						},
+						{
+							"relatedIdentifier": "https://zenodo.org/communities/csvconfv5"
+						}
+					]
+				},
+				{
+					"id": "https://doi.org/10.5281/zenodo.3900552",
+					"relatedIdentifiers": [
+						{
+							"relatedIdentifier": "10.5281/zenodo.3900551"
+						},
+						{
+							"relatedIdentifier": "https://zenodo.org/communities/nantucketbiodiversity"
+						}
+					]
+				},
+				{
+					"id": "https://doi.org/10.5281/zenodo.3900551",
+					"relatedIdentifiers": [
+						{
+							"relatedIdentifier": "10.5281/zenodo.3900552"
+						},
+						{
+							"relatedIdentifier": "https://zenodo.org/communities/nantucketbiodiversity"
+						}
+					]
+				},
+				{
+					"id": "https://doi.org/10.5281/zenodo.3900560",
+					"relatedIdentifiers": [
+						{
+							"relatedIdentifier": "10.5281/zenodo.3900552"
+						},
+						{
+							"relatedIdentifier": "10.5281/zenodo.3900559"
+						},
+						{
+							"relatedIdentifier": "https://zenodo.org/communities/nantucketbiodiversity"
+						}
+					]
+				},
+				{
+					"id": "https://doi.org/10.5281/zenodo.3900559",
+					"relatedIdentifiers": [
+						{
+							"relatedIdentifier": "10.5281/zenodo.3900552"
+						},
+						{
+							"relatedIdentifier": "10.5281/zenodo.3900560"
+						},
+						{
+							"relatedIdentifier": "https://zenodo.org/communities/nantucketbiodiversity"
+						}
+					]
+				},
+				{
+					"id": "https://doi.org/10.5281/zenodo.3900568",
+					"relatedIdentifiers": [
+						{
+							"relatedIdentifier": "10.5281/zenodo.3900552"
+						},
+						{
+							"relatedIdentifier": "10.5281/zenodo.3900567"
+						},
+						{
+							"relatedIdentifier": "https://zenodo.org/communities/nantucketbiodiversity"
+						}
+					]
+				},
+				{
+					"id": "https://doi.org/10.5281/zenodo.3900567",
+					"relatedIdentifiers": [
+						{
+							"relatedIdentifier": "10.5281/zenodo.3900552"
+						},
+						{
+							"relatedIdentifier": "10.5281/zenodo.3900568"
+						},
+						{
+							"relatedIdentifier": "https://zenodo.org/communities/nantucketbiodiversity"
+						}
+					]
+				},
+				{
+					"id": "https://doi.org/10.5281/zenodo.3925854",
+					"relatedIdentifiers": [
+						{
+							"relatedIdentifier": "10.5281/zenodo.3745607"
+						},
+						{
+							"relatedIdentifier": "10.5281/zenodo.3925853"
+						},
+						{
+							"relatedIdentifier": "https://zenodo.org/communities/nantucketbiodiversity"
+						}
+					]
+				},
+				{
+					"id": "https://doi.org/10.5281/zenodo.3925853",
+					"relatedIdentifiers": [
+						{
+							"relatedIdentifier": "10.5281/zenodo.3745607"
+						},
+						{
+							"relatedIdentifier": "10.5281/zenodo.3925854"
+						},
+						{
+							"relatedIdentifier": "https://zenodo.org/communities/nantucketbiodiversity"
+						}
+					]
+				},
+				{
+					"id": "https://doi.org/10.5281/zenodo.3925865",
+					"relatedIdentifiers": [
+						{
+							"relatedIdentifier": "10.6084/m9.figshare.7732814.v2"
+						},
+						{
+							"relatedIdentifier": "10.5281/zenodo.3925864"
+						},
+						{
+							"relatedIdentifier": "https://zenodo.org/communities/nantucketbiodiversity"
+						}
+					]
+				},
+				{
+					"id": "https://doi.org/10.5281/zenodo.3925864",
+					"relatedIdentifiers": [
+						{
+							"relatedIdentifier": "10.6084/m9.figshare.7732814.v2"
+						},
+						{
+							"relatedIdentifier": "10.5281/zenodo.3925865"
+						},
+						{
+							"relatedIdentifier": "https://zenodo.org/communities/nantucketbiodiversity"
+						}
+					]
+				},
+				{
+					"id": "https://doi.org/10.5281/zenodo.3937705",
+					"relatedIdentifiers": [
+						{
+							"relatedIdentifier": "10.5281/zenodo.3937704"
+						},
+						{
+							"relatedIdentifier": "https://zenodo.org/communities/nantucketbiodiversity"
+						}
+					]
+				},
+				{
+					"id": "https://doi.org/10.5281/zenodo.3937704",
+					"relatedIdentifiers": [
+						{
+							"relatedIdentifier": "10.5281/zenodo.3937705"
+						},
+						{
+							"relatedIdentifier": "https://zenodo.org/communities/nantucketbiodiversity"
+						}
+					]
+				}
+			]
+		}
+	}
+}

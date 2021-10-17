@@ -7,9 +7,16 @@ layout: curators
 
 ## Licenses
 
-There are many license options out there and a nice review is [here](http://www.dcc.ac.uk/resources/how-guides/license-research-data) (scroll to the Standard License section). Another repository, figshare, also has a [nice summary](https://knowledge.figshare.com/articles/item/what-is-the-most-appropriate-licence-for-my-data). The Creative Commons Attribution (CC BY) (version 4.0) license is recommended for the NBI Digital Repository. There are six main Creative Commons licenses, each with various restrictions, and most **do not** meet [Open Access](https://en.wikipedia.org/wiki/Open_access) requirements:
+There are many license options out there and a nice review is [here](http://www.dcc.ac.uk/resources/how-guides/license-research-data) (scroll to the Standard License section). Another repository, figshare, also has a [nice summary](https://knowledge.figshare.com/articles/item/what-is-the-most-appropriate-licence-for-my-data). An important consideration when applying a license is to balance the desire/need to restrict reuse rights with the need to make the work reusable far in the future. This is especially true for datasets. Data may need to be aggregated with other datasets and if the licenses is too restrictive, this becomes a monumental task (e.g. if aggregated datasets all have different licenses, there may be no way to easily license the aggregated dataset). 
 
-- [Attribution (CC BY)](https://creativecommons.org/licenses/by/4.0/) (Recommended for the NBI Digital Repository)
+We suggest two licenses for the NBI Digital Repository:
+
+- The [Creative Commons Attribution (CC BY)](https://creativecommons.org/licenses/by/4.0/) (version 4.0) license is recommended for reports, posters, other documents, and, when necessary, datasets.
+- The [Creative Commons Zero International (CC0)](https://creativecommons.org/publicdomain/zero/1.0/) license is recommended for datasets, when possible. This is the least restrictive license and allows any use, even without attribution. It is standard practice in scholarly research to cite sources, so the idea is that attribution is not explicitly needed in the license and this ensures maximal reuse potential. 
+
+There are six main Creative Commons licenses, outside of the CC0 license, each with various restrictions, and most **do not** meet [Open Access](https://en.wikipedia.org/wiki/Open_access) requirements:
+
+- Attribution (CC BY)
 - Attribution Share Alike (CC BY-SA)
 - Attribution No Derivatives (CC BY-ND)
 - Attribution Non-Commercial (CC BY-NC)
