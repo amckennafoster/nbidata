@@ -59,7 +59,7 @@ Here are some examples in the current repository:
 
 The repository is hosted on [Zenodo](https://about.zenodo.org). Zenodo was developed and is maintained by CERN, the organization that runs the massive particle accelerator in Europe. CERN developed a digital repository for the huge amounts of data produced by the accelerator and opened the repository to all scientists. You can read the [repository policies here](https://about.zenodo.org/policies/).
 
-The [NBI Repository](https://zenodo.org/communities/nantucketbiodiversity/) is a Community (a organized set of uploaded files) on Zenodo.
+The [NBI Repository](https://zenodo.org/communities/nantucketbiodiversity/) is a Community (an organized set of uploaded files) on Zenodo.
 
 Zenodo is free and open source.  The source code is on Github (as is all the <a href="{{ site.github.repository_url }}">supporting documentation</a> for the NBI Repository) 
 

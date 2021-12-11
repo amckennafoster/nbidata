@@ -54,7 +54,7 @@ These lists are either specified by Zenodo or created specifically for NBI. To a
 2. Highlight the Specific Location1 terms and sort alphabetically
 3. Copy and Paste that full list into each of the other five Specific Location columns.
 4. Add any other terms to other columns as needed.
-5. Scroll to the right and hit the button that "Update Form" (This will take up to a minute so be patient)
+5. Scroll to the right and hit the button that says "Update Form" (This will take up to a minute so be patient)
 
 The last step puts all your updates into the Metadata Form dropdowns.
 
